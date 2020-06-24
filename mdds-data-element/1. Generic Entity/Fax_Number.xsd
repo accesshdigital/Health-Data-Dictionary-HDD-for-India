@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+<xs:element name="Fax_Number">
+<!-- MDDS code id (05.001.0006)-->
+<xs:simpleType>
+
+<xs:restriction base= "xs:varchar">
+<xs:maxLength value="16"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
+
+
+
+

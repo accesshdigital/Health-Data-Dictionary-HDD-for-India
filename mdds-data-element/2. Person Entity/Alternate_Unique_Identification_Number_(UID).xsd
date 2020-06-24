@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Alternate_Unique_Identification_Number_(UID)">
+<!-- MDDS code id (05.002.0002)-->
+<xs:simpleType name="pan_card">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="10"/>
+           <xs:pattern value="^[A-Z]{5}[0-9]{4}[A-Z]{1}$" />
+           </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="passport">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="8"/>
+           <xs:pattern value="^[A-Z]{1}[0-9]{7}$" />
+           </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="voter_id">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="18"/>
+           <xs:pattern value="^[A-Z]{3}[0-9]{15}$" />
+           </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="other">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="18"/>
+          </xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

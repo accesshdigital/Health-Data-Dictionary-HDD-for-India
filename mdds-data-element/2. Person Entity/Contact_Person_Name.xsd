@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Contact_Person_Name">
+<!-- MDDS code id (05.002.0011)-->
+<xs:simpleType name="Short_Name_in_English">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="30"/>
+           </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Full_Name_in_English">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="99"/>
+           </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Short_Name_in_Recognized_Official_Language">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="30"/>
+           </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Full_Name_in_Recognized_Official_Language">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="99"/>
+          </xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
