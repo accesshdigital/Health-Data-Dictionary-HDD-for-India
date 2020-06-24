@@ -50,4 +50,17 @@ The standard must select the most appropriate keyword as the representation of t
 
 ## CODE DIRECTORIES
 
-Code directories are the master data for the Country. When there are more than 10 value sets for an entity, code directories have been created.  The code directories contain the clean version of data reference code or value set relevant for use in Indian healthcare (provider and payer domain). All information systems will maintain master tables populated with data sets published as code directories. Again, for such data elements, the values and format are defined in advance and need to be mandatorily used uniformly within/across domain applications.
+CODE DIRECTORIES
+Code directories are the standard value set defined by the MDDS committee that is recommended to be used for interoperability. 
+In simple words, code directories are set of code datasets that are bounded to be used against a particular key-value or data elements. 
+
+For Example- Value set of Health Service Provider Role Code directory 
+
+Till now MDDS was available in pdf format on but for the ease of use for the product and vendor community, we have made the 1000+ data elements and 144 code directories available in various formats like- CSV, JSON, ODS, XSD and XML. 
+This will facilitate the following: 
+Creation of Metadata Registry/Terminology Server
+Use of XML for data transformation and validation of schemas
+Publishing Master tables and Value sets
+Creation of Restful API using master tables and value sets
+Please note we have converted the MDDS- Health: Version 1 (http://egovstandards.gov.in/sites/default/files/Part%20I%20MDDS%20Overview%20Report_0.pdf) that was published by Department of Health & Family Welfare, Ministry of Health & Family Welfare (MoHFW), Government of India.  Whenever the ministry updates any element or code directory and releases a new version of the same, it can be updated by the custodian or managing authority. 
+
