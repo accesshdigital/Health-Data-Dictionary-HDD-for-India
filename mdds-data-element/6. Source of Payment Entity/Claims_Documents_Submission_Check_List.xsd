@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+<xs:element name="Claims_Documents_Submission_Check_List">
+<!-- MDDS code id (05.006.0033)-->
+<xs:simpleType>
+
+<xs:restriction base= "xs:integer">
+<xs:maxLength value="2"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
+
+
+
+
