@@ -56,6 +56,24 @@ In simple words, code directories are set of code datasets that are bounded to b
 
 For Example- Value set of Health Service Provider Role Code directory 
 
+
+|  Health Service Provider Role Code | Health Service Provider Role Name  |  
+|----|----------------------|
+| 01 | Primary Care Provider|
+| 02 |Referring Provider|
+| 03 |Treating Provider|
+| 04 | Attending Provider|
+| 05 |Admitting Provider|
+| 06 |Consulting Provider|
+| 07 |Ordering Provider|
+| 08 |Dispensing Provider|
+| 09 |Discharge Provider|
+| 10 |Secondary Care Provider|
+| 11 |Tertiary Care Provider|
+| 12 |Transfusion Provider|
+| 13 |Others
+
+
 Till now MDDS was available in pdf format on but for the ease of use for the product and vendor community, we have made the 1000+ data elements and 144 code directories available in various formats like- CSV, JSON, ODS, XSD and XML. 
 This will facilitate the following: 
 Creation of Metadata Registry/Terminology Server
