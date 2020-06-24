@@ -1,0 +1,48 @@
+{
+		"nodes": [
+			{
+				"Pain_Character_Code": "1",
+				"Pain__Character__Name": "Ache"
+			},
+			{
+				"Pain_Character_Code": "2",
+				"Pain__Character__Name": "Dull"
+			},
+			{
+				"Pain_Character_Code": "3",
+				"Pain__Character__Name": "Sharp"
+			},
+			{
+				"Pain_Character_Code": "4",
+				"Pain__Character__Name": "Stabbing"
+			},
+			{
+				"Pain_Character_Code": "5",
+				"Pain__Character__Name": "Throbbing"
+			},
+			{
+				"Pain_Character_Code": "6",
+				"Pain__Character__Name": "Cramping"
+			},
+			{
+				"Pain_Character_Code": "7",
+				"Pain__Character__Name": "Burning"
+			},
+			{
+				"Pain_Character_Code": "8",
+				"Pain__Character__Name": "Shooting"
+			},
+			{
+				"Pain_Character_Code": "9",
+				"Pain__Character__Name": "Pressure"
+			},
+			{
+				"Pain_Character_Code": "10",
+				"Pain__Character__Name": "Radiating"
+			},
+			{
+				"Pain_Character_Code": "11",
+				"Pain__Character__Name": "Other"
+			}
+		]
+	}

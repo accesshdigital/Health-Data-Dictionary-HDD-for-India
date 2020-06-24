@@ -1,0 +1,24 @@
+{
+		"nodes": [
+			{
+				"Status_Code": "1",
+				"Status_Description": "Active"
+			},
+			{
+				"Status_Code": "2",
+				"Status_Description": "Inactive"
+			},
+			{
+				"Status_Code": "3",
+				"Status_Description": "Resolved"
+			},
+			{
+				"Status_Code": "4",
+				"Status_Description": "Relapsed"
+			},
+			{
+				"Status_Code": "5",
+				"Status_Description": "Remitted"
+			}
+		]
+	}

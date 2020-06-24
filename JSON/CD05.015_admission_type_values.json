@@ -1,0 +1,20 @@
+{
+		"nodes": [
+			{
+				"Admission_Type_Code": "1",
+				"Admission_Type_Description": "Emergency"
+			},
+			{
+				"Admission_Type_Code": "2",
+				"Admission_Type_Description": "Urgent"
+			},
+			{
+				"Admission_Type_Code": "3",
+				"Admission_Type_Description": "Elective"
+			},
+			{
+				"Admission_Type_Code": "4",
+				"Admission_Type_Description": "Newborn"
+			}
+		]
+	}

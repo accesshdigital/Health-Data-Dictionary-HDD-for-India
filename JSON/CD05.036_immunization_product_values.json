@@ -1,0 +1,92 @@
+{
+		"nodes": [
+			{
+				"Immunization_Product_Code": "1",
+				"Immunization_Product_Description": "BCG"
+			},
+			{
+				"Immunization_Product_Code": "2",
+				"Immunization_Product_Description": "Hepatitis B"
+			},
+			{
+				"Immunization_Product_Code": "3",
+				"Immunization_Product_Description": "Polio"
+			},
+			{
+				"Immunization_Product_Code": "4",
+				"Immunization_Product_Description": "DTP"
+			},
+			{
+				"Immunization_Product_Code": "5",
+				"Immunization_Product_Description": "Hemophillus Influenzae  Type B (Hib)"
+			},
+			{
+				"Immunization_Product_Code": "6",
+				"Immunization_Product_Description": "Rota Virus"
+			},
+			{
+				"Immunization_Product_Code": "7",
+				"Immunization_Product_Description": "Measles"
+			},
+			{
+				"Immunization_Product_Code": "8",
+				"Immunization_Product_Description": "Rubella"
+			},
+			{
+				"Immunization_Product_Code": "9",
+				"Immunization_Product_Description": "Human Papilloma Virus (HPV)"
+			},
+			{
+				"Immunization_Product_Code": "10",
+				"Immunization_Product_Description": "Japanese Encephalitis"
+			},
+			{
+				"Immunization_Product_Code": "11",
+				"Immunization_Product_Description": "Yellow Fever"
+			},
+			{
+				"Immunization_Product_Code": "12",
+				"Immunization_Product_Description": "Tick Borne Encephalitis"
+			},
+			{
+				"Immunization_Product_Code": "13",
+				"Immunization_Product_Description": "Typhoid"
+			},
+			{
+				"Immunization_Product_Code": "14",
+				"Immunization_Product_Description": "Cholera"
+			},
+			{
+				"Immunization_Product_Code": "15",
+				"Immunization_Product_Description": "Meningococcal"
+			},
+			{
+				"Immunization_Product_Code": "16",
+				"Immunization_Product_Description": "Hepatitis A"
+			},
+			{
+				"Immunization_Product_Code": "17",
+				"Immunization_Product_Description": "Hepatitis B"
+			},
+			{
+				"Immunization_Product_Code": "18",
+				"Immunization_Product_Description": "Rabies"
+			},
+			{
+				"Immunization_Product_Code": "19",
+				"Immunization_Product_Description": "Mumps"
+			},
+			{
+				"Immunization_Product_Code": "20",
+				"Immunization_Product_Description": "Influenza"
+			},
+			{
+				"Immunization_Product_Code": "21",
+				"Immunization_Product_Description": "Pneumococcal Conjugate"
+			},
+			{
+				"Immunization_Product_Code": "22",
+				"Immunization_Product_Description": "Others"
+			}
+		]
+	}

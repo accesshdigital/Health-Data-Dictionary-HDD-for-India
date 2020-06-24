@@ -1,0 +1,360 @@
+{
+		"nodes": [
+			{
+				"Medical_Specialty_Type_Code": "1",
+				"Medical_Specialty_Type_Name": "General Medicine"
+			},
+			{
+				"Medical_Specialty_Type_Code": "2",
+				"Medical_Specialty_Type_Name": "Dental surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "3",
+				"Medical_Specialty_Type_Name": "Nursing"
+			},
+			{
+				"Medical_Specialty_Type_Code": "4",
+				"Medical_Specialty_Type_Name": "Pharmacy"
+			},
+			{
+				"Medical_Specialty_Type_Code": "5",
+				"Medical_Specialty_Type_Name": "Nursing Midwifery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "6",
+				"Medical_Specialty_Type_Name": "Military surgeons"
+			},
+			{
+				"Medical_Specialty_Type_Code": "7",
+				"Medical_Specialty_Type_Name": "Cardio Thoracic and Vascular Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "8",
+				"Medical_Specialty_Type_Name": "Cardiology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "9",
+				"Medical_Specialty_Type_Name": "Allergy"
+			},
+			{
+				"Medical_Specialty_Type_Code": "10",
+				"Medical_Specialty_Type_Name": "Chest Medicine"
+			},
+			{
+				"Medical_Specialty_Type_Code": "11",
+				"Medical_Specialty_Type_Name": "Clinical Psychology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "12",
+				"Medical_Specialty_Type_Name": "Cosmetic Dentistry"
+			},
+			{
+				"Medical_Specialty_Type_Code": "13",
+				"Medical_Specialty_Type_Name": "Cosmetic Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "14",
+				"Medical_Specialty_Type_Name": "Endodontics"
+			},
+			{
+				"Medical_Specialty_Type_Code": "15",
+				"Medical_Specialty_Type_Name": "ENT"
+			},
+			{
+				"Medical_Specialty_Type_Code": "16",
+				"Medical_Specialty_Type_Name": "Critical Care"
+			},
+			{
+				"Medical_Specialty_Type_Code": "17",
+				"Medical_Specialty_Type_Name": "Dental Implants & Cosmetic Dentistry"
+			},
+			{
+				"Medical_Specialty_Type_Code": "18",
+				"Medical_Specialty_Type_Name": "Dermatology Venereology and Leprology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "19",
+				"Medical_Specialty_Type_Name": "Dermatology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "20",
+				"Medical_Specialty_Type_Name": "Facial Plastic Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "21",
+				"Medical_Specialty_Type_Name": "Diabetology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "22",
+				"Medical_Specialty_Type_Name": "Endocrinology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "23",
+				"Medical_Specialty_Type_Name": "Diet and Nutrition"
+			},
+			{
+				"Medical_Specialty_Type_Code": "24",
+				"Medical_Specialty_Type_Name": "Diabetology & Internal Medicine"
+			},
+			{
+				"Medical_Specialty_Type_Code": "25",
+				"Medical_Specialty_Type_Name": "Gastrosurgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "26",
+				"Medical_Specialty_Type_Name": "Gastroenterology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "27",
+				"Medical_Specialty_Type_Name": "General Medicine"
+			},
+			{
+				"Medical_Specialty_Type_Code": "28",
+				"Medical_Specialty_Type_Name": "General Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "29",
+				"Medical_Specialty_Type_Name": "General Surgery & Laparoscopic Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "30",
+				"Medical_Specialty_Type_Name": "Gynecology & Ultrasonology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "31",
+				"Medical_Specialty_Type_Name": "Head & Neck Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "32",
+				"Medical_Specialty_Type_Name": "Head & Neck Surgical Oncology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "33",
+				"Medical_Specialty_Type_Name": "Hepato Pancreato Biliary Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "34",
+				"Medical_Specialty_Type_Name": "Infectious Disease medicine"
+			},
+			{
+				"Medical_Specialty_Type_Code": "35",
+				"Medical_Specialty_Type_Name": "Internal Medicine"
+			},
+			{
+				"Medical_Specialty_Type_Code": "36",
+				"Medical_Specialty_Type_Name": "Internal Medicine & Diabetics"
+			},
+			{
+				"Medical_Specialty_Type_Code": "37",
+				"Medical_Specialty_Type_Name": "Neuro Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "38",
+				"Medical_Specialty_Type_Name": "Resident Physicians"
+			},
+			{
+				"Medical_Specialty_Type_Code": "39",
+				"Medical_Specialty_Type_Name": "Respiratory Allergy And Sleep Medicine"
+			},
+			{
+				"Medical_Specialty_Type_Code": "40",
+				"Medical_Specialty_Type_Name": "Rheumatology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "41",
+				"Medical_Specialty_Type_Name": "Sexual Medicine"
+			},
+			{
+				"Medical_Specialty_Type_Code": "42",
+				"Medical_Specialty_Type_Name": "Spine Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "43",
+				"Medical_Specialty_Type_Name": "Sports Medicine"
+			},
+			{
+				"Medical_Specialty_Type_Code": "44",
+				"Medical_Specialty_Type_Name": "Surgical Gastroenterology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "45",
+				"Medical_Specialty_Type_Name": "Surgical Oncology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "46",
+				"Medical_Specialty_Type_Name": "Urology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "47",
+				"Medical_Specialty_Type_Name": "Physiotherapy"
+			},
+			{
+				"Medical_Specialty_Type_Code": "48",
+				"Medical_Specialty_Type_Name": "Physiotherapy & Rehabilitation"
+			},
+			{
+				"Medical_Specialty_Type_Code": "49",
+				"Medical_Specialty_Type_Name": "Plastic and Cosmetic Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "50",
+				"Medical_Specialty_Type_Name": "Plastic Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "51",
+				"Medical_Specialty_Type_Name": "Podiatry"
+			},
+			{
+				"Medical_Specialty_Type_Code": "52",
+				"Medical_Specialty_Type_Name": "Prosthodontics & Implants"
+			},
+			{
+				"Medical_Specialty_Type_Code": "53",
+				"Medical_Specialty_Type_Name": "Psychiatry"
+			},
+			{
+				"Medical_Specialty_Type_Code": "54",
+				"Medical_Specialty_Type_Name": "Pulmonology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "55",
+				"Medical_Specialty_Type_Name": "Radiation Oncology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "56",
+				"Medical_Specialty_Type_Name": "Radiology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "57",
+				"Medical_Specialty_Type_Name": "Laparoscopic and Robotic Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "58",
+				"Medical_Specialty_Type_Name": "Medical Gastroenterology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "59",
+				"Medical_Specialty_Type_Name": "Medical Oncology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "60",
+				"Medical_Specialty_Type_Name": "Nephrology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "61",
+				"Medical_Specialty_Type_Name": "Neurology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "62",
+				"Medical_Specialty_Type_Name": "Neurology & Neuro Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "63",
+				"Medical_Specialty_Type_Name": "Neuropsychiatry"
+			},
+			{
+				"Medical_Specialty_Type_Code": "64",
+				"Medical_Specialty_Type_Name": "Neurosurgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "65",
+				"Medical_Specialty_Type_Name": "Obstetrics & Gynecology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "66",
+				"Medical_Specialty_Type_Name": "Oncology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "67",
+				"Medical_Specialty_Type_Name": "Ophthalmology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "68",
+				"Medical_Specialty_Type_Name": "Oral & Maxillofacial Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "69",
+				"Medical_Specialty_Type_Name": "Ortho Dontia"
+			},
+			{
+				"Medical_Specialty_Type_Code": "70",
+				"Medical_Specialty_Type_Name": "Orthopedic Surgeon"
+			},
+			{
+				"Medical_Specialty_Type_Code": "71",
+				"Medical_Specialty_Type_Name": "Orthopedics"
+			},
+			{
+				"Medical_Specialty_Type_Code": "72",
+				"Medical_Specialty_Type_Name": "Orthopedics & Sports Medicine"
+			},
+			{
+				"Medical_Specialty_Type_Code": "73",
+				"Medical_Specialty_Type_Name": "Orthopedics And Spine Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "74",
+				"Medical_Specialty_Type_Name": "Orthopedics And Upper Limb Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "75",
+				"Medical_Specialty_Type_Name": "Pediatric Endocrinology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "76",
+				"Medical_Specialty_Type_Name": "Pediatric Ophthalmology And Squint"
+			},
+			{
+				"Medical_Specialty_Type_Code": "77",
+				"Medical_Specialty_Type_Name": "Paediatrics"
+			},
+			{
+				"Medical_Specialty_Type_Code": "78",
+				"Medical_Specialty_Type_Name": "Paediatrics & Neonatology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "79",
+				"Medical_Specialty_Type_Name": "Paediatrics - Nephrology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "80",
+				"Medical_Specialty_Type_Name": "Paediatrics - Neurology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "81",
+				"Medical_Specialty_Type_Name": "Paediatrics - Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "82",
+				"Medical_Specialty_Type_Name": "Pathology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "83",
+				"Medical_Specialty_Type_Name": "Peadodontology (Child Dentistry)"
+			},
+			{
+				"Medical_Specialty_Type_Code": "84",
+				"Medical_Specialty_Type_Name": "Pediatric Pulmonology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "85",
+				"Medical_Specialty_Type_Name": "Periodontia"
+			},
+			{
+				"Medical_Specialty_Type_Code": "86",
+				"Medical_Specialty_Type_Name": "Periodontology and Implantology"
+			},
+			{
+				"Medical_Specialty_Type_Code": "87",
+				"Medical_Specialty_Type_Name": "Peripheral Vascular Surgery"
+			},
+			{
+				"Medical_Specialty_Type_Code": "88",
+				"Medical_Specialty_Type_Name": "Physical Medicine & Rehabilitation"
+			},
+			{
+				"Medical_Specialty_Type_Code": "89",
+				"Medical_Specialty_Type_Name": "Physician & Diabetology"
+			}
+		]
+	}

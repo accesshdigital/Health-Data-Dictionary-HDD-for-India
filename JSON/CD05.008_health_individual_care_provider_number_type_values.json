@@ -1,0 +1,48 @@
+{
+		"nodes": [
+			{
+				"Health_Individual_Care_Number_Provider_Type_Code": "1",
+				"Health_Individual_Care_Provider_Number_Type_Description": "Medical Registration numbers assigned by MCI"
+			},
+			{
+				"Health_Individual_Care_Number_Provider_Type_Code": "2",
+				"Health_Individual_Care_Provider_Number_Type_Description": "Nursing Registration number assigned to Nurse or Nursing Midwife by Indian Nursing council"
+			},
+			{
+				"Health_Individual_Care_Number_Provider_Type_Code": "3",
+				"Health_Individual_Care_Provider_Number_Type_Description": "Dental Surgeon Registration number assigned by Dental Council of India"
+			},
+			{
+				"Health_Individual_Care_Number_Provider_Type_Code": "4",
+				"Health_Individual_Care_Provider_Number_Type_Description": "Provider ID assigned by Military organizations"
+			},
+			{
+				"Health_Individual_Care_Number_Provider_Type_Code": "5",
+				"Health_Individual_Care_Provider_Number_Type_Description": "Registration number assigned by Pharmacy Council of India"
+			},
+			{
+				"Health_Individual_Care_Number_Provider_Type_Code": "6",
+				"Health_Individual_Care_Provider_Number_Type_Description": "Medical Practitioner Registration numbers assigned by Central Council of Indian Medicine (CCIM)"
+			},
+			{
+				"Health_Individual_Care_Number_Provider_Type_Code": "7",
+				"Health_Individual_Care_Provider_Number_Type_Description": "Medical Practitioner Registration numbers assigned by Central Council of Homeopathy (CCH)"
+			},
+			{
+				"Health_Individual_Care_Number_Provider_Type_Code": "8",
+				"Health_Individual_Care_Provider_Number_Type_Description": "Medical Practitioner Registration numbers assigned by State Council"
+			},
+			{
+				"Health_Individual_Care_Number_Provider_Type_Code": "9",
+				"Health_Individual_Care_Provider_Number_Type_Description": "None- use UID"
+			},
+			{
+				"Health_Individual_Care_Number_Provider_Type_Code": "10",
+				"Health_Individual_Care_Provider_Number_Type_Description": "None- Alternate UID"
+			},
+			{
+				"Health_Individual_Care_Number_Provider_Type_Code": "11",
+				"Health_Individual_Care_Provider_Number_Type_Description": "Others"
+			}
+		]
+	}

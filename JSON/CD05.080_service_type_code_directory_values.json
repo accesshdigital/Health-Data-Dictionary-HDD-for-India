@@ -1,0 +1,105 @@
+{
+		"nodes": [
+			{
+				"Service__Type_Code": "1",
+				"Service__Type__Name": "Room  Rent",
+				"Reference__Value": "CD05.068  Room  Type"
+			},
+			{
+				"Service__Type_Code": "2",
+				"Service__Type__Name": "Nursing"
+			},
+			{
+				"Service__Type_Code": "3",
+				"Service__Type__Name": "Consultation"
+			},
+			{
+				"Service__Type_Code": "4",
+				"Service__Type__Name": "Surgery",
+				"Reference__Value": "CD05.043  Procedure  Code"
+			},
+			{
+				"Service__Type_Code": "5",
+				"Service__Type__Name": "Pharmacy",
+				"Reference__Value": "CD05.104  Generic  Drug"
+			},
+			{
+				"Service__Type_Code": "6",
+				"Service__Type__Name": "Consumables  and Disposables",
+				"Reference__Value": "CD05.104  Generic  Drug"
+			},
+			{
+				"Service__Type_Code": "7",
+				"Service__Type__Name": "OT",
+				"Reference__Value": "CD05.043  Procedure  Code"
+			},
+			{
+				"Service__Type_Code": "8",
+				"Service__Type__Name": "Diet"
+			},
+			{
+				"Service__Type_Code": "9",
+				"Service__Type__Name": "Food  &  Beverages"
+			},
+			{
+				"Service__Type_Code": "10",
+				"Service__Type__Name": "House  Keeping  (Laundry)"
+			},
+			{
+				"Service__Type_Code": "11",
+				"Service__Type__Name": "Ambulance",
+				"Reference__Value": "CD05.131  Ambulance  Type"
+			},
+			{
+				"Service__Type_Code": "12",
+				"Service__Type__Name": "Telephone  Expenses"
+			},
+			{
+				"Service__Type_Code": "13",
+				"Service__Type__Name": "Administration"
+			},
+			{
+				"Service__Type_Code": "14",
+				"Service__Type__Name": "First-Aids",
+				"Reference__Value": "CD05.043  Procedure  Codes"
+			},
+			{
+				"Service__Type_Code": "15",
+				"Service__Type__Name": "Lab  Orders",
+				"Reference__Value": "CD05.024  LOINC  Codes"
+			},
+			{
+				"Service__Type_Code": "16",
+				"Service__Type__Name": "Radiology  Orders",
+				"Reference__Value": "CD05.043  Procedure  Code"
+			},
+			{
+				"Service__Type_Code": "17",
+				"Service__Type__Name": "Blood  Bank",
+				"Reference__Value": "CD05.024  LOINC  Codes"
+			},
+			{
+				"Service__Type_Code": "18",
+				"Service__Type__Name": "Immunization  Orders",
+				"Reference__Value": "CD05.036  Immunization Product"
+			},
+			{
+				"Service__Type_Code": "19",
+				"Service__Type__Name": "Package"
+			},
+			{
+				"Service__Type_Code": "20",
+				"Service__Type__Name": "CSSD",
+				"Reference__Value": "CD05.092  Sterilization Cycle"
+			},
+			{
+				"Service__Type_Code": "21",
+				"Service__Type__Name": "Procedures",
+				"Reference__Value": "CD05.043  Procedure  Code"
+			},
+			{
+				"Service__Type_Code": "22",
+				"Service__Type__Name": "Others"
+			}
+		]
+	}

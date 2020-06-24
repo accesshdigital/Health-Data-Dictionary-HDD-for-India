@@ -1,0 +1,16 @@
+{
+		"nodes": [
+			{
+				"SNOMED_CT\nCode": "236886002",
+				"SNOMED_CT_Code_Description": "Hysterectomy"
+			},
+			{
+				"SNOMED_CT\nCode": "302383004",
+				"SNOMED_CT_Code_Description": "Forcep Delivery"
+			},
+			{
+				"SNOMED_CT\nCode": "713027003",
+				"SNOMED_CT_Code_Description": "Plain x-ray of hand"
+			}
+		]
+	}

@@ -1,0 +1,20 @@
+{
+		"nodes": [
+			{
+				"Priority__Type_Code": "1",
+				"Priority__Type__Description": "Routine"
+			},
+			{
+				"Priority__Type_Code": "2",
+				"Priority__Type__Description": "Expedited"
+			},
+			{
+				"Priority__Type_Code": "3",
+				"Priority__Type__Description": "Urgent"
+			},
+			{
+				"Priority__Type_Code": "4",
+				"Priority__Type__Description": "Stat"
+			}
+		]
+	}

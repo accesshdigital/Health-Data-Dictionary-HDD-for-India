@@ -1,0 +1,36 @@
+{
+		"nodes": [
+			{
+				"Blood_Group_Code": "1",
+				"Blood_Group_Description": "A+"
+			},
+			{
+				"Blood_Group_Code": "2",
+				"Blood_Group_Description": "A-"
+			},
+			{
+				"Blood_Group_Code": "3",
+				"Blood_Group_Description": "B+"
+			},
+			{
+				"Blood_Group_Code": "4",
+				"Blood_Group_Description": "B-"
+			},
+			{
+				"Blood_Group_Code": "5",
+				"Blood_Group_Description": "AB+"
+			},
+			{
+				"Blood_Group_Code": "6",
+				"Blood_Group_Description": "AB-"
+			},
+			{
+				"Blood_Group_Code": "7",
+				"Blood_Group_Description": "O+"
+			},
+			{
+				"Blood_Group_Code": "8",
+				"Blood_Group_Description": "O-"
+			}
+		]
+	}

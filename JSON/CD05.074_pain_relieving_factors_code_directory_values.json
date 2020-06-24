@@ -1,0 +1,24 @@
+{
+		"nodes": [
+			{
+				"Pain_Relieving_Factor__Code": "1",
+				"Pain__Relieving__Factor__Name": "Eating"
+			},
+			{
+				"Pain_Relieving_Factor__Code": "2",
+				"Pain__Relieving__Factor__Name": "Heat"
+			},
+			{
+				"Pain_Relieving_Factor__Code": "3",
+				"Pain__Relieving__Factor__Name": "Cold"
+			},
+			{
+				"Pain_Relieving_Factor__Code": "4",
+				"Pain__Relieving__Factor__Name": "Quiet"
+			},
+			{
+				"Pain_Relieving_Factor__Code": "5",
+				"Pain__Relieving__Factor__Name": "Others"
+			}
+		]
+	}

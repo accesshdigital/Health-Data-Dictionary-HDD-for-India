@@ -1,0 +1,24 @@
+{
+		"nodes": [
+			{
+				"Disability_Type__Code": "1",
+				"Name__of__the__Disability__Type": "Body  Functions",
+				"ICF__Type__Code": "b"
+			},
+			{
+				"Disability_Type__Code": "2",
+				"Name__of__the__Disability__Type": "Body  Structures",
+				"ICF__Type__Code": "s"
+			},
+			{
+				"Disability_Type__Code": "3",
+				"Name__of__the__Disability__Type": "Activities  and  Participation",
+				"ICF__Type__Code": "d"
+			},
+			{
+				"Disability_Type__Code": "4",
+				"Name__of__the__Disability__Type": "Environmental  Factors",
+				"ICF__Type__Code": "e"
+			}
+		]
+}

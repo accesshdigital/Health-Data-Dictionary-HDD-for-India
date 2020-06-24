@@ -1,0 +1,184 @@
+{
+		"nodes": [
+			{
+				"Specimen_Collection_Method_Code": "1",
+				"Specimen__Collection__Method_Description": "Blood  Culture,  Aerobic  Bottle"
+			},
+			{
+				"Specimen_Collection_Method_Code": "2",
+				"Specimen__Collection__Method_Description": "Blood  Culture,  Anaerobic  Bottle"
+			},
+			{
+				"Specimen_Collection_Method_Code": "3",
+				"Specimen__Collection__Method_Description": "Biopsy"
+			},
+			{
+				"Specimen_Collection_Method_Code": "4",
+				"Specimen__Collection__Method_Description": "Capillary  Specimen"
+			},
+			{
+				"Specimen_Collection_Method_Code": "5",
+				"Specimen__Collection__Method_Description": "Catheterized"
+			},
+			{
+				"Specimen_Collection_Method_Code": "6",
+				"Specimen__Collection__Method_Description": "Scrapings"
+			},
+			{
+				"Specimen_Collection_Method_Code": "7",
+				"Specimen__Collection__Method_Description": "Swab"
+			},
+			{
+				"Specimen_Collection_Method_Code": "8",
+				"Specimen__Collection__Method_Description": "Venipuncture"
+			},
+			{
+				"Specimen_Collection_Method_Code": "9",
+				"Specimen__Collection__Method_Description": "Plates,  Anaerobic"
+			},
+			{
+				"Specimen_Collection_Method_Code": "10",
+				"Specimen__Collection__Method_Description": "Plates,  Blood  Agar"
+			},
+			{
+				"Specimen_Collection_Method_Code": "11",
+				"Specimen__Collection__Method_Description": "Blood  Culture,  Aerobic  Bottle"
+			},
+			{
+				"Specimen_Collection_Method_Code": "12",
+				"Specimen__Collection__Method_Description": "Blood  Culture,  Pediatric  Bottle"
+			},
+			{
+				"Specimen_Collection_Method_Code": "13",
+				"Specimen__Collection__Method_Description": "Line,  CVP"
+			},
+			{
+				"Specimen_Collection_Method_Code": "14",
+				"Specimen__Collection__Method_Description": "Environmental,  Plate"
+			},
+			{
+				"Specimen_Collection_Method_Code": "15",
+				"Specimen__Collection__Method_Description": "Environmental,  Swab"
+			},
+			{
+				"Specimen_Collection_Method_Code": "16",
+				"Specimen__Collection__Method_Description": "Aspiration,  Fine  Needle"
+			},
+			{
+				"Specimen_Collection_Method_Code": "17",
+				"Specimen__Collection__Method_Description": "Plate,  Cough"
+			},
+			{
+				"Specimen_Collection_Method_Code": "18",
+				"Specimen__Collection__Method_Description": "Line,  Arterial"
+			},
+			{
+				"Specimen_Collection_Method_Code": "19",
+				"Specimen__Collection__Method_Description": "Line,  Venous"
+			},
+			{
+				"Specimen_Collection_Method_Code": "20",
+				"Specimen__Collection__Method_Description": "Martin-Lewis  Agar"
+			},
+			{
+				"Specimen_Collection_Method_Code": "21",
+				"Specimen__Collection__Method_Description": "Mod.  Martin-Lewis  Agar"
+			},
+			{
+				"Specimen_Collection_Method_Code": "22",
+				"Specimen__Collection__Method_Description": "Plate,  Martin-Lewis"
+			},
+			{
+				"Specimen_Collection_Method_Code": "23",
+				"Specimen__Collection__Method_Description": "Plate,  New  York  City"
+			},
+			{
+				"Specimen_Collection_Method_Code": "24",
+				"Specimen__Collection__Method_Description": "Pace,  Gen-Probe"
+			},
+			{
+				"Specimen_Collection_Method_Code": "25",
+				"Specimen__Collection__Method_Description": "Pinworm  Prep"
+			},
+			{
+				"Specimen_Collection_Method_Code": "26",
+				"Specimen__Collection__Method_Description": "Aterial  puncture"
+			},
+			{
+				"Specimen_Collection_Method_Code": "27",
+				"Specimen__Collection__Method_Description": "Pump  Prime"
+			},
+			{
+				"Specimen_Collection_Method_Code": "28",
+				"Specimen__Collection__Method_Description": "Pump  Specimen"
+			},
+			{
+				"Specimen_Collection_Method_Code": "29",
+				"Specimen__Collection__Method_Description": "Quality  Control  For  Micro"
+			},
+			{
+				"Specimen_Collection_Method_Code": "30",
+				"Specimen__Collection__Method_Description": "Scalp,  Fetal  Vein"
+			},
+			{
+				"Specimen_Collection_Method_Code": "31",
+				"Specimen__Collection__Method_Description": "Shaving"
+			},
+			{
+				"Specimen_Collection_Method_Code": "32",
+				"Specimen__Collection__Method_Description": "Swab"
+			},
+			{
+				"Specimen_Collection_Method_Code": "33",
+				"Specimen__Collection__Method_Description": "Swab,  Dacron  tipped"
+			},
+			{
+				"Specimen_Collection_Method_Code": "34",
+				"Specimen__Collection__Method_Description": "Transport  Media,  Anaerobic"
+			},
+			{
+				"Specimen_Collection_Method_Code": "35",
+				"Specimen__Collection__Method_Description": "Transport  Media,  Chalamydia"
+			},
+			{
+				"Specimen_Collection_Method_Code": "36",
+				"Specimen__Collection__Method_Description": "Transport  Media,  M4"
+			},
+			{
+				"Specimen_Collection_Method_Code": "37",
+				"Specimen__Collection__Method_Description": "Transport  Media,  Mycoplasma"
+			},
+			{
+				"Specimen_Collection_Method_Code": "38",
+				"Specimen__Collection__Method_Description": "Transport  Media,"
+			},
+			{
+				"Specimen_Collection_Method_Code": "39",
+				"Specimen__Collection__Method_Description": "Plate,  Thayer-Martin"
+			},
+			{
+				"Specimen_Collection_Method_Code": "40",
+				"Specimen__Collection__Method_Description": "Transport  Media,  PVA"
+			},
+			{
+				"Specimen_Collection_Method_Code": "41",
+				"Specimen__Collection__Method_Description": "Transport  Media,  Stool  Culture"
+			},
+			{
+				"Specimen_Collection_Method_Code": "42",
+				"Specimen__Collection__Method_Description": "Transport  Media,  Ureaplasma"
+			},
+			{
+				"Specimen_Collection_Method_Code": "43",
+				"Specimen__Collection__Method_Description": "Transport  Media,  Viral"
+			},
+			{
+				"Specimen_Collection_Method_Code": "44",
+				"Specimen__Collection__Method_Description": "Venipuncture"
+			},
+			{
+				"Specimen_Collection_Method_Code": "45",
+				"Specimen__Collection__Method_Description": "Swab,  Wooden  Shaft"
+			}
+		]
+	}

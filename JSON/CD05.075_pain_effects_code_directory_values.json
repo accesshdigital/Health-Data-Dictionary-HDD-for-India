@@ -1,0 +1,28 @@
+{
+		"nodes": [
+			{
+				"Pain__Effect_Code": "1",
+				"Pain__Effect__Name": "Sleep"
+			},
+			{
+				"Pain__Effect_Code": "2",
+				"Pain__Effect__Name": "Appetite"
+			},
+			{
+				"Pain__Effect_Code": "3",
+				"Pain__Effect__Name": "Activity"
+			},
+			{
+				"Pain__Effect_Code": "4",
+				"Pain__Effect__Name": "Emotions"
+			},
+			{
+				"Pain__Effect_Code": "5",
+				"Pain__Effect__Name": "Relationships"
+			},
+			{
+				"Pain__Effect_Code": "6",
+				"Pain__Effect__Name": "Others"
+			}
+		]
+	}

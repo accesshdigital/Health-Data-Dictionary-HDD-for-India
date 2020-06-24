@@ -1,0 +1,20 @@
+{
+		"nodes": [
+			{
+				"Test_Result_Category_Code": "1",
+				"Description_of_Result_Category": "Vital Signs"
+			},
+			{
+				"Test_Result_Category_Code": "2",
+				"Description_of_Result_Category": "Laboratory Results"
+			},
+			{
+				"Test_Result_Category_Code": "3",
+				"Description_of_Result_Category": "Radiology Results"
+			},
+			{
+				"Test_Result_Category_Code": "4",
+				"Description_of_Result_Category": "Blood Bank Screening"
+			}
+		]
+	}

@@ -1,0 +1,28 @@
+{
+		"nodes": [
+			{
+				"Non-Drug_Item_Classification_CodeCode": "1",
+				"Non-Drug_Item_Classification_Name": "Surgical Supplies"
+			},
+			{
+				"Non-Drug_Item_Classification_CodeCode": "2",
+				"Non-Drug_Item_Classification_Name": "Consumables"
+			},
+			{
+				"Non-Drug_Item_Classification_CodeCode": "3",
+				"Non-Drug_Item_Classification_Name": "Disposables"
+			},
+			{
+				"Non-Drug_Item_Classification_CodeCode": "4",
+				"Non-Drug_Item_Classification_Name": "Durable"
+			},
+			{
+				"Non-Drug_Item_Classification_CodeCode": "5",
+				"Non-Drug_Item_Classification_Name": "Semi-durable"
+			},
+			{
+				"Non-Drug_Item_Classification_CodeCode": "6",
+				"Non-Drug_Item_Classification_Name": "Others"
+			}
+		]
+	}

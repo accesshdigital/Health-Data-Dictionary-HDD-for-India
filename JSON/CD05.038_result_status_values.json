@@ -1,0 +1,36 @@
+{
+		"nodes": [
+			{
+				"Result_Status_Code": "1",
+				"Description_of_Result_Status": "Preliminary, A verified early result is available, final results not yet obtained"
+			},
+			{
+				"Result_Status_Code": "2",
+				"Description_of_Result_Status": "Complete, final results stored and verified"
+			},
+			{
+				"Result_Status_Code": "3",
+				"Description_of_Result_Status": "Order received; specimen not yet received"
+			},
+			{
+				"Result_Status_Code": "4",
+				"Description_of_Result_Status": "No results available; specimen received, procedure incomplete"
+			},
+			{
+				"Result_Status_Code": "5",
+				"Description_of_Result_Status": "No results available; procedure scheduled, but not done"
+			},
+			{
+				"Result_Status_Code": "6",
+				"Description_of_Result_Status": "Results stored; not yet verified"
+			},
+			{
+				"Result_Status_Code": "7",
+				"Description_of_Result_Status": "No results available; Order canceled."
+			},
+			{
+				"Result_Status_Code": "8",
+				"Description_of_Result_Status": "No results; Insufficient/unusable specimen"
+			}
+		]
+	}

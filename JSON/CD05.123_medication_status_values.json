@@ -1,0 +1,20 @@
+{
+		"nodes": [
+			{
+				"Medication_Status_Code": "1",
+				"Medication_Status_Name": "Active"
+			},
+			{
+				"Medication_Status_Code": "2",
+				"Medication_Status_Name": "Inactive"
+			},
+			{
+				"Medication_Status_Code": "3",
+				"Medication_Status_Name": "Discontinued"
+			},
+			{
+				"Medication_Status_Code": "4",
+				"Medication_Status_Name": "Renewed"
+			}
+		]
+	}

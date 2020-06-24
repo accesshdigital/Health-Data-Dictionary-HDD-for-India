@@ -1,0 +1,159 @@
+{
+		"nodes": [
+			{
+				"facility_type_code": "1",
+				"facility_type_description": "Sub Centre",
+				"facility_short_type_name": "SC"
+			},
+			{
+				"facility_type_code": "2",
+				"facility_type_description": "Primary Health Centre",
+				"facility_short_type_name": "PHC"
+			},
+			{
+				"facility_type_code": "3",
+				"facility_type_description": "Community Heallth Centre",
+				"facility_short_type_name": "CHC"
+			},
+			{
+				"facility_type_code": "4",
+				"facility_type_description": "District Hospital",
+				"facility_short_type_name": "DH"
+			},
+			{
+				"facility_type_code": "5",
+				"facility_type_description": "Sub District Hospital ",
+				"facility_short_type_name": "SDH"
+			},
+			{
+				"facility_type_code": "6",
+				"facility_type_description": "Dispensaries",
+				"facility_short_type_name": "DIS"
+			},
+			{
+				"facility_type_code": "7",
+				"facility_type_description": "Clinics",
+				"facility_short_type_name": "CL"
+			},
+			{
+				"facility_type_code": "8",
+				"facility_type_description": "Drug Warehouse",
+				"facility_short_type_name": "DW"
+			},
+			{
+				"facility_type_code": "9",
+				"facility_type_description": "Nursing Homes",
+				"facility_short_type_name": "NH"
+			},
+			{
+				"facility_type_code": "10",
+				"facility_type_description": "Urban Health Post",
+				"facility_short_type_name": "UHP"
+			},
+			{
+				"facility_type_code": "11",
+				"facility_type_description": "Urban Family Welfare Centre",
+				"facility_short_type_name": "UFWC"
+			},
+			{
+				"facility_type_code": "12",
+				"facility_type_description": "Polyclinic",
+				"facility_short_type_name": "PLCL"
+			},
+			{
+				"facility_type_code": "13",
+				"facility_type_description": "Medical College Hospital",
+				"facility_short_type_name": "MCH"
+			},
+			{
+				"facility_type_code": "18",
+				"facility_type_description": "Urban Primary Health Centre",
+				"facility_short_type_name": "UPHC"
+			},
+			{
+				"facility_type_code": "19",
+				"facility_type_description": "Urban Community Health Centre",
+				"facility_short_type_name": "UCHC"
+			},
+			{
+				"facility_type_code": "20",
+				"facility_type_description": "Maternity Hospitals",
+				"facility_short_type_name": "MH"
+			},
+			{
+				"facility_type_code": "21",
+				"facility_type_description": "Public Sector Undertaking Hospitals",
+				"facility_short_type_name": "PSUH"
+			},
+			{
+				"facility_type_code": "24",
+				"facility_type_description": "Township Hospitals",
+				"facility_short_type_name": "TH"
+			},
+			{
+				"facility_type_code": "25",
+				"facility_type_description": "Pharmacy",
+				"facility_short_type_name": "PH"
+			},
+			{
+				"facility_type_code": "26",
+				"facility_type_description": "Mortuary",
+				"facility_short_type_name": "MOR"
+			},
+			{
+				"facility_type_code": "27",
+				"facility_type_description": "Anganwadi Centre",
+				"facility_short_type_name": "AWC"
+			},
+			{
+				"facility_type_code": "28",
+				"facility_type_description": "Nutritional Rehabilitation Centre",
+				"facility_short_type_name": "NRC"
+			},
+			{
+				"facility_type_code": "29",
+				"facility_type_description": "Gram Arogya Kendra",
+				"facility_short_type_name": "GAK"
+			},
+			{
+				"facility_type_code": "30",
+				"facility_type_description": "Blood Bank",
+				"facility_short_type_name": "BB"
+			},
+			{
+				"facility_type_code": "31",
+				"facility_type_description": "Blood Storage Centre",
+				"facility_short_type_name": "BSC"
+			},
+			{
+				"facility_type_code": "32",
+				"facility_type_description": "Pathology Lab",
+				"facility_short_type_name": "PL"
+			},
+			{
+				"facility_type_code": "33",
+				"facility_type_description": "Radiology Centre",
+				"facility_short_type_name": "RC"
+			},
+			{
+				"facility_type_code": "34",
+				"facility_type_description": "Ambulance Call Centre",
+				"facility_short_type_name": "ACC"
+			},
+			{
+				"facility_type_code": "35",
+				"facility_type_description": "General Hospital",
+				"facility_short_type_name": "GH"
+			},
+			{
+				"facility_type_code": "36",
+				"facility_type_description": "Super Speciality Hospital",
+				"facility_short_type_name": "SSH"
+			},
+			{
+				"facility_type_code": "37",
+				"facility_type_description": "Others",
+				"facility_short_type_name": "OTH"
+			}
+		]
+	}

@@ -1,0 +1,14 @@
+{
+		"nodes": [
+			{
+				"LOINC_Code_": "18262-6",
+				"LOINC_Description": "Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay",
+				"LOINC_Class": "Chem"
+			},
+			{
+				"LOINC_Code_": "2085-9",
+				"LOINC_Description": "Cholesterol in HDL [Mass/volume] in Serum or Plasma",
+				"LOINC_Class": "Chem"
+			}
+		]
+	}

@@ -1,0 +1,580 @@
+{
+		"nodes": [
+			{
+				"Designation_Code": "1",
+				"Designation_Name": "Accountant"
+			},
+			{
+				"Designation_Code": "2",
+				"Designation_Name": "Accounts Assistant"
+			},
+			{
+				"Designation_Code": "3",
+				"Designation_Name": "Accounts Manager"
+			},
+			{
+				"Designation_Code": "4",
+				"Designation_Name": "Peon"
+			},
+			{
+				"Designation_Code": "5",
+				"Designation_Name": "Additional Director"
+			},
+			{
+				"Designation_Code": "6",
+				"Designation_Name": "Anesthetist"
+			},
+			{
+				"Designation_Code": "7",
+				"Designation_Name": "ANM"
+			},
+			{
+				"Designation_Code": "8",
+				"Designation_Name": "Assistant Clinical Pathologist"
+			},
+			{
+				"Designation_Code": "9",
+				"Designation_Name": "Assistant Director"
+			},
+			{
+				"Designation_Code": "10",
+				"Designation_Name": "Assistant Drug Controller"
+			},
+			{
+				"Designation_Code": "11",
+				"Designation_Name": "Assistant Engineer"
+			},
+			{
+				"Designation_Code": "12",
+				"Designation_Name": "Ayurvedic Medical Officer"
+			},
+			{
+				"Designation_Code": "13",
+				"Designation_Name": "Bacteriologist"
+			},
+			{
+				"Designation_Code": "14",
+				"Designation_Name": "Basic Health Inspector"
+			},
+			{
+				"Designation_Code": "15",
+				"Designation_Name": "Basic Health Worker"
+			},
+			{
+				"Designation_Code": "16",
+				"Designation_Name": "Bio-Medical Engineer"
+			},
+			{
+				"Designation_Code": "17",
+				"Designation_Name": "Bio-Medical Engineering Expert"
+			},
+			{
+				"Designation_Code": "18",
+				"Designation_Name": "Bio-Medical Waste Management Expert"
+			},
+			{
+				"Designation_Code": "19",
+				"Designation_Name": "Block Accounts-cum-M&E Officer"
+			},
+			{
+				"Designation_Code": "20",
+				"Designation_Name": "Block Community Mobilizer"
+			},
+			{
+				"Designation_Code": "21",
+				"Designation_Name": "Block Extension Educator"
+			},
+			{
+				"Designation_Code": "22",
+				"Designation_Name": "Block Health Manager"
+			},
+			{
+				"Designation_Code": "23",
+				"Designation_Name": "Chartered Accountant"
+			},
+			{
+				"Designation_Code": "24",
+				"Designation_Name": "Chaukidar (Night Guard)"
+			},
+			{
+				"Designation_Code": "25",
+				"Designation_Name": "Chief Medical Officer"
+			},
+			{
+				"Designation_Code": "26",
+				"Designation_Name": "Cholera Invigilator"
+			},
+			{
+				"Designation_Code": "27",
+				"Designation_Name": "Civil Assistant Surgeon"
+			},
+			{
+				"Designation_Code": "28",
+				"Designation_Name": "Civil Surgeon"
+			},
+			{
+				"Designation_Code": "29",
+				"Designation_Name": "Civil Surgeon-cum-Chief Medical Officer"
+			},
+			{
+				"Designation_Code": "30",
+				"Designation_Name": "Clerk"
+			},
+			{
+				"Designation_Code": "31",
+				"Designation_Name": "Compounder"
+			},
+			{
+				"Designation_Code": "32",
+				"Designation_Name": "Computer (Compiler)"
+			},
+			{
+				"Designation_Code": "33",
+				"Designation_Name": "Computer Operator/Computer"
+			},
+			{
+				"Designation_Code": "34",
+				"Designation_Name": "Computer Programmer"
+			},
+			{
+				"Designation_Code": "35",
+				"Designation_Name": "Consultant"
+			},
+			{
+				"Designation_Code": "36",
+				"Designation_Name": "Cook/Cook Servant"
+			},
+			{
+				"Designation_Code": "37",
+				"Designation_Name": "Councellor"
+			},
+			{
+				"Designation_Code": "38",
+				"Designation_Name": "Curator"
+			},
+			{
+				"Designation_Code": "39",
+				"Designation_Name": "Data Assistant"
+			},
+			{
+				"Designation_Code": "40",
+				"Designation_Name": "Data Entry Operator/Data Operator"
+			},
+			{
+				"Designation_Code": "41",
+				"Designation_Name": "Data Manager"
+			},
+			{
+				"Designation_Code": "42",
+				"Designation_Name": "Dental Doctor"
+			},
+			{
+				"Designation_Code": "43",
+				"Designation_Name": "Dental Surgeon"
+			},
+			{
+				"Designation_Code": "44",
+				"Designation_Name": "Deputy Director"
+			},
+			{
+				"Designation_Code": "45",
+				"Designation_Name": "Deputy Superintendent"
+			},
+			{
+				"Designation_Code": "46",
+				"Designation_Name": "Dispenser"
+			},
+			{
+				"Designation_Code": "47",
+				"Designation_Name": "Dietician"
+			},
+			{
+				"Designation_Code": "48",
+				"Designation_Name": "Director"
+			},
+			{
+				"Designation_Code": "49",
+				"Designation_Name": "District Accounts Manager"
+			},
+			{
+				"Designation_Code": "50",
+				"Designation_Name": "District Community Mobilizer (ASHA)"
+			},
+			{
+				"Designation_Code": "51",
+				"Designation_Name": "District Data Assistant (ASHA)"
+			},
+			{
+				"Designation_Code": "52",
+				"Designation_Name": "District Data Manager"
+			},
+			{
+				"Designation_Code": "53",
+				"Designation_Name": "District IDD/Filaria Officer"
+			},
+			{
+				"Designation_Code": "54",
+				"Designation_Name": "District Immunization Officer"
+			},
+			{
+				"Designation_Code": "55",
+				"Designation_Name": "District AYUSH Medical Officer"
+			},
+			{
+				"Designation_Code": "56",
+				"Designation_Name": "District Leprosy Officer"
+			},
+			{
+				"Designation_Code": "57",
+				"Designation_Name": "District Malaria Officer"
+			},
+			{
+				"Designation_Code": "58",
+				"Designation_Name": "District Planning Coordinator"
+			},
+			{
+				"Designation_Code": "59",
+				"Designation_Name": "District Programme Manager"
+			},
+			{
+				"Designation_Code": "60",
+				"Designation_Name": "District Tuberculosis Officer"
+			},
+			{
+				"Designation_Code": "61",
+				"Designation_Name": "Divisional ASHA Coordinator"
+			},
+			{
+				"Designation_Code": "62",
+				"Designation_Name": "Dresser"
+			},
+			{
+				"Designation_Code": "63",
+				"Designation_Name": "Driver"
+			},
+			{
+				"Designation_Code": "64",
+				"Designation_Name": "Drug Inspector"
+			},
+			{
+				"Designation_Code": "65",
+				"Designation_Name": "ECG Technician"
+			},
+			{
+				"Designation_Code": "66",
+				"Designation_Name": "Electrician"
+			},
+			{
+				"Designation_Code": "67",
+				"Designation_Name": "Epidemiologist-Medico"
+			},
+			{
+				"Designation_Code": "68",
+				"Designation_Name": "Epidemiologist-Non Medico"
+			},
+			{
+				"Designation_Code": "69",
+				"Designation_Name": "Eye Assistant"
+			},
+			{
+				"Designation_Code": "70",
+				"Designation_Name": "Eye Surgeon"
+			},
+			{
+				"Designation_Code": "71",
+				"Designation_Name": "Family Welfare Worker"
+			},
+			{
+				"Designation_Code": "72",
+				"Designation_Name": "Female Paramedical Worker"
+			},
+			{
+				"Designation_Code": "73",
+				"Designation_Name": "Female Ward Attendant"
+			},
+			{
+				"Designation_Code": "74",
+				"Designation_Name": "Field Coordinator"
+			},
+			{
+				"Designation_Code": "75",
+				"Designation_Name": "Field Worker"
+			},
+			{
+				"Designation_Code": "76",
+				"Designation_Name": "Filaria Inspector"
+			},
+			{
+				"Designation_Code": "77",
+				"Designation_Name": "Filaria officer"
+			},
+			{
+				"Designation_Code": "78",
+				"Designation_Name": "Finance Analyst"
+			},
+			{
+				"Designation_Code": "79",
+				"Designation_Name": "Finance Manager"
+			},
+			{
+				"Designation_Code": "80",
+				"Designation_Name": "Head Clerk"
+			},
+			{
+				"Designation_Code": "81",
+				"Designation_Name": "HMIS Supervisor"
+			},
+			{
+				"Designation_Code": "82",
+				"Designation_Name": "Homeopathy Medical Officer"
+			},
+			{
+				"Designation_Code": "83",
+				"Designation_Name": "Hospital Manager"
+			},
+			{
+				"Designation_Code": "84",
+				"Designation_Name": "IDSP Officer"
+			},
+			{
+				"Designation_Code": "85",
+				"Designation_Name": "Joint Director"
+			},
+			{
+				"Designation_Code": "86",
+				"Designation_Name": "Lab Assistant"
+			},
+			{
+				"Designation_Code": "87",
+				"Designation_Name": "Lab Technician"
+			},
+			{
+				"Designation_Code": "88",
+				"Designation_Name": "Laboratory Attendant"
+			},
+			{
+				"Designation_Code": "89",
+				"Designation_Name": "Ladies Health Visitor"
+			},
+			{
+				"Designation_Code": "90",
+				"Designation_Name": "Legal Expert"
+			},
+			{
+				"Designation_Code": "91",
+				"Designation_Name": "Male Ward Attendant"
+			},
+			{
+				"Designation_Code": "92",
+				"Designation_Name": "Matron"
+			},
+			{
+				"Designation_Code": "93",
+				"Designation_Name": "Medical Officer"
+			},
+			{
+				"Designation_Code": "94",
+				"Designation_Name": "Medical Officer (Trainee Reserve Posting)"
+			},
+			{
+				"Designation_Code": "95",
+				"Designation_Name": "Medical Officer -in -Charge"
+			},
+			{
+				"Designation_Code": "96",
+				"Designation_Name": "Microbiologist"
+			},
+			{
+				"Designation_Code": "97",
+				"Designation_Name": "MIS Assistant"
+			},
+			{
+				"Designation_Code": "98",
+				"Designation_Name": "Monitoring and Evaluation Officer"
+			},
+			{
+				"Designation_Code": "99",
+				"Designation_Name": "Nurse"
+			},
+			{
+				"Designation_Code": "100",
+				"Designation_Name": "Nurse “A Grade”"
+			},
+			{
+				"Designation_Code": "101",
+				"Designation_Name": "Occupational Therapist"
+			},
+			{
+				"Designation_Code": "102",
+				"Designation_Name": "Office Assistant"
+			},
+			{
+				"Designation_Code": "103",
+				"Designation_Name": "Office Attendant"
+			},
+			{
+				"Designation_Code": "104",
+				"Designation_Name": "Operation Theatre Assistant"
+			},
+			{
+				"Designation_Code": "105",
+				"Designation_Name": "Ophthalmic Assistant"
+			},
+			{
+				"Designation_Code": "106",
+				"Designation_Name": "Pathologist"
+			},
+			{
+				"Designation_Code": "107",
+				"Designation_Name": "Pharmacist"
+			},
+			{
+				"Designation_Code": "108",
+				"Designation_Name": "PHN (Public Health Nurse)"
+			},
+			{
+				"Designation_Code": "109",
+				"Designation_Name": "Physiotherapist"
+			},
+			{
+				"Designation_Code": "110",
+				"Designation_Name": "Procurement Expert"
+			},
+			{
+				"Designation_Code": "111",
+				"Designation_Name": "Programme Officer"
+			},
+			{
+				"Designation_Code": "112",
+				"Designation_Name": "Public Health Manager"
+			},
+			{
+				"Designation_Code": "113",
+				"Designation_Name": "Quality Assurance Manager"
+			},
+			{
+				"Designation_Code": "114",
+				"Designation_Name": "Refractionists"
+			},
+			{
+				"Designation_Code": "115",
+				"Designation_Name": "Resident  Clinical Pathologist"
+			},
+			{
+				"Designation_Code": "116",
+				"Designation_Name": "Resident Medical Officer"
+			},
+			{
+				"Designation_Code": "117",
+				"Designation_Name": "Resident Medical Officer - AYUSH"
+			},
+			{
+				"Designation_Code": "118",
+				"Designation_Name": "Senior Consultant"
+			},
+			{
+				"Designation_Code": "119",
+				"Designation_Name": "Senior Medical Officer"
+			},
+			{
+				"Designation_Code": "120",
+				"Designation_Name": "Senior Resident"
+			},
+			{
+				"Designation_Code": "121",
+				"Designation_Name": "Senior Sister Tutor"
+			},
+			{
+				"Designation_Code": "122",
+				"Designation_Name": "Senior Treatment Supervisor"
+			},
+			{
+				"Designation_Code": "123",
+				"Designation_Name": "Senior Tuberculosis Laboratory Supervisor"
+			},
+			{
+				"Designation_Code": "124",
+				"Designation_Name": "Sonologist"
+			},
+			{
+				"Designation_Code": "125",
+				"Designation_Name": "State Consultant"
+			},
+			{
+				"Designation_Code": "126",
+				"Designation_Name": "State Immunization Officer"
+			},
+			{
+				"Designation_Code": "127",
+				"Designation_Name": "State Programme Manager"
+			},
+			{
+				"Designation_Code": "128",
+				"Designation_Name": "State Programme Officer"
+			},
+			{
+				"Designation_Code": "129",
+				"Designation_Name": "Statistical Assistant"
+			},
+			{
+				"Designation_Code": "130",
+				"Designation_Name": "Statistician"
+			},
+			{
+				"Designation_Code": "131",
+				"Designation_Name": "Store Keeper"
+			},
+			{
+				"Designation_Code": "132",
+				"Designation_Name": "Surgeon"
+			},
+			{
+				"Designation_Code": "133",
+				"Designation_Name": "Sweeper"
+			},
+			{
+				"Designation_Code": "134",
+				"Designation_Name": "Trend Dai"
+			},
+			{
+				"Designation_Code": "135",
+				"Designation_Name": "Typist"
+			},
+			{
+				"Designation_Code": "136",
+				"Designation_Name": "Unani  Medical Officer"
+			},
+			{
+				"Designation_Code": "137",
+				"Designation_Name": "Vaccinator"
+			},
+			{
+				"Designation_Code": "138",
+				"Designation_Name": "Vaccine Logistic Manager"
+			},
+			{
+				"Designation_Code": "139",
+				"Designation_Name": "Vector Bond Disease (VBD) Consultant"
+			},
+			{
+				"Designation_Code": "140",
+				"Designation_Name": "Ward Attendant"
+			},
+			{
+				"Designation_Code": "141",
+				"Designation_Name": "Ward Sister"
+			},
+			{
+				"Designation_Code": "142",
+				"Designation_Name": "X Ray Technician"
+			},
+			{
+				"Designation_Code": "143",
+				"Designation_Name": "Accredited Social Health Activist (ASHA)"
+			},
+			{
+				"Designation_Code": "144",
+				"Designation_Name": "Other Community Health Workers"
+			}
+		]
+	}

@@ -1,0 +1,60 @@
+{
+		"nodes": [
+			{
+				"Cause__of_Injury___Code": "1",
+				"Cause__of__Injury__Name": "Earthquake"
+			},
+			{
+				"Cause__of_Injury___Code": "2",
+				"Cause__of__Injury__Name": "Tsumani"
+			},
+			{
+				"Cause__of_Injury___Code": "3",
+				"Cause__of__Injury__Name": "Cyclones"
+			},
+			{
+				"Cause__of_Injury___Code": "4",
+				"Cause__of__Injury__Name": "Flood"
+			},
+			{
+				"Cause__of_Injury___Code": "5",
+				"Cause__of__Injury__Name": "Drought"
+			},
+			{
+				"Cause__of_Injury___Code": "6",
+				"Cause__of__Injury__Name": "Landslide"
+			},
+			{
+				"Cause__of_Injury___Code": "9",
+				"Cause__of__Injury__Name": "Terrorist  attack"
+			},
+			{
+				"Cause__of_Injury___Code": "10",
+				"Cause__of__Injury__Name": "Road  Traffic  Accident"
+			},
+			{
+				"Cause__of_Injury___Code": "11",
+				"Cause__of__Injury__Name": "Railway  Accident"
+			},
+			{
+				"Cause__of_Injury___Code": "12",
+				"Cause__of__Injury__Name": "Air  Accident"
+			},
+			{
+				"Cause__of_Injury___Code": "13",
+				"Cause__of__Injury__Name": "Ship  Accident"
+			},
+			{
+				"Cause__of_Injury___Code": "14",
+				"Cause__of__Injury__Name": "Volcanic  Eruption"
+			},
+			{
+				"Cause__of_Injury___Code": "15",
+				"Cause__of__Injury__Name": "CBRN"
+			},
+			{
+				"Cause__of_Injury___Code": "16",
+				"Cause__of__Injury__Name": "Others"
+			}
+		]
+	}

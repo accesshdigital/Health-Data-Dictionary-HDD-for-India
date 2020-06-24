@@ -1,0 +1,36 @@
+{
+		"nodes": [
+			{
+				"Specimen_Risk__Code": "1",
+				"Specimen__Risk__Description": "Infectious  substances  affecting  humans"
+			},
+			{
+				"Specimen_Risk__Code": "2",
+				"Specimen__Risk__Description": "Infectious  substances  affecting  animals"
+			},
+			{
+				"Specimen_Risk__Code": "3",
+				"Specimen__Risk__Description": "Biohazard"
+			},
+			{
+				"Specimen_Risk__Code": "4",
+				"Specimen__Risk__Description": "Corrosive"
+			},
+			{
+				"Specimen_Risk__Code": "5",
+				"Specimen__Risk__Description": "Injury  Hazard"
+			},
+			{
+				"Specimen_Risk__Code": "6",
+				"Specimen__Risk__Description": "Poison"
+			},
+			{
+				"Specimen_Risk__Code": "7",
+				"Specimen__Risk__Description": "Radioactive"
+			},
+			{
+				"Specimen_Risk__Code": "8",
+				"Specimen__Risk__Description": "Insufficient  quantity  of  specimen/unusable  specimen"
+			}
+		]
+	}

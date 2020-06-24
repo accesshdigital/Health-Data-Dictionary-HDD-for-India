@@ -1,0 +1,20 @@
+{
+		"nodes": [
+			{
+				"Immunization_Refusal_Reason_Code": "1",
+				"Description_of_Refusal_Reason": "Religious Belief"
+			},
+			{
+				"Immunization_Refusal_Reason_Code": "2",
+				"Description_of_Refusal_Reason": "Adverse Reaction"
+			},
+			{
+				"Immunization_Refusal_Reason_Code": "3",
+				"Description_of_Refusal_Reason": "Care Giver Refused"
+			},
+			{
+				"Immunization_Refusal_Reason_Code": "4",
+				"Description_of_Refusal_Reason": "No Reason"
+			}
+		]
+	}

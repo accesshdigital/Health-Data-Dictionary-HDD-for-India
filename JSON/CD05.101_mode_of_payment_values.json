@@ -1,0 +1,56 @@
+{
+		"nodes": [
+			{
+				"Mode_of_Payment_Code": "1",
+				"Mode_of_Payment_Name": "Cheque"
+			},
+			{
+				"Mode_of_Payment_Code": "2",
+				"Mode_of_Payment_Name": "NEFT"
+			},
+			{
+				"Mode_of_Payment_Code": "3",
+				"Mode_of_Payment_Name": "RTGS"
+			},
+			{
+				"Mode_of_Payment_Code": "4",
+				"Mode_of_Payment_Name": "Demand Draft"
+			},
+			{
+				"Mode_of_Payment_Code": "5",
+				"Mode_of_Payment_Name": "Cash"
+			},
+			{
+				"Mode_of_Payment_Code": "6",
+				"Mode_of_Payment_Name": "Credit Card"
+			},
+			{
+				"Mode_of_Payment_Code": "7",
+				"Mode_of_Payment_Name": "Debit Card"
+			},
+			{
+				"Mode_of_Payment_Code": "8",
+				"Mode_of_Payment_Name": "Vouchers"
+			},
+			{
+				"Mode_of_Payment_Code": "9",
+				"Mode_of_Payment_Name": "Paypal"
+			},
+			{
+				"Mode_of_Payment_Code": "10",
+				"Mode_of_Payment_Name": "Cash Card"
+			},
+			{
+				"Mode_of_Payment_Code": "11",
+				"Mode_of_Payment_Name": "Mobile Money"
+			},
+			{
+				"Mode_of_Payment_Code": "12",
+				"Mode_of_Payment_Name": "Netbanking"
+			},
+			{
+				"Mode_of_Payment_Code": "13",
+				"Mode_of_Payment_Name": "Others"
+			}
+		]
+	}

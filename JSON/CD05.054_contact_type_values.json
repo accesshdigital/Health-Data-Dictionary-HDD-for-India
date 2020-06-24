@@ -1,0 +1,28 @@
+{
+		"nodes": [
+			{
+				"Contact__Type_Code": "1",
+				"Contact__Type__Description": "Immediate  Emergency  Contact"
+			},
+			{
+				"Contact__Type_Code": "2",
+				"Contact__Type__Description": "Next  of  kin"
+			},
+			{
+				"Contact__Type_Code": "3",
+				"Contact__Type__Description": "Family  relation"
+			},
+			{
+				"Contact__Type_Code": "4",
+				"Contact__Type__Description": "Guardian"
+			},
+			{
+				"Contact__Type_Code": "5",
+				"Contact__Type__Description": "Agent"
+			},
+			{
+				"Contact__Type_Code": "6",
+				"Contact__Type__Description": "Others"
+			}
+		]
+	}

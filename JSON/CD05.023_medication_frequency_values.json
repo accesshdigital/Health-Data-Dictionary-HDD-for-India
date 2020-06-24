@@ -1,0 +1,52 @@
+{
+		"nodes": [
+			{
+				"Medication_Frequency_Code": "AC",
+				"Medication_Frequency_Description": "Before meals"
+			},
+			{
+				"Medication_Frequency_Code": "BD",
+				"Medication_Frequency_Description": "Twice a day"
+			},
+			{
+				"Medication_Frequency_Code": "HS",
+				"Medication_Frequency_Description": "Before Sleep"
+			},
+			{
+				"Medication_Frequency_Code": "OD",
+				"Medication_Frequency_Description": "Once a day"
+			},
+			{
+				"Medication_Frequency_Code": "PC",
+				"Medication_Frequency_Description": "After meals"
+			},
+			{
+				"Medication_Frequency_Code": "Q2H",
+				"Medication_Frequency_Description": "Every 2 hours"
+			},
+			{
+				"Medication_Frequency_Code": "Q4H",
+				"Medication_Frequency_Description": "Every 4 hours"
+			},
+			{
+				"Medication_Frequency_Code": "QH",
+				"Medication_Frequency_Description": "Hourly"
+			},
+			{
+				"Medication_Frequency_Code": "QID",
+				"Medication_Frequency_Description": "Four times a day"
+			},
+			{
+				"Medication_Frequency_Code": "SOS",
+				"Medication_Frequency_Description": "As required"
+			},
+			{
+				"Medication_Frequency_Code": "STAT",
+				"Medication_Frequency_Description": "Now"
+			},
+			{
+				"Medication_Frequency_Code": "TID",
+				"Medication_Frequency_Description": "Thrice a day"
+			}
+		]
+	}

@@ -1,0 +1,476 @@
+{
+		"nodes": [
+			{
+				"Specimen_Type_Code": "1",
+				"Specimen__Type__Description": "Abscess"
+			},
+			{
+				"Specimen_Type_Code": "2",
+				"Specimen__Type__Description": "Tissue"
+			},
+			{
+				"Specimen_Type_Code": "3",
+				"Specimen__Type__Description": "Amputation"
+			},
+			{
+				"Specimen_Type_Code": "4",
+				"Specimen__Type__Description": "Aspirate"
+			},
+			{
+				"Specimen_Type_Code": "5",
+				"Specimen__Type__Description": "Autopsy"
+			},
+			{
+				"Specimen_Type_Code": "6",
+				"Specimen__Type__Description": "Blister"
+			},
+			{
+				"Specimen_Type_Code": "7",
+				"Specimen__Type__Description": "Boil"
+			},
+			{
+				"Specimen_Type_Code": "8",
+				"Specimen__Type__Description": "Cyst"
+			},
+			{
+				"Specimen_Type_Code": "9",
+				"Specimen__Type__Description": "Discharge"
+			},
+			{
+				"Specimen_Type_Code": "10",
+				"Specimen__Type__Description": "Fistula"
+			},
+			{
+				"Specimen_Type_Code": "11",
+				"Specimen__Type__Description": "Tissue,  Acne"
+			},
+			{
+				"Specimen_Type_Code": "12",
+				"Specimen__Type__Description": "Fluid,  Acne"
+			},
+			{
+				"Specimen_Type_Code": "13",
+				"Specimen__Type__Description": "Air  Sample"
+			},
+			{
+				"Specimen_Type_Code": "14",
+				"Specimen__Type__Description": "Allograft"
+			},
+			{
+				"Specimen_Type_Code": "15",
+				"Specimen__Type__Description": "Amputation"
+			},
+			{
+				"Specimen_Type_Code": "16",
+				"Specimen__Type__Description": "Catheter  Tip,  Angio"
+			},
+			{
+				"Specimen_Type_Code": "17",
+				"Specimen__Type__Description": "Catheter  Tip,  Arterial"
+			},
+			{
+				"Specimen_Type_Code": "18",
+				"Specimen__Type__Description": "Serum,  Acute"
+			},
+			{
+				"Specimen_Type_Code": "19",
+				"Specimen__Type__Description": "Environmental,  Autoclave  Ampule"
+			},
+			{
+				"Specimen_Type_Code": "20",
+				"Specimen__Type__Description": "Environment,  Attest"
+			},
+			{
+				"Specimen_Type_Code": "21",
+				"Specimen__Type__Description": "Blood  bag"
+			},
+			{
+				"Specimen_Type_Code": "22",
+				"Specimen__Type__Description": "Cyst,  Baker’s"
+			},
+			{
+				"Specimen_Type_Code": "23",
+				"Specimen__Type__Description": "Bite"
+			},
+			{
+				"Specimen_Type_Code": "24",
+				"Specimen__Type__Description": "Bleb"
+			},
+			{
+				"Specimen_Type_Code": "25",
+				"Specimen__Type__Description": "Bone"
+			},
+			{
+				"Specimen_Type_Code": "26",
+				"Specimen__Type__Description": "Bowel  contents"
+			},
+			{
+				"Specimen_Type_Code": "27",
+				"Specimen__Type__Description": "Blood  product  unit"
+			},
+			{
+				"Specimen_Type_Code": "28",
+				"Specimen__Type__Description": "Burn"
+			},
+			{
+				"Specimen_Type_Code": "29",
+				"Specimen__Type__Description": "Brush"
+			},
+			{
+				"Specimen_Type_Code": "30",
+				"Specimen__Type__Description": "Bubo"
+			},
+			{
+				"Specimen_Type_Code": "31",
+				"Specimen__Type__Description": "Bulla/Bullae"
+			},
+			{
+				"Specimen_Type_Code": "32",
+				"Specimen__Type__Description": "Biopsy"
+			},
+			{
+				"Specimen_Type_Code": "33",
+				"Specimen__Type__Description": "Calculus  (=Stone)"
+			},
+			{
+				"Specimen_Type_Code": "34",
+				"Specimen__Type__Description": "Carbuncle"
+			},
+			{
+				"Specimen_Type_Code": "35",
+				"Specimen__Type__Description": "Catheter"
+			},
+			{
+				"Specimen_Type_Code": "36",
+				"Specimen__Type__Description": "Bite,  Cat"
+			},
+			{
+				"Specimen_Type_Code": "37",
+				"Specimen__Type__Description": "Clippings"
+			},
+			{
+				"Specimen_Type_Code": "38",
+				"Specimen__Type__Description": "Conjunctiva"
+			},
+			{
+				"Specimen_Type_Code": "39",
+				"Specimen__Type__Description": "Colostrum"
+			},
+			{
+				"Specimen_Type_Code": "40",
+				"Specimen__Type__Description": "Biopsy,  Cone"
+			},
+			{
+				"Specimen_Type_Code": "41",
+				"Specimen__Type__Description": "Scratch,  Cat"
+			},
+			{
+				"Specimen_Type_Code": "42",
+				"Specimen__Type__Description": "Serum,  Convalescent"
+			},
+			{
+				"Specimen_Type_Code": "43",
+				"Specimen__Type__Description": "Catheter  Insertion  Site"
+			},
+			{
+				"Specimen_Type_Code": "44",
+				"Specimen__Type__Description": "Fluid,   Cystostomy  Tube"
+			},
+			{
+				"Specimen_Type_Code": "45",
+				"Specimen__Type__Description": "Fluid,  Cyst"
+			},
+			{
+				"Specimen_Type_Code": "46",
+				"Specimen__Type__Description": "Blood,  Cell  Saver"
+			},
+			{
+				"Specimen_Type_Code": "47",
+				"Specimen__Type__Description": "Catheter  tip"
+			},
+			{
+				"Specimen_Type_Code": "48",
+				"Specimen__Type__Description": "Site,  CVP"
+			},
+			{
+				"Specimen_Type_Code": "49",
+				"Specimen__Type__Description": "Catheter  Tip,  CVP"
+			},
+			{
+				"Specimen_Type_Code": "50",
+				"Specimen__Type__Description": "Nodule,  Cystic"
+			},
+			{
+				"Specimen_Type_Code": "51",
+				"Specimen__Type__Description": "Bite,  Dog"
+			},
+			{
+				"Specimen_Type_Code": "52",
+				"Specimen__Type__Description": "Sputum,  Deep  Cough"
+			},
+			{
+				"Specimen_Type_Code": "53",
+				"Specimen__Type__Description": "Ulcer,  Decubitus"
+			},
+			{
+				"Specimen_Type_Code": "54",
+				"Specimen__Type__Description": "Brush,  Esophageal"
+			},
+			{
+				"Specimen_Type_Code": "55",
+				"Specimen__Type__Description": "Environmental,  Water   (Deionized)"
+			},
+			{
+				"Specimen_Type_Code": "56",
+				"Specimen__Type__Description": "Dialysate"
+			},
+			{
+				"Specimen_Type_Code": "57",
+				"Specimen__Type__Description": "Diverticulum"
+			},
+			{
+				"Specimen_Type_Code": "58",
+				"Specimen__Type__Description": "Drain"
+			},
+			{
+				"Specimen_Type_Code": "59",
+				"Specimen__Type__Description": "Drainage,  Tube"
+			},
+			{
+				"Specimen_Type_Code": "60",
+				"Specimen__Type__Description": "Drainage,  Penrose"
+			},
+			{
+				"Specimen_Type_Code": "61",
+				"Specimen__Type__Description": "Ear  wax  (cerumen)"
+			},
+			{
+				"Specimen_Type_Code": "62",
+				"Specimen__Type__Description": "Environmental,  Isolette"
+			},
+			{
+				"Specimen_Type_Code": "63",
+				"Specimen__Type__Description": "Electrode"
+			},
+			{
+				"Specimen_Type_Code": "64",
+				"Specimen__Type__Description": "Environmental,  Unidentified Substance"
+			},
+			{
+				"Specimen_Type_Code": "65",
+				"Specimen__Type__Description": "Environmental,  Other  Substance"
+			},
+			{
+				"Specimen_Type_Code": "66",
+				"Specimen__Type__Description": "Environmental,  Soil"
+			},
+			{
+				"Specimen_Type_Code": "67",
+				"Specimen__Type__Description": "Environmental,  Solution  (Sterile)"
+			},
+			{
+				"Specimen_Type_Code": "68",
+				"Specimen__Type__Description": "Aspirate,   Endotrach"
+			},
+			{
+				"Specimen_Type_Code": "69",
+				"Specimen__Type__Description": "Catheter  Tip,  Endotracheal"
+			},
+			{
+				"Specimen_Type_Code": "70",
+				"Specimen__Type__Description": "Tube,  Endotracheal"
+			},
+			{
+				"Specimen_Type_Code": "71",
+				"Specimen__Type__Description": "Environmental,  Whirlpool"
+			},
+			{
+				"Specimen_Type_Code": "72",
+				"Specimen__Type__Description": "Gas,  exhaled  (=breath)"
+			},
+			{
+				"Specimen_Type_Code": "73",
+				"Specimen__Type__Description": "Shunt,  External"
+			},
+			{
+				"Specimen_Type_Code": "74",
+				"Specimen__Type__Description": "Exudate"
+			},
+			{
+				"Specimen_Type_Code": "75",
+				"Specimen__Type__Description": "Environmental,  Water   (Well)"
+			},
+			{
+				"Specimen_Type_Code": "76",
+				"Specimen__Type__Description": "Blood,  Fetal"
+			},
+			{
+				"Specimen_Type_Code": "77",
+				"Specimen__Type__Description": "Fluid,   Abdomen"
+			},
+			{
+				"Specimen_Type_Code": "78",
+				"Specimen__Type__Description": "Fluid,  Other"
+			},
+			{
+				"Specimen_Type_Code": "79",
+				"Specimen__Type__Description": "Filter"
+			},
+			{
+				"Specimen_Type_Code": "80",
+				"Specimen__Type__Description": "Fluid,  Body  unsp"
+			},
+			{
+				"Specimen_Type_Code": "81",
+				"Specimen__Type__Description": "Fluid"
+			},
+			{
+				"Specimen_Type_Code": "82",
+				"Specimen__Type__Description": "Catheter  Tip,  Foley"
+			},
+			{
+				"Specimen_Type_Code": "83",
+				"Specimen__Type__Description": "Fluid,  Respiratory"
+			},
+			{
+				"Specimen_Type_Code": "84",
+				"Specimen__Type__Description": "Scalp,  Fetal"
+			},
+			{
+				"Specimen_Type_Code": "85",
+				"Specimen__Type__Description": "Furuncle"
+			},
+			{
+				"Specimen_Type_Code": "86",
+				"Specimen__Type__Description": "Gas"
+			},
+			{
+				"Specimen_Type_Code": "87",
+				"Specimen__Type__Description": "Aspirate,  Gastric"
+			},
+			{
+				"Specimen_Type_Code": "88",
+				"Specimen__Type__Description": "Antrum,  Gastric"
+			},
+			{
+				"Specimen_Type_Code": "89",
+				"Specimen__Type__Description": "Brushing,  Gastric"
+			},
+			{
+				"Specimen_Type_Code": "90",
+				"Specimen__Type__Description": "Drainage,  Gastric"
+			},
+			{
+				"Specimen_Type_Code": "91",
+				"Specimen__Type__Description": "Fluid/contents,  Gastric"
+			},
+			{
+				"Specimen_Type_Code": "92",
+				"Specimen__Type__Description": "Genital  vaginal"
+			},
+			{
+				"Specimen_Type_Code": "93",
+				"Specimen__Type__Description": "Graft"
+			},
+			{
+				"Specimen_Type_Code": "94",
+				"Specimen__Type__Description": "Granuloma"
+			},
+			{
+				"Specimen_Type_Code": "95",
+				"Specimen__Type__Description": "Catheter,  Groshong"
+			},
+			{
+				"Specimen_Type_Code": "96",
+				"Specimen__Type__Description": "Solution,  Gastrostomy"
+			},
+			{
+				"Specimen_Type_Code": "97",
+				"Specimen__Type__Description": "Biopsy,  Gastric"
+			},
+			{
+				"Specimen_Type_Code": "98",
+				"Specimen__Type__Description": "Tube,  Gastric"
+			},
+			{
+				"Specimen_Type_Code": "99",
+				"Specimen__Type__Description": "Drainage  Tube,  Drainage (Gastrostomy)"
+			},
+			{
+				"Specimen_Type_Code": "100",
+				"Specimen__Type__Description": "Bite,  Human"
+			},
+			{
+				"Specimen_Type_Code": "101",
+				"Specimen__Type__Description": "Blood,  Autopsy"
+			},
+			{
+				"Specimen_Type_Code": "102",
+				"Specimen__Type__Description": "Catheter  Tip,  Hemaquit"
+			},
+			{
+				"Specimen_Type_Code": "103",
+				"Specimen__Type__Description": "Catheter  Tip,  Hemovac"
+			},
+			{
+				"Specimen_Type_Code": "104",
+				"Specimen__Type__Description": "Tissue,  Herniated"
+			},
+			{
+				"Specimen_Type_Code": "105",
+				"Specimen__Type__Description": "Drain,  Hemovac"
+			},
+			{
+				"Specimen_Type_Code": "106",
+				"Specimen__Type__Description": "Insufficient  Tissue"
+			},
+			{
+				"Specimen_Type_Code": "107",
+				"Specimen__Type__Description": "Not  abnormal"
+			},
+			{
+				"Specimen_Type_Code": "108",
+				"Specimen__Type__Description": "Abnormal-not  categorized"
+			},
+			{
+				"Specimen_Type_Code": "109",
+				"Specimen__Type__Description": "Mechanical  abnormal"
+			},
+			{
+				"Specimen_Type_Code": "110",
+				"Specimen__Type__Description": "Growth  alteration"
+			},
+			{
+				"Specimen_Type_Code": "111",
+				"Specimen__Type__Description": "Degeneration  &  necrosis"
+			},
+			{
+				"Specimen_Type_Code": "112",
+				"Specimen__Type__Description": "Non-acute  inflammation"
+			},
+			{
+				"Specimen_Type_Code": "113",
+				"Specimen__Type__Description": "Non-malignant  neoplasm"
+			},
+			{
+				"Specimen_Type_Code": "114",
+				"Specimen__Type__Description": "Malignant  neoplasm"
+			},
+			{
+				"Specimen_Type_Code": "115",
+				"Specimen__Type__Description": "No  tissue  expected"
+			},
+			{
+				"Specimen_Type_Code": "116",
+				"Specimen__Type__Description": "Basal  cell  carcinoma"
+			},
+			{
+				"Specimen_Type_Code": "117",
+				"Specimen__Type__Description": "Carcinoma-unspecified  type"
+			},
+			{
+				"Specimen_Type_Code": "118",
+				"Specimen__Type__Description": "Additional  tissue  required"
+			}
+		]
+	}

@@ -1,0 +1,248 @@
+{
+		"nodes": [
+			{
+				"Medication_Package_Type_Code": "C16738",
+				"Medication_Package_Type_Name": "Inhaler"
+			},
+			{
+				"Medication_Package_Type_Code": "C42794",
+				"Medication_Package_Type_Name": "Tube"
+			},
+			{
+				"Medication_Package_Type_Code": "C43165",
+				"Medication_Package_Type_Name": "Ampule"
+			},
+			{
+				"Medication_Package_Type_Code": "C43166",
+				"Medication_Package_Type_Name": "Applicator"
+			},
+			{
+				"Medication_Package_Type_Code": "C43167",
+				"Medication_Package_Type_Name": "Bag"
+			},
+			{
+				"Medication_Package_Type_Code": "C43168",
+				"Medication_Package_Type_Name": "Blister Pack"
+			},
+			{
+				"Medication_Package_Type_Code": "C43169",
+				"Medication_Package_Type_Name": "Bottle"
+			},
+			{
+				"Medication_Package_Type_Code": "C43170",
+				"Medication_Package_Type_Name": "Bottle, Dispensing"
+			},
+			{
+				"Medication_Package_Type_Code": "C43171",
+				"Medication_Package_Type_Name": "Bottle, Dropper"
+			},
+			{
+				"Medication_Package_Type_Code": "C43172",
+				"Medication_Package_Type_Name": "Bottle, Glass"
+			},
+			{
+				"Medication_Package_Type_Code": "C43173",
+				"Medication_Package_Type_Name": "Bottle, Plastic"
+			},
+			{
+				"Medication_Package_Type_Code": "C43174",
+				"Medication_Package_Type_Name": "Bottle, Pump"
+			},
+			{
+				"Medication_Package_Type_Code": "C43175",
+				"Medication_Package_Type_Name": "Bottle, Spray"
+			},
+			{
+				"Medication_Package_Type_Code": "C43176",
+				"Medication_Package_Type_Name": "Bottle, Unit-Dose"
+			},
+			{
+				"Medication_Package_Type_Code": "C43177",
+				"Medication_Package_Type_Name": "Bottle, With Applicator"
+			},
+			{
+				"Medication_Package_Type_Code": "C43178",
+				"Medication_Package_Type_Name": "Box"
+			},
+			{
+				"Medication_Package_Type_Code": "C43179",
+				"Medication_Package_Type_Name": "Box, Unit-Dose"
+			},
+			{
+				"Medication_Package_Type_Code": "C43180",
+				"Medication_Package_Type_Name": "Can"
+			},
+			{
+				"Medication_Package_Type_Code": "C43181",
+				"Medication_Package_Type_Name": "Canister"
+			},
+			{
+				"Medication_Package_Type_Code": "C43182",
+				"Medication_Package_Type_Name": "Carton"
+			},
+			{
+				"Medication_Package_Type_Code": "C43183",
+				"Medication_Package_Type_Name": "Cartridge"
+			},
+			{
+				"Medication_Package_Type_Code": "C43184",
+				"Medication_Package_Type_Name": "Case"
+			},
+			{
+				"Medication_Package_Type_Code": "C43185",
+				"Medication_Package_Type_Name": "Cello Pack"
+			},
+			{
+				"Medication_Package_Type_Code": "C43186",
+				"Medication_Package_Type_Name": "Container"
+			},
+			{
+				"Medication_Package_Type_Code": "C43187",
+				"Medication_Package_Type_Name": "Cup"
+			},
+			{
+				"Medication_Package_Type_Code": "C43188",
+				"Medication_Package_Type_Name": "Cup, Unit-Dose"
+			},
+			{
+				"Medication_Package_Type_Code": "C43189",
+				"Medication_Package_Type_Name": "Cylinder"
+			},
+			{
+				"Medication_Package_Type_Code": "C43190",
+				"Medication_Package_Type_Name": "Dewar"
+			},
+			{
+				"Medication_Package_Type_Code": "C43191",
+				"Medication_Package_Type_Name": "Dialpack"
+			},
+			{
+				"Medication_Package_Type_Code": "C43192",
+				"Medication_Package_Type_Name": "Dose Pack"
+			},
+			{
+				"Medication_Package_Type_Code": "C43193",
+				"Medication_Package_Type_Name": "Drum"
+			},
+			{
+				"Medication_Package_Type_Code": "C43194",
+				"Medication_Package_Type_Name": "Inhaler, Refill"
+			},
+			{
+				"Medication_Package_Type_Code": "C43195",
+				"Medication_Package_Type_Name": "Jar"
+			},
+			{
+				"Medication_Package_Type_Code": "C43196",
+				"Medication_Package_Type_Name": "Jug"
+			},
+			{
+				"Medication_Package_Type_Code": "C43197",
+				"Medication_Package_Type_Name": "Kit"
+			},
+			{
+				"Medication_Package_Type_Code": "C43198",
+				"Medication_Package_Type_Name": "Package, Combination"
+			},
+			{
+				"Medication_Package_Type_Code": "C43199",
+				"Medication_Package_Type_Name": "Packet"
+			},
+			{
+				"Medication_Package_Type_Code": "C43200",
+				"Medication_Package_Type_Name": "Pouch"
+			},
+			{
+				"Medication_Package_Type_Code": "C43201",
+				"Medication_Package_Type_Name": "Supersack"
+			},
+			{
+				"Medication_Package_Type_Code": "C43202",
+				"Medication_Package_Type_Name": "Syringe"
+			},
+			{
+				"Medication_Package_Type_Code": "C43203",
+				"Medication_Package_Type_Name": "Syringe, Glass"
+			},
+			{
+				"Medication_Package_Type_Code": "C43204",
+				"Medication_Package_Type_Name": "Syringe, Plastic"
+			},
+			{
+				"Medication_Package_Type_Code": "C43205",
+				"Medication_Package_Type_Name": "Tabminder"
+			},
+			{
+				"Medication_Package_Type_Code": "C43206",
+				"Medication_Package_Type_Name": "Tank"
+			},
+			{
+				"Medication_Package_Type_Code": "C43207",
+				"Medication_Package_Type_Name": "Tube, With Applicator"
+			},
+			{
+				"Medication_Package_Type_Code": "C43208",
+				"Medication_Package_Type_Name": "Vial, Dispensing"
+			},
+			{
+				"Medication_Package_Type_Code": "C43209",
+				"Medication_Package_Type_Name": "Vial, Glass"
+			},
+			{
+				"Medication_Package_Type_Code": "C43210",
+				"Medication_Package_Type_Name": "Vial, Multi-Dose"
+			},
+			{
+				"Medication_Package_Type_Code": "C43211",
+				"Medication_Package_Type_Name": "Vial, Patent Delivery System"
+			},
+			{
+				"Medication_Package_Type_Code": "C43212",
+				"Medication_Package_Type_Name": "Vial, Pharmacy Bulk Package"
+			},
+			{
+				"Medication_Package_Type_Code": "C43213",
+				"Medication_Package_Type_Name": "Vial, Piggyback"
+			},
+			{
+				"Medication_Package_Type_Code": "C43214",
+				"Medication_Package_Type_Name": "Vial, Plastic"
+			},
+			{
+				"Medication_Package_Type_Code": "C43215",
+				"Medication_Package_Type_Name": "Vial, Single-Dose"
+			},
+			{
+				"Medication_Package_Type_Code": "C43216",
+				"Medication_Package_Type_Name": "Vial, Single-Use"
+			},
+			{
+				"Medication_Package_Type_Code": "C43226",
+				"Medication_Package_Type_Name": "Vial"
+			},
+			{
+				"Medication_Package_Type_Code": "C43233",
+				"Medication_Package_Type_Name": "Package"
+			},
+			{
+				"Medication_Package_Type_Code": "C53438",
+				"Medication_Package_Type_Name": "Tray"
+			},
+			{
+				"Medication_Package_Type_Code": "C79135",
+				"Medication_Package_Type_Name": "Container, Flexible Intermediate Bulk"
+			},
+			{
+				"Medication_Package_Type_Code": "C79136",
+				"Medication_Package_Type_Name": "Pail"
+			},
+			{
+				"Medication_Package_Type_Code": "C82332",
+				"Medication_Package_Type_Name": "Patch"
+			},
+			{
+				"Medication_Package_Type_Code": "C92708",
+				"Medication_Package_Type_Name": "Capsule"
+			}
+		]
+	}

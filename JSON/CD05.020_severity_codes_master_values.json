@@ -1,0 +1,32 @@
+{
+		"nodes": [
+			{
+				"Severity_Code": "1",
+				"Severity_Description": "Mild"
+			},
+			{
+				"Severity_Code": "2",
+				"Severity_Description": "Moderate"
+			},
+			{
+				"Severity_Code": "3",
+				"Severity_Description": "Severe"
+			},
+			{
+				"Severity_Code": "4",
+				"Severity_Description": "Potentially Life Threatening"
+			},
+			{
+				"Severity_Code": "5",
+				"Severity_Description": "Anaphylaxis"
+			},
+			{
+				"Severity_Code": "6",
+				"Severity_Description": "Fatal"
+			},
+			{
+				"Severity_Code": "7",
+				"Severity_Description": "Toxicosis"
+			}
+		]
+	}

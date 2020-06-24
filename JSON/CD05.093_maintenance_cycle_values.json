@@ -1,0 +1,12 @@
+{
+		"nodes": [
+			{
+				"Maintenance_Cycle_Code": "1",
+				"Maintenance_Cycle_Name": "Sharpening"
+			},
+			{
+				"Maintenance_Cycle_Code": "2",
+				"Maintenance_Cycle_Name": "Polishing"
+			}
+		]
+	}

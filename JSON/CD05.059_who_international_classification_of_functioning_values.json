@@ -1,0 +1,14 @@
+{
+		"nodes": [
+			{
+				"Disability_Condition_Code": "1",
+				"Disability__Condition__Name": "State  of  consciousness",
+				"ICF__Code": "B1100"
+			},
+			{
+				"Disability_Condition_Code": "2",
+				"Disability__Condition__Name": "Continuity  of  consciousness",
+				"ICF__Code": "B1101"
+			}
+		]
+	}

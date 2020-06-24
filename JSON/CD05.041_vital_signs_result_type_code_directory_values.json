@@ -1,0 +1,48 @@
+{
+		"nodes": [
+			{
+				"Vital_Signs_Type\nCode": "1",
+				"Vital_Signs_Type_Name": "Body Height"
+			},
+			{
+				"Vital_Signs_Type\nCode": "2",
+				"Vital_Signs_Type_Name": "Body Weight"
+			},
+			{
+				"Vital_Signs_Type\nCode": "3",
+				"Vital_Signs_Type_Name": "Systolic Blood Pressure"
+			},
+			{
+				"Vital_Signs_Type\nCode": "4",
+				"Vital_Signs_Type_Name": "Diastolic Blood Pressure"
+			},
+			{
+				"Vital_Signs_Type\nCode": "5",
+				"Vital_Signs_Type_Name": "Pulse Rate"
+			},
+			{
+				"Vital_Signs_Type\nCode": "6",
+				"Vital_Signs_Type_Name": "Respiratory Rate"
+			},
+			{
+				"Vital_Signs_Type\nCode": "7",
+				"Vital_Signs_Type_Name": "Temperature"
+			},
+			{
+				"Vital_Signs_Type\nCode": "8",
+				"Vital_Signs_Type_Name": "Heart Rate"
+			},
+			{
+				"Vital_Signs_Type\nCode": "9",
+				"Vital_Signs_Type_Name": "Head Circumference"
+			},
+			{
+				"Vital_Signs_Type\nCode": "10",
+				"Vital_Signs_Type_Name": "Oxygen Saturation"
+			},
+			{
+				"Vital_Signs_Type\nCode": "11",
+				"Vital_Signs_Type_Name": "Others"
+			}
+		]
+	}

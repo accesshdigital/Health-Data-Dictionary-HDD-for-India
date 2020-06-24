@@ -1,0 +1,114 @@
+{
+		"nodes": [
+			{
+				"Health_Condition_Type_Code": "1",
+				"Health_Condition_Type_Name": "Certain infectious and parasitic diseases",
+				"ICD-10_Code_range": "A00-B99"
+			},
+			{
+				"Health_Condition_Type_Code": "2",
+				"Health_Condition_Type_Name": "Neoplasms",
+				"ICD-10_Code_range": "C00-D48"
+			},
+			{
+				"Health_Condition_Type_Code": "3",
+				"Health_Condition_Type_Name": "Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism",
+				"ICD-10_Code_range": "D50-D89"
+			},
+			{
+				"Health_Condition_Type_Code": "4",
+				"Health_Condition_Type_Name": "Endocrine, nutritional and metabolic diseases",
+				"ICD-10_Code_range": "E00-E90"
+			},
+			{
+				"Health_Condition_Type_Code": "5",
+				"Health_Condition_Type_Name": "Mental and behavioral disorders",
+				"ICD-10_Code_range": "F00-F99"
+			},
+			{
+				"Health_Condition_Type_Code": "6",
+				"Health_Condition_Type_Name": "Diseases of the nervous system",
+				"ICD-10_Code_range": "G00-G99"
+			},
+			{
+				"Health_Condition_Type_Code": "7",
+				"Health_Condition_Type_Name": "Diseases of the eye and adnexa",
+				"ICD-10_Code_range": "H00-H59"
+			},
+			{
+				"Health_Condition_Type_Code": "8",
+				"Health_Condition_Type_Name": "Diseases of the ear and mastoid process",
+				"ICD-10_Code_range": "H60-H95"
+			},
+			{
+				"Health_Condition_Type_Code": "9",
+				"Health_Condition_Type_Name": "Diseases of the circulatory system",
+				"ICD-10_Code_range": "I00-I99"
+			},
+			{
+				"Health_Condition_Type_Code": "10",
+				"Health_Condition_Type_Name": "Diseases of the respiratory system",
+				"ICD-10_Code_range": "J00-J99"
+			},
+			{
+				"Health_Condition_Type_Code": "11",
+				"Health_Condition_Type_Name": "Diseases of the digestive system",
+				"ICD-10_Code_range": "K00-K93"
+			},
+			{
+				"Health_Condition_Type_Code": "12",
+				"Health_Condition_Type_Name": "Diseases of the skin and subcutaneous tissue",
+				"ICD-10_Code_range": "L00-L99"
+			},
+			{
+				"Health_Condition_Type_Code": "13",
+				"Health_Condition_Type_Name": "Diseases of the musculoskeletal system and connective tissue",
+				"ICD-10_Code_range": "M00-M99"
+			},
+			{
+				"Health_Condition_Type_Code": "14",
+				"Health_Condition_Type_Name": "Diseases of the genitourinary system",
+				"ICD-10_Code_range": "N00-N99"
+			},
+			{
+				"Health_Condition_Type_Code": "15",
+				"Health_Condition_Type_Name": "Pregnancy, childbirth and the puerperium",
+				"ICD-10_Code_range": "O00-O99"
+			},
+			{
+				"Health_Condition_Type_Code": "16",
+				"Health_Condition_Type_Name": "Certain conditions originating in the perinatal period",
+				"ICD-10_Code_range": "P00-P96"
+			},
+			{
+				"Health_Condition_Type_Code": "17",
+				"Health_Condition_Type_Name": "Congenital malformations, deformations and chromosomal abnormalities",
+				"ICD-10_Code_range": "Q00-Q99"
+			},
+			{
+				"Health_Condition_Type_Code": "18",
+				"Health_Condition_Type_Name": "Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",
+				"ICD-10_Code_range": "R00-R99"
+			},
+			{
+				"Health_Condition_Type_Code": "19",
+				"Health_Condition_Type_Name": "Injury, poisoning and certain other consequences of external causes.",
+				"ICD-10_Code_range": "S00-T98"
+			},
+			{
+				"Health_Condition_Type_Code": "20",
+				"Health_Condition_Type_Name": "External causes of morbidity and mortality",
+				"ICD-10_Code_range": "V01-Y98"
+			},
+			{
+				"Health_Condition_Type_Code": "21",
+				"Health_Condition_Type_Name": "Factors influencing health status and contact with health services",
+				"ICD-10_Code_range": "Z00-Z99"
+			},
+			{
+				"Health_Condition_Type_Code": "22",
+				"Health_Condition_Type_Name": "Codes for special purposes",
+				"ICD-10_Code_range": "U00-U99"
+			}
+		]
+	}

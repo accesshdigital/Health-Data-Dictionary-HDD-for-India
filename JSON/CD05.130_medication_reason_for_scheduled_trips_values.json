@@ -1,0 +1,216 @@
+{
+		"nodes": [
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "1",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Arterial Blood Gases"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "2",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Blood Transfusions"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "3",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Bone Scans"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "4",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Cardiac Catheterization"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "5",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Cardiac Stress Testing"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "6",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Cast Application"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "7",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Cast Removal"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "8",
+				"Medication_Reason_for_Scheduled_Trip_Name": "CAT Scans"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "9",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Cataract Surgery"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "10",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Chemotherapy"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "11",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Detoxification"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "12",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Diagnostic Mammography"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "13",
+				"Medication_Reason_for_Scheduled_Trip_Name": "EEG"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "14",
+				"Medication_Reason_for_Scheduled_Trip_Name": "EKG/ECG"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "15",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Electroconvulsive Therapy (ECT)"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "16",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Endoscopy"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "17",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Evaluation and Management"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "18",
+				"Medication_Reason_for_Scheduled_Trip_Name": "MRI Scans"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "19",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Nerve Blocks"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "20",
+				"Medication_Reason_for_Scheduled_Trip_Name": "No one available to receive the patient"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "21",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Nuclear Medicine Tests"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "22",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Occupational Therapy"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "23",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Other Ambulatory Surgery: Biopsy"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "24",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Other Ambulatory Surgery: Debridement Decubitis Ulcer"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "25",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Other Ambulatory Surgery: Lithotripsy"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "26",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Other Ambulatory Surgery: Shunt declotting"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "27",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Other Ambulatory Surgery: Vascular Shunt Maintenance"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "28",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Other Ambulatory Surgery: Ventricular Shunt Maintenance"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "29",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Other Hyperbaric Therapy"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "30",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Other Intravenous Therapy: Antibiotic"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "31",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Other Intravenous Therapy: Hydration"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "32",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Other Laboratory Testing (Specify Type of Lab Test)"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "33",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Other Psychiatric/Psychological Services (Specify Type of Service)"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "34",
+				"Medication_Reason_for_Scheduled_Trip_Name": "PET Scans"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "35",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Physical Therapy"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "36",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Pre-Surgical Testing"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "37",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Pulmonary Function Testing"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "38",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Radiation Oncology and/or Radiotherapy"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "39",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Rehabilitation"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "40",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Renal Dialysis"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "41",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Respiratory Therapy"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "42",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Response to call/non-transport - deceased patient"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "43",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Response to call/non-transport - patient refuses"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "44",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Rotary aircraft used instead of fixed wing because faster response time needed"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "45",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Rotary aircraft used instead of fixed wing because fixed wing craft not available"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "46",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Rotary aircraft used instead of fixed wing because no landing strip available"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "47",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Rotary aircraft used instead of fixed wing because pilot not available for rotary aircraft"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "48",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Speech-Language Pathology"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "49",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Trach Tube/GI Tube Insertion/Placement"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "50",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Ultrasounds"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "51",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Whole Body Hyperbaric Therapy"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "52",
+				"Medication_Reason_for_Scheduled_Trip_Name": "X-Rays"
+			},
+			{
+				"Medication_Reason_for_Scheduled_Trip_Name_Code": "53",
+				"Medication_Reason_for_Scheduled_Trip_Name": "Non-Emergency Medical Condition"
+			}
+		]
+	}

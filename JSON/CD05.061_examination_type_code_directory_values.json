@@ -1,0 +1,20 @@
+{
+		"nodes": [
+			{
+				"Examination_Type__Code": "1",
+				"Examination__Type__Description": "Inspection"
+			},
+			{
+				"Examination_Type__Code": "2",
+				"Examination__Type__Description": "Palpation"
+			},
+			{
+				"Examination_Type__Code": "3",
+				"Examination__Type__Description": "Percussion"
+			},
+			{
+				"Examination_Type__Code": "4",
+				"Examination__Type__Description": "Auscultation"
+			}
+		]
+	}

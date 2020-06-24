@@ -1,0 +1,32 @@
+{
+		"nodes": [
+			{
+				"Address_Type_Code": "C",
+				"Address_Type_Name": "Current Address"
+			},
+			{
+				"Address_Type_Code": "D",
+				"Address_Type_Name": "Domicile Address"
+			},
+			{
+				"Address_Type_Code": "O",
+				"Address_Type_Name": "Other Address"
+			},
+			{
+				"Address_Type_Code": "P",
+				"Address_Type_Name": "Permanent Address"
+			},
+			{
+				"Address_Type_Code": "T",
+				"Address_Type_Name": "Temporary Address"
+			},
+			{
+				"Address_Type_Code": "U",
+				"Address_Type_Name": "Address Unknown"
+			},
+			{
+				"Address_Type_Code": "V",
+				"Address_Type_Name": "Previous Address"
+			}
+		]
+	}

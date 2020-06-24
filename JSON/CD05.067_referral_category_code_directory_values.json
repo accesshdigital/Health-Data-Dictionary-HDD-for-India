@@ -1,0 +1,20 @@
+{
+		"nodes": [
+			{
+				"Referral_Category_Code": "A",
+				"Referral__Category__Name": "Ambulatory"
+			},
+			{
+				"Referral_Category_Code": "E",
+				"Referral__Category__Name": "Emergency"
+			},
+			{
+				"Referral_Category_Code": "I",
+				"Referral__Category__Name": "Inpatient"
+			},
+			{
+				"Referral_Category_Code": "O",
+				"Referral__Category__Name": "Outpatient"
+			}
+		]
+	}

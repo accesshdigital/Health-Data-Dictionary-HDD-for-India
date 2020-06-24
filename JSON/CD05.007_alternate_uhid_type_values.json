@@ -1,0 +1,36 @@
+{
+		"nodes": [
+			{
+				"Alternate_UHID_Type_Code": "1",
+				"Alternate_UHID_Type_Description": "PAN"
+			},
+			{
+				"Alternate_UHID_Type_Code": "2",
+				"Alternate_UHID_Type_Description": "Passport Number"
+			},
+			{
+				"Alternate_UHID_Type_Code": "3",
+				"Alternate_UHID_Type_Description": "Voter ID"
+			},
+			{
+				"Alternate_UHID_Type_Code": "4",
+				"Alternate_UHID_Type_Description": "Driving License"
+			},
+			{
+				"Alternate_UHID_Type_Code": "5",
+				"Alternate_UHID_Type_Description": "Identifier(s) assigned by central/state or local Government authorities"
+			},
+			{
+				"Alternate_UHID_Type_Code": "6",
+				"Alternate_UHID_Type_Description": "Ration Card Number"
+			},
+			{
+				"Alternate_UHID_Type_Code": "7",
+				"Alternate_UHID_Type_Description": "BPL Card Number"
+			},
+			{
+				"Alternate_UHID_Type_Code": "8",
+				"Alternate_UHID_Type_Description": "Other"
+			}
+		]
+	}

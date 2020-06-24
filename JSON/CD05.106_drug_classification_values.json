@@ -1,0 +1,124 @@
+{
+		"nodes": [
+			{
+				"Drug_Classification_Type_Code": "1",
+				"Drug_Classification_Type_Name": "Analgesics, Antipyretics, Nonsteroidal Anti-inflammatory Medicines."
+			},
+			{
+				"Drug_Classification_Type_Code": "2",
+				"Drug_Classification_Type_Name": "Antacids and Antiulcer Drugs."
+			},
+			{
+				"Drug_Classification_Type_Code": "3",
+				"Drug_Classification_Type_Name": "Antiallergics and Medicines used in Anaphylaxis"
+			},
+			{
+				"Drug_Classification_Type_Code": "4",
+				"Drug_Classification_Type_Name": "Anti-Alzheimer and Anti-Parkinsonism Drugs"
+			},
+			{
+				"Drug_Classification_Type_Code": "5",
+				"Drug_Classification_Type_Name": "Anticonvulsants/ Antiepileptics"
+			},
+			{
+				"Drug_Classification_Type_Code": "6",
+				"Drug_Classification_Type_Name": "Antidiarrheal and Laxatives"
+			},
+			{
+				"Drug_Classification_Type_Code": "7",
+				"Drug_Classification_Type_Name": "Antidotes and Other Substances used in Poisonings"
+			},
+			{
+				"Drug_Classification_Type_Code": "8",
+				"Drug_Classification_Type_Name": "Antiemetics"
+			},
+			{
+				"Drug_Classification_Type_Code": "9",
+				"Drug_Classification_Type_Name": "Anti-infective Medicines"
+			},
+			{
+				"Drug_Classification_Type_Code": "10",
+				"Drug_Classification_Type_Name": "Antimigraine medicines"
+			},
+			{
+				"Drug_Classification_Type_Code": "11",
+				"Drug_Classification_Type_Name": "Antineoplastic, immunosuppressives and medicines used in palliative care"
+			},
+			{
+				"Drug_Classification_Type_Code": "12",
+				"Drug_Classification_Type_Name": "Antiseptics and Disinfectants"
+			},
+			{
+				"Drug_Classification_Type_Code": "13",
+				"Drug_Classification_Type_Name": "Cardiovascular medicines"
+			},
+			{
+				"Drug_Classification_Type_Code": "14",
+				"Drug_Classification_Type_Name": "Dermatological medicines"
+			},
+			{
+				"Drug_Classification_Type_Code": "15",
+				"Drug_Classification_Type_Name": "Diagnostic agents"
+			},
+			{
+				"Drug_Classification_Type_Code": "16",
+				"Drug_Classification_Type_Name": "Dialysis Fluids"
+			},
+			{
+				"Drug_Classification_Type_Code": "17",
+				"Drug_Classification_Type_Name": "Disease Modifying Anti-Rheumatic Drugs (DMARDs) and Drugs of Gout"
+			},
+			{
+				"Drug_Classification_Type_Code": "18",
+				"Drug_Classification_Type_Name": "Diuretics"
+			},
+			{
+				"Drug_Classification_Type_Code": "19",
+				"Drug_Classification_Type_Name": "Drug in Osteoporosis"
+			},
+			{
+				"Drug_Classification_Type_Code": "20",
+				"Drug_Classification_Type_Name": "Drugs for Anaesthesia"
+			},
+			{
+				"Drug_Classification_Type_Code": "21",
+				"Drug_Classification_Type_Name": "Drugs for Inflammatory Bowel Disease"
+			},
+			{
+				"Drug_Classification_Type_Code": "22",
+				"Drug_Classification_Type_Name": "Drugs for Myasthenia Gravis"
+			},
+			{
+				"Drug_Classification_Type_Code": "23",
+				"Drug_Classification_Type_Name": "Drugs for Respiratory Diseases"
+			},
+			{
+				"Drug_Classification_Type_Code": "24",
+				"Drug_Classification_Type_Name": "Hormones, other endocrine medicines and contraceptives"
+			},
+			{
+				"Drug_Classification_Type_Code": "25",
+				"Drug_Classification_Type_Name": "Immunologicals"
+			},
+			{
+				"Drug_Classification_Type_Code": "26",
+				"Drug_Classification_Type_Name": "Muscle Relaxants (Peripherally acting) and Cholinesterase Inhibitors"
+			},
+			{
+				"Drug_Classification_Type_Code": "27",
+				"Drug_Classification_Type_Name": "Ophthalmological Preparations"
+			},
+			{
+				"Drug_Classification_Type_Code": "28",
+				"Drug_Classification_Type_Name": "Psychotherapeutic Medicines"
+			},
+			{
+				"Drug_Classification_Type_Code": "29",
+				"Drug_Classification_Type_Name": "Solutions correcting water, electrolyte and acid-base disturbances"
+			},
+			{
+				"Drug_Classification_Type_Code": "30",
+				"Drug_Classification_Type_Name": "Vitamins and Minerals"
+			}
+		]
+	}

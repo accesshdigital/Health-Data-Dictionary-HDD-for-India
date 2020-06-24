@@ -1,0 +1,16 @@
+{
+		"nodes": [
+			{
+				"Scheduling_Status__Code": "1",
+				"Scheduling__Status__Description": "Scheduled"
+			},
+			{
+				"Scheduling_Status__Code": "2",
+				"Scheduling__Status__Description": "Postponed"
+			},
+			{
+				"Scheduling_Status__Code": "3",
+				"Scheduling__Status__Description": "Not  available"
+			}
+		]
+	}

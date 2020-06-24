@@ -1,0 +1,60 @@
+{
+		"nodes": [
+			{
+				"Employment_Status_Code": "1",
+				"Employment_Status_Name": "Under Probation"
+			},
+			{
+				"Employment_Status_Code": "2",
+				"Employment_Status_Name": "Confirmed"
+			},
+			{
+				"Employment_Status_Code": "3",
+				"Employment_Status_Name": "Terminated"
+			},
+			{
+				"Employment_Status_Code": "4",
+				"Employment_Status_Name": "Resigned"
+			},
+			{
+				"Employment_Status_Code": "5",
+				"Employment_Status_Name": "Retired"
+			},
+			{
+				"Employment_Status_Code": "6",
+				"Employment_Status_Name": "Voluntary Retirement"
+			},
+			{
+				"Employment_Status_Code": "7",
+				"Employment_Status_Name": "Under Training"
+			},
+			{
+				"Employment_Status_Code": "8",
+				"Employment_Status_Name": "Apprentice"
+			},
+			{
+				"Employment_Status_Code": "9",
+				"Employment_Status_Name": "Internship"
+			},
+			{
+				"Employment_Status_Code": "10",
+				"Employment_Status_Name": "Attached"
+			},
+			{
+				"Employment_Status_Code": "11",
+				"Employment_Status_Name": "On Deputation"
+			},
+			{
+				"Employment_Status_Code": "12",
+				"Employment_Status_Name": "Transferred"
+			},
+			{
+				"Employment_Status_Code": "13",
+				"Employment_Status_Name": "Suspended"
+			},
+			{
+				"Employment_Status_Code": "14",
+				"Employment_Status_Name": "Other"
+			}
+		]
+	}

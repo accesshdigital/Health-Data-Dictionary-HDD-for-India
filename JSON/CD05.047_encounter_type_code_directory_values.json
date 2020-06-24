@@ -1,0 +1,36 @@
+{
+		"nodes": [
+			{
+				"Encounter_Type_Code": "1",
+				"Encounter_Type_Description": "Outpatient"
+			},
+			{
+				"Encounter_Type_Code": "2",
+				"Encounter_Type_Description": "Inpatient"
+			},
+			{
+				"Encounter_Type_Code": "3",
+				"Encounter_Type_Description": "Emergency"
+			},
+			{
+				"Encounter_Type_Code": "4",
+				"Encounter_Type_Description": "Outreach - Home Visit"
+			},
+			{
+				"Encounter_Type_Code": "5",
+				"Encounter_Type_Description": "Outreach - Mobile Medical Unit"
+			},
+			{
+				"Encounter_Type_Code": "6",
+				"Encounter_Type_Description": "Outreach - Health Mela"
+			},
+			{
+				"Encounter_Type_Code": "7",
+				"Encounter_Type_Description": "Outreach - Health Camps"
+			},
+			{
+				"Encounter_Type_Code": "8",
+				"Encounter_Type_Description": "Others"
+			}
+		]
+	}

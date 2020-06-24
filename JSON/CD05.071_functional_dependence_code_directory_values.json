@@ -1,0 +1,24 @@
+{
+		"nodes": [
+			{
+				"Functional_Dependence_Code": "1",
+				"Functional__Dependence__Name": "Not  Applicable"
+			},
+			{
+				"Functional_Dependence_Code": "2",
+				"Functional__Dependence__Name": "25%  of  Care"
+			},
+			{
+				"Functional_Dependence_Code": "3",
+				"Functional__Dependence__Name": "50%  of  Care"
+			},
+			{
+				"Functional_Dependence_Code": "4",
+				"Functional__Dependence__Name": "75%  of  Care"
+			},
+			{
+				"Functional_Dependence_Code": "5",
+				"Functional__Dependence__Name": "100%  of  Care"
+			}
+		]
+	}

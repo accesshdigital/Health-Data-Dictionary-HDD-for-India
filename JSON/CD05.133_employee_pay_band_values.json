@@ -1,0 +1,28 @@
+{
+		"nodes": [
+			{
+				"Employee_Pay_Band_Code": "1",
+				"Employee_Pay_Band_Name": "Pay Band I"
+			},
+			{
+				"Employee_Pay_Band_Code": "2",
+				"Employee_Pay_Band_Name": "Pay Band II"
+			},
+			{
+				"Employee_Pay_Band_Code": "3",
+				"Employee_Pay_Band_Name": "Pay Band III"
+			},
+			{
+				"Employee_Pay_Band_Code": "4",
+				"Employee_Pay_Band_Name": "Pay Band IV"
+			},
+			{
+				"Employee_Pay_Band_Code": "5",
+				"Employee_Pay_Band_Name": "Pay Band -1S"
+			},
+			{
+				"Employee_Pay_Band_Code": "6",
+				"Employee_Pay_Band_Name": "Others"
+			}
+		]
+	}

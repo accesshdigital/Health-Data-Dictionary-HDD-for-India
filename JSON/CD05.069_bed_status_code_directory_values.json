@@ -1,0 +1,28 @@
+{
+		"nodes": [
+			{
+				"Bed__Status_Code": "1",
+				"Bed__Status__Name": "Blocked"
+			},
+			{
+				"Bed__Status_Code": "2",
+				"Bed__Status__Name": "House  Keeping"
+			},
+			{
+				"Bed__Status_Code": "3",
+				"Bed__Status__Name": "Under  Repair"
+			},
+			{
+				"Bed__Status_Code": "4",
+				"Bed__Status__Name": "Occupied"
+			},
+			{
+				"Bed__Status_Code": "5",
+				"Bed__Status__Name": "Vacant"
+			},
+			{
+				"Bed__Status_Code": "6",
+				"Bed__Status__Name": "Others"
+			}
+		]
+	}

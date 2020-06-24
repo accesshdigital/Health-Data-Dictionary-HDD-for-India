@@ -1,0 +1,476 @@
+{
+		"nodes": [
+			{
+				"Route_of_Administration_Type_Code": "C28161",
+				"Route_of_Administration_Type_Name": "Intramuscular"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38192",
+				"Route_of_Administration_Type_Name": "Auricular (Otic)"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38193",
+				"Route_of_Administration_Type_Name": "Buccal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38194",
+				"Route_of_Administration_Type_Name": "Conjunctival"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38197",
+				"Route_of_Administration_Type_Name": "Dental"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38198",
+				"Route_of_Administration_Type_Name": "Soft Tissue"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38200",
+				"Route_of_Administration_Type_Name": "Hemodialysis"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38203",
+				"Route_of_Administration_Type_Name": "Iontophoresis"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38205",
+				"Route_of_Administration_Type_Name": "Endocervical"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38206",
+				"Route_of_Administration_Type_Name": "Endosinusial"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38207",
+				"Route_of_Administration_Type_Name": "Intrathoracic"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38208",
+				"Route_of_Administration_Type_Name": "Endotracheal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38209",
+				"Route_of_Administration_Type_Name": "Enteral"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38210",
+				"Route_of_Administration_Type_Name": "Epidural"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38211",
+				"Route_of_Administration_Type_Name": "Extra-Amniotic"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38212",
+				"Route_of_Administration_Type_Name": "Extracorporeal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38215",
+				"Route_of_Administration_Type_Name": "Infiltration"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38216",
+				"Route_of_Administration_Type_Name": "Respiratory (Inhalation)"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38217",
+				"Route_of_Administration_Type_Name": "Intracoronal, Dental"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38218",
+				"Route_of_Administration_Type_Name": "Intracoronary"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38219",
+				"Route_of_Administration_Type_Name": "Interstitial"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38220",
+				"Route_of_Administration_Type_Name": "Intra-Abdominal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38221",
+				"Route_of_Administration_Type_Name": "Intra-Amniotic"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38222",
+				"Route_of_Administration_Type_Name": "Intra-Arterial"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38223",
+				"Route_of_Administration_Type_Name": "Intra-Articular"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38224",
+				"Route_of_Administration_Type_Name": "Intrabiliary"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38225",
+				"Route_of_Administration_Type_Name": "Intrabronchial"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38226",
+				"Route_of_Administration_Type_Name": "Intrabursal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38227",
+				"Route_of_Administration_Type_Name": "Intracardiac"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38228",
+				"Route_of_Administration_Type_Name": "Intracartilaginous"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38229",
+				"Route_of_Administration_Type_Name": "Intracaudal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38230",
+				"Route_of_Administration_Type_Name": "Intracavernous"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38231",
+				"Route_of_Administration_Type_Name": "Intracavitary"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38232",
+				"Route_of_Administration_Type_Name": "Intracerebral"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38233",
+				"Route_of_Administration_Type_Name": "Intracisternal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38234",
+				"Route_of_Administration_Type_Name": "Intracorneal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38235",
+				"Route_of_Administration_Type_Name": "Intracorporus Cavernosum"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38236",
+				"Route_of_Administration_Type_Name": "Intracranial"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38238",
+				"Route_of_Administration_Type_Name": "Intradermal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38239",
+				"Route_of_Administration_Type_Name": "Intradiscal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38240",
+				"Route_of_Administration_Type_Name": "Intraductal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38241",
+				"Route_of_Administration_Type_Name": "Intraduodenal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38242",
+				"Route_of_Administration_Type_Name": "Intradural"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38243",
+				"Route_of_Administration_Type_Name": "Intraepidermal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38245",
+				"Route_of_Administration_Type_Name": "Intraesophageal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38246",
+				"Route_of_Administration_Type_Name": "Intragastric"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38247",
+				"Route_of_Administration_Type_Name": "Intragingival"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38248",
+				"Route_of_Administration_Type_Name": "Intrahepatic"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38249",
+				"Route_of_Administration_Type_Name": "Intraileal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38250",
+				"Route_of_Administration_Type_Name": "Intralesional"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38251",
+				"Route_of_Administration_Type_Name": "Intraluminal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38252",
+				"Route_of_Administration_Type_Name": "Intralymphatic"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38253",
+				"Route_of_Administration_Type_Name": "Intramedullary"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38254",
+				"Route_of_Administration_Type_Name": "Intrameningeal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38255",
+				"Route_of_Administration_Type_Name": "Intraocular"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38256",
+				"Route_of_Administration_Type_Name": "Intraovarian"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38257",
+				"Route_of_Administration_Type_Name": "Intrapericardial"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38258",
+				"Route_of_Administration_Type_Name": "Intraperitoneal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38259",
+				"Route_of_Administration_Type_Name": "Intrapleural"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38260",
+				"Route_of_Administration_Type_Name": "Intraprostatic"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38261",
+				"Route_of_Administration_Type_Name": "Intrapulmonary"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38262",
+				"Route_of_Administration_Type_Name": "Intrasinal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38263",
+				"Route_of_Administration_Type_Name": "Intraspinal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38264",
+				"Route_of_Administration_Type_Name": "Intrasynovial"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38265",
+				"Route_of_Administration_Type_Name": "Intratendinous"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38266",
+				"Route_of_Administration_Type_Name": "Intratesticular"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38267",
+				"Route_of_Administration_Type_Name": "Intrathecal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38268",
+				"Route_of_Administration_Type_Name": "Intratubular"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38269",
+				"Route_of_Administration_Type_Name": "Intratumor"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38270",
+				"Route_of_Administration_Type_Name": "Intratympanic"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38271",
+				"Route_of_Administration_Type_Name": "Urethral"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38272",
+				"Route_of_Administration_Type_Name": "Intrauterine"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38273",
+				"Route_of_Administration_Type_Name": "Intravascular"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38276",
+				"Route_of_Administration_Type_Name": "Intravenous"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38277",
+				"Route_of_Administration_Type_Name": "Intraventricular"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38278",
+				"Route_of_Administration_Type_Name": "Intravesical"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38280",
+				"Route_of_Administration_Type_Name": "Intravitreal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38281",
+				"Route_of_Administration_Type_Name": "Irrigation"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38282",
+				"Route_of_Administration_Type_Name": "Laryngeal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38283",
+				"Route_of_Administration_Type_Name": "Transmucosal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38284",
+				"Route_of_Administration_Type_Name": "Nasal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38285",
+				"Route_of_Administration_Type_Name": "Nasogastric"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38286",
+				"Route_of_Administration_Type_Name": "Occlusive Dressing Technique"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38287",
+				"Route_of_Administration_Type_Name": "Ophthalmic"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38288",
+				"Route_of_Administration_Type_Name": "Oral"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38289",
+				"Route_of_Administration_Type_Name": "Oropharyngeal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38291",
+				"Route_of_Administration_Type_Name": "Parenteral"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38292",
+				"Route_of_Administration_Type_Name": "Periarticular"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38293",
+				"Route_of_Administration_Type_Name": "Perineural"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38294",
+				"Route_of_Administration_Type_Name": "Periodontal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38295",
+				"Route_of_Administration_Type_Name": "Rectal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38296",
+				"Route_of_Administration_Type_Name": "Retrobulbar"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38297",
+				"Route_of_Administration_Type_Name": "Subarachnoid"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38298",
+				"Route_of_Administration_Type_Name": "Subconjunctival"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38299",
+				"Route_of_Administration_Type_Name": "Subcutaneous"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38300",
+				"Route_of_Administration_Type_Name": "Sublingual"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38301",
+				"Route_of_Administration_Type_Name": "Submucosal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38304",
+				"Route_of_Administration_Type_Name": "Topical"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38305",
+				"Route_of_Administration_Type_Name": "Transdermal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38307",
+				"Route_of_Administration_Type_Name": "Transplacental"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38308",
+				"Route_of_Administration_Type_Name": "Transtracheal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38309",
+				"Route_of_Administration_Type_Name": "Transtympanic"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38312",
+				"Route_of_Administration_Type_Name": "Ureteral"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38313",
+				"Route_of_Administration_Type_Name": "Vaginal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38633",
+				"Route_of_Administration_Type_Name": "Electro-Osmosis"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38675",
+				"Route_of_Administration_Type_Name": "Cutaneous"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38676",
+				"Route_of_Administration_Type_Name": "Percutaneous"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C38677",
+				"Route_of_Administration_Type_Name": "Peridural"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C48623",
+				"Route_of_Administration_Type_Name": "Not Applicable"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C65103",
+				"Route_of_Administration_Type_Name": "Subgingival"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C79137",
+				"Route_of_Administration_Type_Name": "Intramammary"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C79138",
+				"Route_of_Administration_Type_Name": "Intralingual"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C79139",
+				"Route_of_Administration_Type_Name": "Intraruminal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C79141",
+				"Route_of_Administration_Type_Name": "Intranodal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C79142",
+				"Route_of_Administration_Type_Name": "Intraomentum"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C79143",
+				"Route_of_Administration_Type_Name": "Subretinal"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C79144",
+				"Route_of_Administration_Type_Name": "Intraepicardial"
+			},
+			{
+				"Route_of_Administration_Type_Code": "C79145",
+				"Route_of_Administration_Type_Name": "Transendocardial"
+			}
+		]
+	}

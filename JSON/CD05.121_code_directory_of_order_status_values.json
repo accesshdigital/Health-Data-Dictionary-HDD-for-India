@@ -1,0 +1,40 @@
+{
+		"nodes": [
+			{
+				"Order_Status_Code": "A",
+				"Order_Status_Name": "Some, but not all, Results available"
+			},
+			{
+				"Order_Status_Code": "CA",
+				"Order_Status_Name": "Order was cancelled"
+			},
+			{
+				"Order_Status_Code": "CM",
+				"Order_Status_Name": "Order is completed"
+			},
+			{
+				"Order_Status_Code": "DC",
+				"Order_Status_Name": "Order was discontinued"
+			},
+			{
+				"Order_Status_Code": "ER",
+				"Order_Status_Name": "Error, order not found"
+			},
+			{
+				"Order_Status_Code": "HD",
+				"Order_Status_Name": "Order is on hold"
+			},
+			{
+				"Order_Status_Code": "IP",
+				"Order_Status_Name": "In Process, Unspecified"
+			},
+			{
+				"Order_Status_Code": "RP",
+				"Order_Status_Name": "Order has been replaced"
+			},
+			{
+				"Order_Status_Code": "SC",
+				"Order_Status_Name": "In Process, Scehduled"
+			}
+		]
+	}

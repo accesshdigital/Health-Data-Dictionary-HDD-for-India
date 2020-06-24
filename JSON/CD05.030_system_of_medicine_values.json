@@ -1,0 +1,52 @@
+{
+		"nodes": [
+			{
+				"System_of_Medicine_Code": "1",
+				"System_of_Medicine_Name": "Allopathy"
+			},
+			{
+				"System_of_Medicine_Code": "2",
+				"System_of_Medicine_Name": "Ayurveda"
+			},
+			{
+				"System_of_Medicine_Code": "3",
+				"System_of_Medicine_Name": "Homeopathy"
+			},
+			{
+				"System_of_Medicine_Code": "4",
+				"System_of_Medicine_Name": "Unani"
+			},
+			{
+				"System_of_Medicine_Code": "5",
+				"System_of_Medicine_Name": "Siddha"
+			},
+			{
+				"System_of_Medicine_Code": "6",
+				"System_of_Medicine_Name": "Chinese"
+			},
+			{
+				"System_of_Medicine_Code": "7",
+				"System_of_Medicine_Name": "Tibetan"
+			},
+			{
+				"System_of_Medicine_Code": "8",
+				"System_of_Medicine_Name": "Yoga"
+			},
+			{
+				"System_of_Medicine_Code": "9",
+				"System_of_Medicine_Name": "Naturopathy"
+			},
+			{
+				"System_of_Medicine_Code": "10",
+				"System_of_Medicine_Name": "Acupuncture"
+			},
+			{
+				"System_of_Medicine_Code": "11",
+				"System_of_Medicine_Name": "Acupressure"
+			},
+			{
+				"System_of_Medicine_Code": "12",
+				"System_of_Medicine_Name": "Others"
+			}
+		]
+	}

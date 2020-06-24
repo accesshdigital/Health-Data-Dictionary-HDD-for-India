@@ -1,0 +1,64 @@
+{
+		"nodes": [
+			{
+				"Healthcare_Application_Number": "1",
+				"Healthcare_Application_Name": "MCTS"
+			},
+			{
+				"Healthcare_Application_Number": "2",
+				"Healthcare_Application_Name": "HMIS"
+			},
+			{
+				"Healthcare_Application_Number": "3",
+				"Healthcare_Application_Name": "IDSP"
+			},
+			{
+				"Healthcare_Application_Number": "4",
+				"Healthcare_Application_Name": "SIMS-NACO"
+			},
+			{
+				"Healthcare_Application_Number": "5",
+				"Healthcare_Application_Name": "RNTCP - Epicenter"
+			},
+			{
+				"Healthcare_Application_Number": "6",
+				"Healthcare_Application_Name": "RNTCP - Nikshay"
+			},
+			{
+				"Healthcare_Application_Number": "7",
+				"Healthcare_Application_Name": "DHIS 2.0"
+			},
+			{
+				"Healthcare_Application_Number": "8",
+				"Healthcare_Application_Name": "ProMIS"
+			},
+			{
+				"Healthcare_Application_Number": "9",
+				"Healthcare_Application_Name": "e-Aushadhi-Rajasthan"
+			},
+			{
+				"Healthcare_Application_Number": "10",
+				"Healthcare_Application_Name": "e-Mamta-Gujarat"
+			},
+			{
+				"Healthcare_Application_Number": "11",
+				"Healthcare_Application_Name": "e-Mahtari-Chhattisgarh"
+			},
+			{
+				"Healthcare_Application_Number": "12",
+				"Healthcare_Application_Name": "PICME-Tamil Nadu"
+			},
+			{
+				"Healthcare_Application_Number": "13",
+				"Healthcare_Application_Name": "PCTS- Rajasthan"
+			},
+			{
+				"Healthcare_Application_Number": "14",
+				"Healthcare_Application_Name": "MCTS- Tripura"
+			},
+			{
+				"Healthcare_Application_Number": "15",
+				"Healthcare_Application_Name": "Others"
+			}
+		]
+	}

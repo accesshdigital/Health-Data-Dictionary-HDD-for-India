@@ -1,0 +1,16 @@
+{
+		"nodes": [
+			{
+				"Donation_Type_Code": "1",
+				"Donation_Type_Name": "Voluntary through Camp"
+			},
+			{
+				"Donation_Type_Code": "2",
+				"Donation_Type_Name": "Voluntary"
+			},
+			{
+				"Donation_Type_Code": "3",
+				"Donation_Type_Name": "Replacement"
+			}
+		]
+	}

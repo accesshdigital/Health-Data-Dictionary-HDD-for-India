@@ -1,0 +1,56 @@
+{
+		"nodes": [
+			{
+				"Equipment_Classification_Code": "AOT",
+				"Equipment_Classification_Name": "Anesthetic and Operation Theatre Equipment & Instrument"
+			},
+			{
+				"Equipment_Classification_Code": "CVS",
+				"Equipment_Classification_Name": "Cardio Vascular Surgery Equipment & Instrument"
+			},
+			{
+				"Equipment_Classification_Code": "DEI",
+				"Equipment_Classification_Name": "Dental Equipment & Instrument"
+			},
+			{
+				"Equipment_Classification_Code": "ENT",
+				"Equipment_Classification_Name": "ENT Equipment & Instrument"
+			},
+			{
+				"Equipment_Classification_Code": "FWP",
+				"Equipment_Classification_Name": "Family welfare and planning instruments"
+			},
+			{
+				"Equipment_Classification_Code": "GIS",
+				"Equipment_Classification_Name": "General Items & Hospital Supplies"
+			},
+			{
+				"Equipment_Classification_Code": "GSI",
+				"Equipment_Classification_Name": "List of Essential General Surgery Instruments"
+			},
+			{
+				"Equipment_Classification_Code": "GYN",
+				"Equipment_Classification_Name": "Gynecological Equipment & Instrument"
+			},
+			{
+				"Equipment_Classification_Code": "HFS",
+				"Equipment_Classification_Name": "Hospital Furniture and other Hospital Supplies"
+			},
+			{
+				"Equipment_Classification_Code": "LEA",
+				"Equipment_Classification_Name": "Laboratory Equipment & Instrument"
+			},
+			{
+				"Equipment_Classification_Code": "OEI",
+				"Equipment_Classification_Name": "Ophthalmology Equipment & Instrument"
+			},
+			{
+				"Equipment_Classification_Code": "OPE",
+				"Equipment_Classification_Name": "Orthopedic & Physiotherapy Equipment & Instrument"
+			},
+			{
+				"Equipment_Classification_Code": "RXY",
+				"Equipment_Classification_Name": "Radiology X-Rays and Accessories and film Developer etc"
+			}
+		]
+	}

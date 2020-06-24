@@ -1,0 +1,12 @@
+{
+		"nodes": [
+			{
+				"ICD-10_Code": "A00",
+				"ICD-10_Code_Description": "Cholera"
+			},
+			{
+				"ICD-10_Code": "A01",
+				"ICD-10_Code_Description": "Typhoid and Paratyphoid fevers"
+			}
+		]
+	}

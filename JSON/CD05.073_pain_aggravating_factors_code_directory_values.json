@@ -1,0 +1,24 @@
+{
+		"nodes": [
+			{
+				"Pain_Aggravating_Factor__Code": "1",
+				"Pain__Aggravating__Factor__Name": "Light"
+			},
+			{
+				"Pain_Aggravating_Factor__Code": "2",
+				"Pain__Aggravating__Factor__Name": "Dark"
+			},
+			{
+				"Pain_Aggravating_Factor__Code": "3",
+				"Pain__Aggravating__Factor__Name": "Movement"
+			},
+			{
+				"Pain_Aggravating_Factor__Code": "4",
+				"Pain__Aggravating__Factor__Name": "Lying  Down"
+			},
+			{
+				"Pain_Aggravating_Factor__Code": "5",
+				"Pain__Aggravating__Factor__Name": "Others"
+			}
+		]
+	}

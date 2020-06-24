@@ -1,0 +1,68 @@
+{
+		"nodes": [
+			{
+				"Ambulatory_Status__Code": "A0",
+				"Ambulatory__Status__Name": "No  functional  limitations"
+			},
+			{
+				"Ambulatory_Status__Code": "A1",
+				"Ambulatory__Status__Name": "Ambulates  with  assistive  device"
+			},
+			{
+				"Ambulatory_Status__Code": "A2",
+				"Ambulatory__Status__Name": "Wheelchair/stretcher  bound"
+			},
+			{
+				"Ambulatory_Status__Code": "A3",
+				"Ambulatory__Status__Name": "Comatose;  non-responsive"
+			},
+			{
+				"Ambulatory_Status__Code": "A4",
+				"Ambulatory__Status__Name": "Disoriented"
+			},
+			{
+				"Ambulatory_Status__Code": "A5",
+				"Ambulatory__Status__Name": "Vision  impaired"
+			},
+			{
+				"Ambulatory_Status__Code": "A6",
+				"Ambulatory__Status__Name": "Hearing  impaired"
+			},
+			{
+				"Ambulatory_Status__Code": "A7",
+				"Ambulatory__Status__Name": "Speech  impaired"
+			},
+			{
+				"Ambulatory_Status__Code": "A8",
+				"Ambulatory__Status__Name": "Non-English  speaking"
+			},
+			{
+				"Ambulatory_Status__Code": "A9",
+				"Ambulatory__Status__Name": "Functional  level  unknown"
+			},
+			{
+				"Ambulatory_Status__Code": "B1",
+				"Ambulatory__Status__Name": "Oxygen  therapy"
+			},
+			{
+				"Ambulatory_Status__Code": "B2",
+				"Ambulatory__Status__Name": "Special  equipment  (tubes,  IVs,  catheters)"
+			},
+			{
+				"Ambulatory_Status__Code": "B3",
+				"Ambulatory__Status__Name": "Amputee"
+			},
+			{
+				"Ambulatory_Status__Code": "B4",
+				"Ambulatory__Status__Name": "Mastectomy"
+			},
+			{
+				"Ambulatory_Status__Code": "B5",
+				"Ambulatory__Status__Name": "Paraplegic"
+			},
+			{
+				"Ambulatory_Status__Code": "B6",
+				"Ambulatory__Status__Name": "Pregnant"
+			}
+		]
+	}

@@ -1,0 +1,32 @@
+{
+		"nodes": [
+			{
+				"Non-Clinical_Document_Type_Code": "1",
+				"Non-Clinical_Document_Type_Name": "Consent Form"
+			},
+			{
+				"Non-Clinical_Document_Type_Code": "2",
+				"Non-Clinical_Document_Type_Name": "Pre-authorization Form"
+			},
+			{
+				"Non-Clinical_Document_Type_Code": "3",
+				"Non-Clinical_Document_Type_Name": "Indent Request Form"
+			},
+			{
+				"Non-Clinical_Document_Type_Code": "4",
+				"Non-Clinical_Document_Type_Name": "Supplier contract Form"
+			},
+			{
+				"Non-Clinical_Document_Type_Code": "5",
+				"Non-Clinical_Document_Type_Name": "Grievance Form"
+			},
+			{
+				"Non-Clinical_Document_Type_Code": "6",
+				"Non-Clinical_Document_Type_Name": "Feedback Form"
+			},
+			{
+				"Non-Clinical_Document_Type_Code": "7",
+				"Non-Clinical_Document_Type_Name": "Others"
+			}
+		]
+	}

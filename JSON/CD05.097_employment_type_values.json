@@ -1,0 +1,24 @@
+{
+		"nodes": [
+			{
+				"Employment_Type__Code": "1",
+				"Employment_Type_Name": "Permanent"
+			},
+			{
+				"Employment_Type__Code": "2",
+				"Employment_Type_Name": "Contractual"
+			},
+			{
+				"Employment_Type__Code": "3",
+				"Employment_Type_Name": "Casual"
+			},
+			{
+				"Employment_Type__Code": "4",
+				"Employment_Type_Name": "Part Time"
+			},
+			{
+				"Employment_Type__Code": "5",
+				"Employment_Type_Name": "Others"
+			}
+		]
+	}

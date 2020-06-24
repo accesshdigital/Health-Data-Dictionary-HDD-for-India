@@ -1,0 +1,151 @@
+{
+		"nodes": [
+			{
+				"Sterilization_Cycle_Code": "1",
+				"Sterilization_Cycle_Name": "Flash",
+				"Comments": "Used to quickly sterilize instruments that were dropped during surgery."
+			},
+			{
+				"Sterilization_Cycle_Code": "2",
+				"Sterilization_Cycle_Name": "Prevac",
+				"Comments": "A prevac cycle is vacuum assisted."
+			},
+			{
+				"Sterilization_Cycle_Code": "3",
+				"Sterilization_Cycle_Name": "Gravity",
+				"Comments": "A gravity cycle is executed at atmospheric pressure."
+			},
+			{
+				"Sterilization_Cycle_Code": "4",
+				"Sterilization_Cycle_Name": "Liquid",
+				"Comments": "A cycle specific to sterilizing liquids."
+			},
+			{
+				"Sterilization_Cycle_Code": "5",
+				"Sterilization_Cycle_Name": "Express",
+				"Comments": "An express cycle is similar to a flash cycle but the supply item is wrapped."
+			},
+			{
+				"Sterilization_Cycle_Code": "6",
+				"Sterilization_Cycle_Name": "Dart",
+				"Comments": "A dart cycle is a special cycle used to test the integrity of the sterilizer chamber to hold a vacuum."
+			},
+			{
+				"Sterilization_Cycle_Code": "7",
+				"Sterilization_Cycle_Name": "Dart Warm-up Cycle",
+				"Comments": "A dart warm-up cycle is used to bring the sterilizer chamber up to operating temperature in order to run a dart test cycle."
+			},
+			{
+				"Sterilization_Cycle_Code": "8",
+				"Sterilization_Cycle_Name": "Thermal"
+			},
+			{
+				"Sterilization_Cycle_Code": "9",
+				"Sterilization_Cycle_Name": "Isothermal"
+			},
+			{
+				"Sterilization_Cycle_Code": "10",
+				"Sterilization_Cycle_Name": "Bowie-Dick Test",
+				"Comments": "A Bowie-Dick test cycle is a special cycle used to test the integrity of the sterilizer chamber to hold a vacuum."
+			},
+			{
+				"Sterilization_Cycle_Code": "11",
+				"Sterilization_Cycle_Name": "Leak Test",
+				"Comments": "A leak test cycle tests the integrity of the sterilizer chamber to hold a vacuum over a specific period of time."
+			},
+			{
+				"Sterilization_Cycle_Code": "12",
+				"Sterilization_Cycle_Name": "Wrap/Steam Flush Pressure Pulse (Wrap/SFPP)",
+				"Comments": "A Wrap/SFPP cycle uses steam pulses instead of a vacuum during the conditioning phase of the cycle when the supply item is unwrapped."
+			},
+			{
+				"Sterilization_Cycle_Code": "13",
+				"Sterilization_Cycle_Name": "Steam Flush Pressure Pulse",
+				"Comments": "An SFPP cycle uses steam pulses instead of a vacuum during the conditioning phase of the cycle when the supply item is wrapped."
+			},
+			{
+				"Sterilization_Cycle_Code": "14",
+				"Sterilization_Cycle_Name": "Chemical Wash",
+				"Comments": "A chemical wash cycle."
+			},
+			{
+				"Sterilization_Cycle_Code": "15",
+				"Sterilization_Cycle_Name": "Peracetic Acid",
+				"Comments": "A peracetic acid cycle."
+			},
+			{
+				"Sterilization_Cycle_Code": "16",
+				"Sterilization_Cycle_Name": "EO High Temperature"
+			},
+			{
+				"Sterilization_Cycle_Code": "17",
+				"Sterilization_Cycle_Name": "EO Low Temperature"
+			},
+			{
+				"Sterilization_Cycle_Code": "18",
+				"Sterilization_Cycle_Name": "Cart Wash"
+			},
+			{
+				"Sterilization_Cycle_Code": "19",
+				"Sterilization_Cycle_Name": "Utensil Wash"
+			},
+			{
+				"Sterilization_Cycle_Code": "20",
+				"Sterilization_Cycle_Name": "Instrument Wash"
+			},
+			{
+				"Sterilization_Cycle_Code": "21",
+				"Sterilization_Cycle_Name": "Glassware"
+			},
+			{
+				"Sterilization_Cycle_Code": "22",
+				"Sterilization_Cycle_Name": "Plastic Goods Wash"
+			},
+			{
+				"Sterilization_Cycle_Code": "23",
+				"Sterilization_Cycle_Name": "Anesthesia/Respiratory",
+				"Comments": "Special Wash cycle"
+			},
+			{
+				"Sterilization_Cycle_Code": "24",
+				"Sterilization_Cycle_Name": "Gentle",
+				"Comments": "Any Optional Wash cycle"
+			},
+			{
+				"Sterilization_Cycle_Code": "25",
+				"Sterilization_Cycle_Name": "Optional Wash"
+			},
+			{
+				"Sterilization_Cycle_Code": "26",
+				"Sterilization_Cycle_Name": "Bedpans"
+			},
+			{
+				"Sterilization_Cycle_Code": "27",
+				"Sterilization_Cycle_Name": "Tray/Basin"
+			},
+			{
+				"Sterilization_Cycle_Code": "28",
+				"Sterilization_Cycle_Name": "Gen. Purpose"
+			},
+			{
+				"Sterilization_Cycle_Code": "29",
+				"Sterilization_Cycle_Name": "Code"
+			},
+			{
+				"Sterilization_Cycle_Code": "30",
+				"Sterilization_Cycle_Name": "Rinse"
+			},
+			{
+				"Sterilization_Cycle_Code": "31",
+				"Sterilization_Cycle_Name": "Second Rinse"
+			},
+			{
+				"Sterilization_Cycle_Code": "32",
+				"Sterilization_Cycle_Name": "Decontamination"
+			},
+			{
+				"Sterilization_Cycle_Code": "33",
+				"Sterilization_Cycle_Name": "Autoclave"
+			}
+		]
+	}
