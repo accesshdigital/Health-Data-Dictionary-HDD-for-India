@@ -45,7 +45,7 @@ The basic principle of data modelling is the combination of an Object class and 
 
 The standard must select the most appropriate keyword as the representation of the concept. In the above case the Object: is ‘Medication Order’ and the Attribute: is ‘Frequency’
 
-![diagram](docs/diagram.png)
+![diagram](doc/diagram.png)
 
 
 ## CODE DIRECTORIES
