@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Sterilization_Problem_Resolution">
+<!-- MDDS code id (05.030.0013)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="254"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

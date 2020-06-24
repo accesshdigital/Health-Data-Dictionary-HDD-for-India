@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Sterilized_Devices_Location">
+<!-- MDDS code id (05.030.0015)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="60"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
