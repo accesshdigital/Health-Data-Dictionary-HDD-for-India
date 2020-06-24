@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Mass_casualty_Incident_Longitude ">
+<!-- MDDS code id (05.015.0006)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="20"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

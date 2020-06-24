@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Allergy_History">
+<!-- MDDS code id (05.018.0009)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="4096"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

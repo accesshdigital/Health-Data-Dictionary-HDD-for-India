@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Adverse_Event_Type">
+<!-- MDDS code id (05.018.0010)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="10"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

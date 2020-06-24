@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Family_Member_Cause_of_Death_Known_Indicator">
+<!-- MDDS code id (05.019.0011)-->
+<xs:simpleType>
+<xs:restriction base= "xs:integer">
+<xs:totalDigits value= "1"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
