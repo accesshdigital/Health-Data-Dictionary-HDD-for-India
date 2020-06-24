@@ -1,0 +1,35 @@
+Unit_of_Measurement_Code,Unit_of_Measurement_Name,Unit_of_Measurement_Short_Name
+1,Kilograms,Kg
+2,Grams,Gram(s)
+3,Milligrams,Mg
+4,Meters,M
+5,Kilometers,Km
+6,Centimeter,Cm
+7,Millimeters,mm
+8,Year(s),Yrs
+9,Month(s),mth(s)
+10,Week(s),Weeks
+11,Per 24 hours,/24 hrs
+12,Per day,/day
+13,Per hour,/ hr
+14,Per minute,/ min
+15,Days,Days
+16,Hours,Hrs
+17,Minutes,Min
+18,Second(s),S
+19,Degree Celsius,0C
+20,Degree Fahrenheit,0F
+21,Millimeter of mercury,Mmhg
+22,Liter,L
+23,Milliliter,Ml
+24,Milligram every 6 hours,mg/6hrs
+25,Milligram every 2 hours,mg/ 2hr
+26,Milligram per 100 mL,mg/100 mL
+27,Microgram(s),Mc
+28,Micromole,Mm
+29,Ratio,:
+30,Mole,M
+31,pH,Ph
+32,Milligram per liter,mg/L
+33,Parts Per Million,Ppm
+34,International Units,IU

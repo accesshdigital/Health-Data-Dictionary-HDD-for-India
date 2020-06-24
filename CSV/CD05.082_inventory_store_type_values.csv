@@ -1,0 +1,7 @@
+Inventory_Store_Type_Code,Inventory_Store_Type
+01,OP
+02,IP
+03,OT
+04,Main
+05,Emergency
+06,Others

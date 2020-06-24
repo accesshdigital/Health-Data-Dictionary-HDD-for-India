@@ -1,0 +1,15 @@
+Employment_Status_Code,Employment_Status_Name
+1,Under Probation
+2,Confirmed
+3,Terminated
+4,Resigned
+5,Retired
+6,Voluntary Retirement
+7,Under Training
+8,Apprentice
+9,Internship
+10,Attached
+11,On Deputation
+12,Transferred
+13,Suspended
+14,Other

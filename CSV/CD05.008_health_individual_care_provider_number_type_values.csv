@@ -1,0 +1,12 @@
+Health_Individual_Care_Number_Provider_Type_Code,Health_Individual_Care_Provider_Number_Type_Description
+1,Medical Registration numbers assigned by MCI
+2,Nursing Registration number assigned to Nurse or Nursing Midwife by Indian Nursing council
+3,Dental Surgeon Registration number assigned by Dental Council of India
+4,Provider ID assigned by Military organizations
+5,Registration number assigned by Pharmacy Council of India
+6,Medical Practitioner Registration numbers assigned by Central Council of Indian Medicine (CCIM)
+7,Medical Practitioner Registration numbers assigned by Central Council of Homeopathy (CCH)
+8,Medical Practitioner Registration numbers assigned by State Council
+9,None- use UID
+10,None- Alternate UID
+11,Others

@@ -1,0 +1,13 @@
+Vital_Signs_Type
+Code,Vital_Signs_Type_Name
+1,Body Height
+2,Body Weight
+3,Systolic Blood Pressure
+4,Diastolic Blood Pressure
+5,Pulse Rate
+6,Respiratory Rate
+7,Temperature
+8,Heart Rate
+9,Head Circumference
+10,Oxygen Saturation
+11,Others

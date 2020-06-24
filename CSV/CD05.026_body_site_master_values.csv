@@ -1,0 +1,55 @@
+Body_Site_Code,Body_Site_Name
+1,Bilateral Ears
+2,Bilateral Nares
+3,Left Arm
+4,Left Ear
+5,Left Foot
+6,Chest Tube
+7,Buttocks
+8,Left Anterior Chest
+9,Left Antecubital Fossa
+10,Left Deltoid
+11,Left External Jugular
+12,Left Gluteus Medius
+13,Left Hand
+14,Left Internal Jugular
+15,Left Lower Abd Quadrant
+16,Left Lower Forearm
+17,Left Mid Forearm
+18,Left Naris
+19,Left Posterior Chest
+20,Left Subclavian
+21,Left Thigh
+22,Left Upper Arm
+23,Left Upper Abd Quadrant
+24,Left Upper Forearm
+25,Left Ventragluteal
+26,Left Vastus Lateralis
+27,Nebulized
+28,Right Eye
+29,Left Eye
+30,Bilateral Eyes
+31,Perianal
+32,Perineal
+33,Right Arm
+34,Right Anterior Chest
+35,Right Antecubital Fossa
+36,Right Deltoid
+37,Right Ear
+38,Right External Jugular
+39,Right Foot
+40,Right Gluteus Medius
+41,Right Hand
+42,Right Internal Jugular
+43,Rt Lower Abd Quadrant
+44,Right Lower Forearm
+45,Right Mid Forearm
+46,Right Naris
+47,Right Posterior Chest
+48,Right Subclavian
+49,Right Thigh
+50,Right Upper Arm
+51,Right Upper Abd Quadrant
+52,Right Upper Forearm
+53,Right Ventragluteal
+54,Right Vastus Lateralis

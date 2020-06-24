@@ -1,0 +1,33 @@
+Clinical_Document_Type_Code,Clinical_Document_Type_Description
+1,Initial Assessment
+2,Admission Note
+3,Progress Notes – subjective, objective, assessment, protocol
+4,Process Notes - Psychotherapy
+5,Past Medical History
+6,Personal History
+7,Past Surgical History
+8,Family History
+9,Medication History
+10,Immunization History
+11,Social History
+12,Menstrual and Obstetric History
+13,Past Clinical Inferences
+14,Past Lab Results
+15,Past Radiology Results
+16,Past Orders
+17,Discharge Summary
+18,Clinical note
+19,Birth certificate
+20,Death certificate
+21,Prescription Note
+22,Referral Summary
+23,Nursing Notes
+24,Surgery Notes
+25,Preoperative Notes
+26,Postoperative Notes
+27,PAC Notes
+28,Anesthesia Notes
+29,Care Plan
+30,Procedure Summary
+31,Transfer Summary
+32,Others

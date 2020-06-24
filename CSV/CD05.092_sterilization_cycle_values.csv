@@ -1,0 +1,34 @@
+Sterilization_Cycle_Code,Sterilization_Cycle_Name,Comments
+1,Flash,Used to quickly sterilize instruments that were dropped during surgery.
+2,Prevac,A prevac cycle is vacuum assisted.
+3,Gravity,A gravity cycle is executed at atmospheric pressure.
+4,Liquid,A cycle specific to sterilizing liquids.
+5,Express,An express cycle is similar to a flash cycle but the supply item is wrapped.
+6,Dart,A dart cycle is a special cycle used to test the integrity of the sterilizer chamber to hold a vacuum.
+7,Dart Warm-up Cycle,A dart warm-up cycle is used to bring the sterilizer chamber up to operating temperature in order to run a dart test cycle.
+8,Thermal,
+9,Isothermal,
+10,Bowie-Dick Test,A Bowie-Dick test cycle is a special cycle used to test the integrity of the sterilizer chamber to hold a vacuum.
+11,Leak Test,A leak test cycle tests the integrity of the sterilizer chamber to hold a vacuum over a specific period of time.
+12,Wrap/Steam Flush Pressure Pulse (Wrap/SFPP),A Wrap/SFPP cycle uses steam pulses instead of a vacuum during the conditioning phase of the cycle when the supply item is unwrapped.
+13,Steam Flush Pressure Pulse,An SFPP cycle uses steam pulses instead of a vacuum during the conditioning phase of the cycle when the supply item is wrapped.
+14,Chemical Wash,A chemical wash cycle.
+15,Peracetic Acid,A peracetic acid cycle.
+16,EO High Temperature,
+17,EO Low Temperature,
+18,Cart Wash,
+19,Utensil Wash,
+20,Instrument Wash,
+21,Glassware,
+22,Plastic Goods Wash,
+23,Anesthesia/Respiratory,Special Wash cycle
+24,Gentle,Any Optional Wash cycle
+25,Optional Wash,
+26,Bedpans,
+27,Tray/Basin,
+28,Gen. Purpose,
+29,Code,
+30,Rinse,
+31,Second Rinse,
+32,Decontamination,
+33,Autoclave,

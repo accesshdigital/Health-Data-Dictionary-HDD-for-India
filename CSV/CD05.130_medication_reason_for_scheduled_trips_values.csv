@@ -1,0 +1,54 @@
+Medication_Reason_for_Scheduled_Trip_Name_Code,Medication_Reason_for_Scheduled_Trip_Name
+1,Arterial Blood Gases
+2,Blood Transfusions
+3,Bone Scans
+4,Cardiac Catheterization
+5,Cardiac Stress Testing
+6,Cast Application
+7,Cast Removal
+8,CAT Scans
+9,Cataract Surgery
+10,Chemotherapy
+11,Detoxification
+12,Diagnostic Mammography
+13,EEG
+14,EKG/ECG
+15,Electroconvulsive Therapy (ECT)
+16,Endoscopy
+17,Evaluation and Management
+18,MRI Scans
+19,Nerve Blocks
+20,No one available to receive the patient
+21,Nuclear Medicine Tests
+22,Occupational Therapy
+23,Other Ambulatory Surgery: Biopsy
+24,Other Ambulatory Surgery: Debridement Decubitis Ulcer
+25,Other Ambulatory Surgery: Lithotripsy
+26,Other Ambulatory Surgery: Shunt declotting
+27,Other Ambulatory Surgery: Vascular Shunt Maintenance
+28,Other Ambulatory Surgery: Ventricular Shunt Maintenance
+29,Other Hyperbaric Therapy
+30,Other Intravenous Therapy: Antibiotic
+31,Other Intravenous Therapy: Hydration
+32,Other Laboratory Testing (Specify Type of Lab Test)
+33,Other Psychiatric/Psychological Services (Specify Type of Service)
+34,PET Scans
+35,Physical Therapy
+36,Pre-Surgical Testing
+37,Pulmonary Function Testing
+38,Radiation Oncology and/or Radiotherapy
+39,Rehabilitation
+40,Renal Dialysis
+41,Respiratory Therapy
+42,Response to call/non-transport - deceased patient
+43,Response to call/non-transport - patient refuses
+44,Rotary aircraft used instead of fixed wing because faster response time needed
+45,Rotary aircraft used instead of fixed wing because fixed wing craft not available
+46,Rotary aircraft used instead of fixed wing because no landing strip available
+47,Rotary aircraft used instead of fixed wing because pilot not available for rotary aircraft
+48,Speech-Language Pathology
+49,Trach Tube/GI Tube Insertion/Placement
+50,Ultrasounds
+51,Whole Body Hyperbaric Therapy
+52,X-Rays
+53,Non-Emergency Medical Condition

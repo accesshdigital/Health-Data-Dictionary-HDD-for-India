@@ -1,0 +1,13 @@
+Alternate_Identifier_Type__Code,Alternate__Identifier__Type__Description
+1,Bar  Code
+2,RFID
+3,Smart  Card
+4,Magnetic  Stripe  Card
+5,NFC  Card  (Near  Field  Communication)
+6,Digital  Signature
+7,Blackberry  Code
+8,Biometric
+9,MAC  Address
+10,IP  Address
+11,IMEI  Number
+12,Others

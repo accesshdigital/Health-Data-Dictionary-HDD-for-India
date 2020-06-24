@@ -1,0 +1,9 @@
+Result_Status_Code,Description_of_Result_Status
+1,Preliminary, A verified early result is available, final results not yet obtained
+2,Complete, final results stored and verified
+3,Order received; specimen not yet received
+4,No results available; specimen received, procedure incomplete
+5,No results available; procedure scheduled, but not done
+6,Results stored; not yet verified
+7,No results available; Order canceled.
+8,No results; Insufficient/unusable specimen

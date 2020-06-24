@@ -1,0 +1,14 @@
+Mode_of_Payment_Code,Mode_of_Payment_Name
+1,Cheque
+2,NEFT
+3,RTGS
+4,Demand Draft
+5,Cash
+6,Credit Card
+7,Debit Card
+8,Vouchers
+9,Paypal
+10,Cash Card
+11,Mobile Money
+12,Netbanking
+13,Others

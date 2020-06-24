@@ -1,0 +1,7 @@
+Bed__Status_Code,Bed__Status__Name
+1,Blocked
+2,House  Keeping
+3,Under  Repair
+4,Occupied
+5,Vacant
+6,Others

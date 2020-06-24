@@ -1,0 +1,9 @@
+Encounter_Type_Code,Encounter_Type_Description
+1,Outpatient
+2,Inpatient
+3,Emergency
+4,Outreach - Home Visit
+5,Outreach - Mobile Medical Unit
+6,Outreach - Health Mela
+7,Outreach - Health Camps
+8,Others

@@ -1,0 +1,9 @@
+Alternate_UHID_Type_Code,Alternate_UHID_Type_Description
+1,PAN
+2,Passport Number
+3,Voter ID
+4,Driving License
+5,Identifier(s) assigned by central/state or local Government authorities
+6,Ration Card Number
+7,BPL Card Number
+8,Other

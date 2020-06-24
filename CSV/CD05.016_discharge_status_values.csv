@@ -1,0 +1,5 @@
+Discharge_Status_Code,Discharge_Status_Description
+1,Discharge to home/ self-care
+2,Transfer to other hospital
+3,Transfer to other department
+4,Death

@@ -1,0 +1,8 @@
+Address_Type_Code,Address_Type_Name
+C,Current Address
+D,Domicile Address
+O,Other Address
+P,Permanent Address
+T,Temporary Address
+U,Address Unknown
+V,Previous Address

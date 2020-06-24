@@ -1,0 +1,8 @@
+Severity_Code,Severity_Description
+1,Mild
+2,Moderate
+3,Severe
+4,Potentially Life Threatening
+5,Anaphylaxis
+6,Fatal
+7,Toxicosis

@@ -1,0 +1,59 @@
+Medication_Reason_for_Unscheduled_Trip_Code,Medication_Reason_for_Unscheduled_Trip_Name
+1,Abdominal pain / problems
+2,Accident, possible injury
+3,Acute infectious process
+4,Acute metabolic disorder
+5,Acute respiratory distress
+6,Acute surgical emergency non-trauma
+7,Airway obstruction
+8,Allergic reaction
+9,Altered level of consciousness
+10,Bed bound
+11,Behavioral / psychiatric disorder
+12,Burns
+13,Cardiac arrest
+14,Cardiac incident
+15,Cardiac rhythm disturbance
+16,Chest pain / discomfort
+17,Diabetic symptoms (hypoglycemia)
+18,Disorder of endocrine system
+19,DOA
+20,Electrocution
+21,Hemodynamic instability
+22,Hyperthermia
+23,Hypothermia
+24,Hypovolemia / shock
+25,Inhalation injury (toxic gas)
+26,Neurological/neurovascular
+27,Obvious death
+28,Organ procurement
+29,Overdose
+30,Poisoning
+31,Poisoning / drug ingestion
+32,Pregnancy / OB delivery
+33,Respiratory arrest
+34,Respiratory distress
+35,Response to call/non-transport - deceased patient
+36,Response to call/non-transport - patient refuses
+37,Response to call/non-transport - transport not needed
+38,Rotary aircraft used instead of fixed wing because faster response time needed
+39,Rotary aircraft used instead of fixed wing because fixed wing craft not available
+40,Rotary aircraft used instead of fixed wing because no landing strip available
+41,Rotary aircraft used instead of fixed wing because pilot not available for rotary aircraft
+42,Restraining psychiatric patient
+43,Seizure
+44,Severe hemorrhage
+45,Sexual assault / rape
+46,Shock
+47,Smoke inhalation
+48,Spinal injury
+49,Stings
+50,Stroke / CVA
+51,Syncope / fainting
+52,Trauma other than vehicle
+53,Traumatic injury
+54,Unconsciousness
+55,Vaginal hemorrhage
+56,Vehicle Accident
+57,Venomous Bites
+58,Non-Emergency

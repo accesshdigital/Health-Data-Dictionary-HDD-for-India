@@ -1,0 +1,90 @@
+Medical_Specialty_Type_Code,Medical_Specialty_Type_Name
+1,General Medicine
+2,Dental surgery
+3,Nursing
+4,Pharmacy
+5,Nursing Midwifery
+6,Military surgeons
+7,Cardio Thoracic and Vascular Surgery
+8,Cardiology
+9,Allergy
+10,Chest Medicine
+11,Clinical Psychology
+12,Cosmetic Dentistry
+13,Cosmetic Surgery
+14,Endodontics
+15,ENT
+16,Critical Care
+17,Dental Implants & Cosmetic Dentistry
+18,Dermatology Venereology and Leprology
+19,Dermatology
+20,Facial Plastic Surgery
+21,Diabetology
+22,Endocrinology
+23,Diet and Nutrition
+24,Diabetology & Internal Medicine
+25,Gastrosurgery
+26,Gastroenterology
+27,General Medicine
+28,General Surgery
+29,General Surgery & Laparoscopic Surgery
+30,Gynecology & Ultrasonology
+31,Head & Neck Surgery
+32,Head & Neck Surgical Oncology
+33,Hepato Pancreato Biliary Surgery
+34,Infectious Disease medicine
+35,Internal Medicine
+36,Internal Medicine & Diabetics
+37,Neuro Surgery
+38,Resident Physicians
+39,Respiratory Allergy And Sleep Medicine
+40,Rheumatology
+41,Sexual Medicine
+42,Spine Surgery
+43,Sports Medicine
+44,Surgical Gastroenterology
+45,Surgical Oncology
+46,Urology
+47,Physiotherapy
+48,Physiotherapy & Rehabilitation
+49,Plastic and Cosmetic Surgery
+50,Plastic Surgery
+51,Podiatry
+52,Prosthodontics & Implants
+53,Psychiatry
+54,Pulmonology
+55,Radiation Oncology
+56,Radiology
+57,Laparoscopic and Robotic Surgery
+58,Medical Gastroenterology
+59,Medical Oncology
+60,Nephrology
+61,Neurology
+62,Neurology & Neuro Surgery
+63,Neuropsychiatry
+64,Neurosurgery
+65,Obstetrics & Gynecology
+66,Oncology
+67,Ophthalmology
+68,Oral & Maxillofacial Surgery
+69,Ortho Dontia
+70,Orthopedic Surgeon
+71,Orthopedics
+72,Orthopedics & Sports Medicine
+73,Orthopedics And Spine Surgery
+74,Orthopedics And Upper Limb Surgery
+75,Pediatric Endocrinology
+76,Pediatric Ophthalmology And Squint
+77,Paediatrics
+78,Paediatrics & Neonatology
+79,Paediatrics - Nephrology
+80,Paediatrics - Neurology
+81,Paediatrics - Surgery
+82,Pathology
+83,Peadodontology (Child Dentistry)
+84,Pediatric Pulmonology
+85,Periodontia
+86,Periodontology and Implantology
+87,Peripheral Vascular Surgery
+88,Physical Medicine & Rehabilitation
+89,Physician & Diabetology

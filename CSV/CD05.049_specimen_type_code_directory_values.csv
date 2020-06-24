@@ -1,0 +1,119 @@
+Specimen_Type_Code,Specimen__Type__Description
+1,Abscess
+2,Tissue
+3,Amputation
+4,Aspirate
+5,Autopsy
+6,Blister
+7,Boil
+8,Cyst
+9,Discharge
+10,Fistula
+11,Tissue,  Acne
+12,Fluid,  Acne
+13,Air  Sample
+14,Allograft
+15,Amputation
+16,Catheter  Tip,  Angio
+17,Catheter  Tip,  Arterial
+18,Serum,  Acute
+19,Environmental,  Autoclave  Ampule
+20,Environment,  Attest
+21,Blood  bag
+22,Cyst,  Baker’s
+23,Bite
+24,Bleb
+25,Bone
+26,Bowel  contents
+27,Blood  product  unit
+28,Burn
+29,Brush
+30,Bubo
+31,Bulla/Bullae
+32,Biopsy
+33,Calculus  (=Stone)
+34,Carbuncle
+35,Catheter
+36,Bite,  Cat
+37,Clippings
+38,Conjunctiva
+39,Colostrum
+40,Biopsy,  Cone
+41,Scratch,  Cat
+42,Serum,  Convalescent
+43,Catheter  Insertion  Site
+44,Fluid,   Cystostomy  Tube
+45,Fluid,  Cyst
+46,Blood,  Cell  Saver
+47,Catheter  tip
+48,Site,  CVP
+49,Catheter  Tip,  CVP
+50,Nodule,  Cystic
+51,Bite,  Dog
+52,Sputum,  Deep  Cough
+53,Ulcer,  Decubitus
+54,Brush,  Esophageal
+55,Environmental,  Water   (Deionized)
+56,Dialysate
+57,Diverticulum
+58,Drain
+59,Drainage,  Tube
+60,Drainage,  Penrose
+61,Ear  wax  (cerumen)
+62,Environmental,  Isolette
+63,Electrode
+64,Environmental,  Unidentified Substance
+65,Environmental,  Other  Substance
+66,Environmental,  Soil
+67,Environmental,  Solution  (Sterile)
+68,Aspirate,   Endotrach
+69,Catheter  Tip,  Endotracheal
+70,Tube,  Endotracheal
+71,Environmental,  Whirlpool
+72,Gas,  exhaled  (=breath)
+73,Shunt,  External
+74,Exudate
+75,Environmental,  Water   (Well)
+76,Blood,  Fetal
+77,Fluid,   Abdomen
+78,Fluid,  Other
+79,Filter
+80,Fluid,  Body  unsp
+81,Fluid
+82,Catheter  Tip,  Foley
+83,Fluid,  Respiratory
+84,Scalp,  Fetal
+85,Furuncle
+86,Gas
+87,Aspirate,  Gastric
+88,Antrum,  Gastric
+89,Brushing,  Gastric
+90,Drainage,  Gastric
+91,Fluid/contents,  Gastric
+92,Genital  vaginal
+93,Graft
+94,Granuloma
+95,Catheter,  Groshong
+96,Solution,  Gastrostomy
+97,Biopsy,  Gastric
+98,Tube,  Gastric
+99,Drainage  Tube,  Drainage (Gastrostomy)
+100,Bite,  Human
+101,Blood,  Autopsy
+102,Catheter  Tip,  Hemaquit
+103,Catheter  Tip,  Hemovac
+104,Tissue,  Herniated
+105,Drain,  Hemovac
+106,Insufficient  Tissue
+107,Not  abnormal
+108,Abnormal-not  categorized
+109,Mechanical  abnormal
+110,Growth  alteration
+111,Degeneration  &  necrosis
+112,Non-acute  inflammation
+113,Non-malignant  neoplasm
+114,Malignant  neoplasm
+115,No  tissue  expected
+116,Basal  cell  carcinoma
+117,Carcinoma-unspecified  type
+118,Additional  tissue  required

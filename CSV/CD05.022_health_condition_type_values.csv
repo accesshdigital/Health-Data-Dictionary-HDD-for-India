@@ -1,0 +1,23 @@
+Health_Condition_Type_Code,Health_Condition_Type_Name,ICD-10_Code_range
+1,Certain infectious and parasitic diseases,A00-B99
+2,Neoplasms,C00-D48
+3,Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,D50-D89
+4,Endocrine, nutritional and metabolic diseases,E00-E90
+5,Mental and behavioral disorders,F00-F99
+6,Diseases of the nervous system,G00-G99
+7,Diseases of the eye and adnexa,H00-H59
+8,Diseases of the ear and mastoid process,H60-H95
+9,Diseases of the circulatory system,I00-I99
+10,Diseases of the respiratory system,J00-J99
+11,Diseases of the digestive system,K00-K93
+12,Diseases of the skin and subcutaneous tissue,L00-L99
+13,Diseases of the musculoskeletal system and connective tissue,M00-M99
+14,Diseases of the genitourinary system,N00-N99
+15,Pregnancy, childbirth and the puerperium,O00-O99
+16,Certain conditions originating in the perinatal period,P00-P96
+17,Congenital malformations, deformations and chromosomal abnormalities,Q00-Q99
+18,Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified,R00-R99
+19,Injury, poisoning and certain other consequences of external causes.,S00-T98
+20,External causes of morbidity and mortality,V01-Y98
+21,Factors influencing health status and contact with health services,Z00-Z99
+22,Codes for special purposes,U00-U99

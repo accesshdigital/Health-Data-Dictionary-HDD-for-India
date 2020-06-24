@@ -1,0 +1,9 @@
+source_of_payment_code,source_of_payment_description
+01,Out of Pocket Expenditure
+02,Employer Payments
+03,Private Insurance
+04,Government Reimbursement to Provider
+05,Government Reimbursement to Patient
+06,Government Budget
+07,Public Sector Insurance
+08,Others

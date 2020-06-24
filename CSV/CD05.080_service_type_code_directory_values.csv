@@ -1,0 +1,23 @@
+Service__Type_Code,Service__Type__Name,Reference__Value
+1,Room  Rent,CD05.068  Room  Type
+2,Nursing,
+3,Consultation,
+4,Surgery,CD05.043  Procedure  Code
+5,Pharmacy,CD05.104  Generic  Drug
+6,Consumables  and Disposables,CD05.104  Generic  Drug
+7,OT,CD05.043  Procedure  Code
+8,Diet,
+9,Food  &  Beverages,
+10,House  Keeping  (Laundry),
+11,Ambulance,CD05.131  Ambulance  Type
+12,Telephone  Expenses,
+13,Administration,
+14,First-Aids,CD05.043  Procedure  Codes
+15,Lab  Orders,CD05.024  LOINC  Codes
+16,Radiology  Orders,CD05.043  Procedure  Code
+17,Blood  Bank,CD05.024  LOINC  Codes
+18,Immunization  Orders,CD05.036  Immunization Product
+19,Package,
+20,CSSD,CD05.092  Sterilization Cycle
+21,Procedures,CD05.043  Procedure  Code
+22,Others,

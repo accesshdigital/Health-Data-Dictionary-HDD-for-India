@@ -1,0 +1,9 @@
+Test_Result_Interpretation_code,Test_Result_Interpretation__Description
+1,Normal
+2,Low
+3,High
+4,Positive
+5,Negative
+6,Inconclusive
+7,Abnormal
+8,Insufficient quantity of specimen/unusable specimen

@@ -1,0 +1,13 @@
+Medication_Frequency_Code,Medication_Frequency_Description
+AC,Before meals
+BD,Twice a day
+HS,Before Sleep
+OD,Once a day
+PC,After meals
+Q2H,Every 2 hours
+Q4H,Every 4 hours
+QH,Hourly
+QID,Four times a day
+SOS,As required
+STAT,Now
+TID,Thrice a day

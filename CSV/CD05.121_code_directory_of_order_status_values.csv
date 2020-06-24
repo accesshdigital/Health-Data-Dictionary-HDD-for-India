@@ -1,0 +1,10 @@
+Order_Status_Code,Order_Status_Name
+A,Some, but not all, Results available
+CA,Order was cancelled
+CM,Order is completed
+DC,Order was discontinued
+ER,Error, order not found
+HD,Order is on hold
+IP,In Process, Unspecified
+RP,Order has been replaced
+SC,In Process, Scehduled

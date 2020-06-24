@@ -1,0 +1,6 @@
+Status_Code,Status_Description
+1,Active
+2,Inactive
+3,Resolved
+4,Relapsed
+5,Remitted

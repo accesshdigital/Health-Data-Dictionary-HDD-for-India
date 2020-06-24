@@ -1,0 +1,5 @@
+Admission_Type_Code,Admission_Type_Description
+1,Emergency
+2,Urgent
+3,Elective
+4,Newborn

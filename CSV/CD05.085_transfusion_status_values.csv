@@ -1,0 +1,6 @@
+Transfusion_Status_Code,Transfusion_Status_Name
+1,Returned
+2,Unused
+3,Wasted
+4,Transfused
+5,Transfused with Adverse Reaction

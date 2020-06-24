@@ -1,0 +1,11 @@
+Ambulance_Type_Code,Ambulance_Type_Name
+1,Two-wheeler Patient Transport System
+2,Four Wheeler Patient Transport System
+3,Four wheeler Basic Life Support System
+4,Four Wheeler Advance Life Support System
+5,Boat Ambulance- BLS
+6,Boat Ambulance- ALS
+7,Air Ambulance- BLS
+8,Air Ambulance-ALS
+9,Train Ambulance
+10,Others

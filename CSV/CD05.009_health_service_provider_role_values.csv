@@ -1,0 +1,14 @@
+Health_Service_Provider_Role_Code,Health_Service_Provider_Role_Name
+1,Primary Care Provider Referring Provider
+2,Referring Provider
+3,Treating Provider
+4,Attending Provider
+5,Admitting Provider
+6,Consulting Provider
+7,Ordering Provider
+8,Dispensing Provider
+9,Discharge Provider
+10,Secondary Care Provider
+11,Tertiary Care Provider
+12,Transfusion Provider
+13,Others
