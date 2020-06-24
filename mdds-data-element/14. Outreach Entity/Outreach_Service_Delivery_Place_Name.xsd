@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Outreach_Service_Delivery_Place_Name">
+<!-- MDDS code id (05.014.0001)-->
+<xs:simpleType name="Name_of_a_Land_region_in_English">
+          <xs:restriction base="xs:string">
+          <xs:maxLength value="50"/>
+          </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Name_of_a_Land_region_in_recognized_official_langauge">
+          <xs:restriction base="xs:string">
+          <xs:maxLength value="50"/>
+          </xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
