@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name= "Training_Duration">
+<!-- MDDS Code id (05.004.0074)-->
+<xs:complexType>
+<xs:sequence>
+<xs:element name="Month" type="xs:integer" maxOccurs="2"/>
+<xs:element name="Days" type="xs:integer" maxOccurs="2"/>
+<xs:element name="Hours" type="xs:integer" maxOccurs="2"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>
