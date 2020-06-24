@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="OT_Call_Slip_Details">
+<!-- MDDS code id (05.029.0010)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="99"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

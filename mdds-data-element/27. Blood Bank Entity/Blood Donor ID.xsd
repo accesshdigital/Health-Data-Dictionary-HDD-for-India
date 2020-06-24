@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Blood_Donor_ID">
+<!-- MDDS code id (05.027.0003)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="20"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
