@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+<xs:element name="To-Unit-Floor">
+<!-- MDDS code id (05.012.0019)-->
+<xs:simpleType>
+
+<xs:restriction base= "xs:integer">
+<xs:maxLength value="2"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
+
+
+
+
