@@ -1,0 +1,26 @@
+<?xml version = "1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Ambulance_Access_Number">
+<!-- MDDS Code id (05.038.0053)-->
+<xs:simpleType name="International_Access_Code">
+     <xs:restriction base= "xs:string">
+     <xs:totalDigits value= "3"/>
+     </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Country_Code">
+     <xs:restriction base= "xs:string">
+     <xs:totalDigits value= "3"/>
+     </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Trunk_Code">
+     <xs:restriction base= "xs:string">
+     <xs:totalDigits value= "1"/>
+     </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Area_Code">
+     <xs:restriction base= "xs:string">
+     <xs:totalDigits value= "4"/>
+     </xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
