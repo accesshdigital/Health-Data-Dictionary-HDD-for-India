@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Equipment_Name">
+<!-- MDDS code id (05.031.0023)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="100"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
