@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name= "Patient_Dues">
+<!-- MDDS Code id (05.007.0035)-->
+<xs:simpleType>
+<xs:restriction base="xs:decimal">
+<xs:totalDigits value="10"/>
+<xs:fractionDigits value="2"/>
+<xs:pattern value="[0-9]{1,16}[\.][0-9]{2}"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

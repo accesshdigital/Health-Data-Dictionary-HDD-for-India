@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+<xs:element name="Facility_Global_Unique_Identifier_(GUID)">
+<!-- MDDS code id (05.008.0025)-->
+<xs:simpleType>
+
+<xs:restriction base= "xs:integer">
+<xs:maxLength value="16"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
+
+
+
+

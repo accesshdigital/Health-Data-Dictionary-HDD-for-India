@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+<xs:element name="Number_of_Beds">
+<!-- MDDS code id (05.008.0018)-->
+<xs:simpleType>
+
+<xs:restriction base= "xs:integer">
+<xs:maxLength value="4"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
+
+
+
+

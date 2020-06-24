@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Facility_Address">
+<!-- MDDS code id (05.008.0004)-->
+<xs:simpleType name="Address_Type">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="15"/>
+           </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Premises_Identifier">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="60"/>
+           </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Sub_Locality_1">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="60"/>
+           </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Sub_Locality_2">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="60"/>
+           </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Locality">
+           <xs:restriction base="xs:string">
+           <xs:maxLength value="60"/>
+          </xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

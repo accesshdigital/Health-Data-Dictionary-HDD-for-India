@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+
+<xs:element name="Approval_Indicator_for_Duplicate_Bill_Copy">
+<!-- MDDS code id (05.007.0006)-->
+<xs:simpleType>
+
+<xs:restriction base= "xs:integer">
+<xs:maxLength value="1"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
+
+
+
+
