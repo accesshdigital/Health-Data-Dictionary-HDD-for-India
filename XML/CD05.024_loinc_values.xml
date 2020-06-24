@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZLOINC>
+	<LOINC>
+		<LOINC_Code_>18262-6</LOINC_Code_>
+		<LOINC_Description>Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay</LOINC_Description>
+		<LOINC_Class>Chem</LOINC_Class>
+	</LOINC>
+	<LOINC>
+		<LOINC_Code_>2085-9</LOINC_Code_>
+		<LOINC_Description>Cholesterol in HDL [Mass/volume] in Serum or Plasma</LOINC_Description>
+		<LOINC_Class>Chem</LOINC_Class>
+	</LOINC>
+</ZLOINC>

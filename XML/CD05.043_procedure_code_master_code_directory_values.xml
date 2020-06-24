@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zSNOMED_CT_x000a>
+	<SNOMED_CT_x000a>
+		<SNOMED_CT_x000a_Code>236886002</SNOMED_CT_x000a_Code>
+		<SNOMED_CT_Code_Description>Hysterectomy</SNOMED_CT_Code_Description>
+	</SNOMED_CT_x000a>
+	<SNOMED_CT_x000a>
+		<SNOMED_CT_x000a_Code>302383004</SNOMED_CT_x000a_Code>
+		<SNOMED_CT_Code_Description>Forcep Delivery</SNOMED_CT_Code_Description>
+	</SNOMED_CT_x000a>
+	<SNOMED_CT_x000a>
+		<SNOMED_CT_x000a_Code>713027003</SNOMED_CT_x000a_Code>
+		<SNOMED_CT_Code_Description>Plain x-ray of hand</SNOMED_CT_Code_Description>
+	</SNOMED_CT_x000a>
+</zSNOMED_CT_x000a>

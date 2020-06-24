@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZMedication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>1</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Abdominal pain / problems</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>2</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Accident, possible injury</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>3</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Acute infectious process</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>4</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Acute metabolic disorder</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>5</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Acute respiratory distress</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>6</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Acute surgical emergency non-trauma</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>7</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Airway obstruction</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>8</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Allergic reaction</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>9</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Altered level of consciousness</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>10</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Bed bound</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>11</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Behavioral / psychiatric disorder</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>12</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Burns</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>13</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Cardiac arrest</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>14</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Cardiac incident</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>15</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Cardiac rhythm disturbance</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>16</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Chest pain / discomfort</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>17</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Diabetic symptoms (hypoglycemia)</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>18</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Disorder of endocrine system</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>19</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>DOA</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>20</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Electrocution</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>21</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Hemodynamic instability</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>22</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Hyperthermia</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>23</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Hypothermia</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>24</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Hypovolemia / shock</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>25</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Inhalation injury (toxic gas)</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>26</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Neurological/neurovascular</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>27</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Obvious death</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>28</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Organ procurement</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>29</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Overdose</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>30</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Poisoning</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>31</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Poisoning / drug ingestion</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>32</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Pregnancy / OB delivery</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>33</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Respiratory arrest</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>34</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Respiratory distress</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>35</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Response to call/non-transport - deceased patient</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>36</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Response to call/non-transport - patient refuses</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>37</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Response to call/non-transport - transport not needed</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>38</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Rotary aircraft used instead of fixed wing because faster response time needed</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>39</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Rotary aircraft used instead of fixed wing because fixed wing craft not available</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>40</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Rotary aircraft used instead of fixed wing because no landing strip available</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>41</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Rotary aircraft used instead of fixed wing because pilot not available for rotary aircraft</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>42</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Restraining psychiatric patient</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>43</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Seizure</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>44</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Severe hemorrhage</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>45</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Sexual assault / rape</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>46</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Shock</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>47</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Smoke inhalation</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>48</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Spinal injury</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>49</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Stings</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>50</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Stroke / CVA</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>51</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Syncope / fainting</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>52</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Trauma other than vehicle</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>53</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Traumatic injury</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>54</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Unconsciousness</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>55</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Vaginal hemorrhage</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>56</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Vehicle Accident</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>57</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Venomous Bites</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+	<Medication_Reason_for_Unscheduled_Trip>
+		<Medication_Reason_for_Unscheduled_Trip_Code>58</Medication_Reason_for_Unscheduled_Trip_Code>
+		<Medication_Reason_for_Unscheduled_Trip_Name>Non-Emergency</Medication_Reason_for_Unscheduled_Trip_Name>
+	</Medication_Reason_for_Unscheduled_Trip>
+</ZMedication_Reason_for_Unscheduled_Trip>

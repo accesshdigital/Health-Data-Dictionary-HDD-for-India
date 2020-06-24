@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZCause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>1</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Earthquake</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>2</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Tsumani</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>3</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Cyclones</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>4</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Flood</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>5</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Drought</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>6</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Landslide</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>9</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Terrorist  attack</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>10</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Road  Traffic  Accident</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>11</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Railway  Accident</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>12</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Air  Accident</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>13</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Ship  Accident</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>14</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Volcanic  Eruption</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>15</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>CBRN</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+	<Cause_of_Injury>
+		<Cause__of_Injury___Code>16</Cause__of_Injury___Code>
+		<Cause_of_Injury_Name>Others</Cause_of_Injury_Name>
+	</Cause_of_Injury>
+</ZCause_of_Injury>

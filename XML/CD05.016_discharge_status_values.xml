@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZDischarge_Status>
+	<Discharge_Status>
+		<Discharge_Status_Code>1</Discharge_Status_Code>
+		<Discharge_Status_Description>Discharge to home/ self-care</Discharge_Status_Description>
+	</Discharge_Status>
+	<Discharge_Status>
+		<Discharge_Status_Code>2</Discharge_Status_Code>
+		<Discharge_Status_Description>Transfer to other hospital</Discharge_Status_Description>
+	</Discharge_Status>
+	<Discharge_Status>
+		<Discharge_Status_Code>3</Discharge_Status_Code>
+		<Discharge_Status_Description>Transfer to other department</Discharge_Status_Description>
+	</Discharge_Status>
+	<Discharge_Status>
+		<Discharge_Status_Code>4</Discharge_Status_Code>
+		<Discharge_Status_Description>Death</Discharge_Status_Description>
+	</Discharge_Status>
+</ZDischarge_Status>

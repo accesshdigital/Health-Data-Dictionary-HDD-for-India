@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZBody_Site>
+	<Body_Site>
+		<Body_Site_Code>1</Body_Site_Code>
+		<Body_Site_Name>Bilateral Ears</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>2</Body_Site_Code>
+		<Body_Site_Name>Bilateral Nares</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>3</Body_Site_Code>
+		<Body_Site_Name>Left Arm</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>4</Body_Site_Code>
+		<Body_Site_Name>Left Ear</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>5</Body_Site_Code>
+		<Body_Site_Name>Left Foot</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>6</Body_Site_Code>
+		<Body_Site_Name>Chest Tube</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>7</Body_Site_Code>
+		<Body_Site_Name>Buttocks</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>8</Body_Site_Code>
+		<Body_Site_Name>Left Anterior Chest</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>9</Body_Site_Code>
+		<Body_Site_Name>Left Antecubital Fossa</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>10</Body_Site_Code>
+		<Body_Site_Name>Left Deltoid</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>11</Body_Site_Code>
+		<Body_Site_Name>Left External Jugular</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>12</Body_Site_Code>
+		<Body_Site_Name>Left Gluteus Medius</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>13</Body_Site_Code>
+		<Body_Site_Name>Left Hand</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>14</Body_Site_Code>
+		<Body_Site_Name>Left Internal Jugular</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>15</Body_Site_Code>
+		<Body_Site_Name>Left Lower Abd Quadrant</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>16</Body_Site_Code>
+		<Body_Site_Name>Left Lower Forearm</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>17</Body_Site_Code>
+		<Body_Site_Name>Left Mid Forearm</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>18</Body_Site_Code>
+		<Body_Site_Name>Left Naris</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>19</Body_Site_Code>
+		<Body_Site_Name>Left Posterior Chest</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>20</Body_Site_Code>
+		<Body_Site_Name>Left Subclavian</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>21</Body_Site_Code>
+		<Body_Site_Name>Left Thigh</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>22</Body_Site_Code>
+		<Body_Site_Name>Left Upper Arm</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>23</Body_Site_Code>
+		<Body_Site_Name>Left Upper Abd Quadrant</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>24</Body_Site_Code>
+		<Body_Site_Name>Left Upper Forearm</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>25</Body_Site_Code>
+		<Body_Site_Name>Left Ventragluteal</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>26</Body_Site_Code>
+		<Body_Site_Name>Left Vastus Lateralis</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>27</Body_Site_Code>
+		<Body_Site_Name>Nebulized</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>28</Body_Site_Code>
+		<Body_Site_Name>Right Eye</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>29</Body_Site_Code>
+		<Body_Site_Name>Left Eye</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>30</Body_Site_Code>
+		<Body_Site_Name>Bilateral Eyes</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>31</Body_Site_Code>
+		<Body_Site_Name>Perianal</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>32</Body_Site_Code>
+		<Body_Site_Name>Perineal</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>33</Body_Site_Code>
+		<Body_Site_Name>Right Arm</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>34</Body_Site_Code>
+		<Body_Site_Name>Right Anterior Chest</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>35</Body_Site_Code>
+		<Body_Site_Name>Right Antecubital Fossa</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>36</Body_Site_Code>
+		<Body_Site_Name>Right Deltoid</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>37</Body_Site_Code>
+		<Body_Site_Name>Right Ear</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>38</Body_Site_Code>
+		<Body_Site_Name>Right External Jugular</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>39</Body_Site_Code>
+		<Body_Site_Name>Right Foot</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>40</Body_Site_Code>
+		<Body_Site_Name>Right Gluteus Medius</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>41</Body_Site_Code>
+		<Body_Site_Name>Right Hand</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>42</Body_Site_Code>
+		<Body_Site_Name>Right Internal Jugular</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>43</Body_Site_Code>
+		<Body_Site_Name>Rt Lower Abd Quadrant</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>44</Body_Site_Code>
+		<Body_Site_Name>Right Lower Forearm</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>45</Body_Site_Code>
+		<Body_Site_Name>Right Mid Forearm</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>46</Body_Site_Code>
+		<Body_Site_Name>Right Naris</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>47</Body_Site_Code>
+		<Body_Site_Name>Right Posterior Chest</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>48</Body_Site_Code>
+		<Body_Site_Name>Right Subclavian</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>49</Body_Site_Code>
+		<Body_Site_Name>Right Thigh</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>50</Body_Site_Code>
+		<Body_Site_Name>Right Upper Arm</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>51</Body_Site_Code>
+		<Body_Site_Name>Right Upper Abd Quadrant</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>52</Body_Site_Code>
+		<Body_Site_Name>Right Upper Forearm</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>53</Body_Site_Code>
+		<Body_Site_Name>Right Ventragluteal</Body_Site_Name>
+	</Body_Site>
+	<Body_Site>
+		<Body_Site_Code>54</Body_Site_Code>
+		<Body_Site_Name>Right Vastus Lateralis</Body_Site_Name>
+	</Body_Site>
+</ZBody_Site>

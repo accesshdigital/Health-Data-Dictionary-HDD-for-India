@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZHealth_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>1</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Certain infectious and parasitic diseases</Health_Condition_Type_Name>
+		<ICD-10_Code_range>A00-B99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>2</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Neoplasms</Health_Condition_Type_Name>
+		<ICD-10_Code_range>C00-D48</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>3</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism</Health_Condition_Type_Name>
+		<ICD-10_Code_range>D50-D89</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>4</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Endocrine, nutritional and metabolic diseases</Health_Condition_Type_Name>
+		<ICD-10_Code_range>E00-E90</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>5</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Mental and behavioral disorders</Health_Condition_Type_Name>
+		<ICD-10_Code_range>F00-F99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>6</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Diseases of the nervous system</Health_Condition_Type_Name>
+		<ICD-10_Code_range>G00-G99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>7</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Diseases of the eye and adnexa</Health_Condition_Type_Name>
+		<ICD-10_Code_range>H00-H59</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>8</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Diseases of the ear and mastoid process</Health_Condition_Type_Name>
+		<ICD-10_Code_range>H60-H95</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>9</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Diseases of the circulatory system</Health_Condition_Type_Name>
+		<ICD-10_Code_range>I00-I99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>10</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Diseases of the respiratory system</Health_Condition_Type_Name>
+		<ICD-10_Code_range>J00-J99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>11</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Diseases of the digestive system</Health_Condition_Type_Name>
+		<ICD-10_Code_range>K00-K93</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>12</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Diseases of the skin and subcutaneous tissue</Health_Condition_Type_Name>
+		<ICD-10_Code_range>L00-L99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>13</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Diseases of the musculoskeletal system and connective tissue</Health_Condition_Type_Name>
+		<ICD-10_Code_range>M00-M99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>14</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Diseases of the genitourinary system</Health_Condition_Type_Name>
+		<ICD-10_Code_range>N00-N99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>15</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Pregnancy, childbirth and the puerperium</Health_Condition_Type_Name>
+		<ICD-10_Code_range>O00-O99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>16</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Certain conditions originating in the perinatal period</Health_Condition_Type_Name>
+		<ICD-10_Code_range>P00-P96</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>17</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Congenital malformations, deformations and chromosomal abnormalities</Health_Condition_Type_Name>
+		<ICD-10_Code_range>Q00-Q99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>18</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified</Health_Condition_Type_Name>
+		<ICD-10_Code_range>R00-R99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>19</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Injury, poisoning and certain other consequences of external causes.</Health_Condition_Type_Name>
+		<ICD-10_Code_range>S00-T98</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>20</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>External causes of morbidity and mortality</Health_Condition_Type_Name>
+		<ICD-10_Code_range>V01-Y98</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>21</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Factors influencing health status and contact with health services</Health_Condition_Type_Name>
+		<ICD-10_Code_range>Z00-Z99</ICD-10_Code_range>
+	</Health_Condition_Type>
+	<Health_Condition_Type>
+		<Health_Condition_Type_Code>22</Health_Condition_Type_Code>
+		<Health_Condition_Type_Name>Codes for special purposes</Health_Condition_Type_Name>
+		<ICD-10_Code_range>U00-U99</ICD-10_Code_range>
+	</Health_Condition_Type>
+</ZHealth_Condition_Type>

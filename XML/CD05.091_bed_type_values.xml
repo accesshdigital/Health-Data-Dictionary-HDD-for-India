@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZBed_Type>
+	<Bed_Type>
+		<Bed_Type_Code>1</Bed_Type_Code>
+		<Bed_Type_Name>Sanctioned</Bed_Type_Name>
+	</Bed_Type>
+	<Bed_Type>
+		<Bed_Type_Code>2</Bed_Type_Code>
+		<Bed_Type_Name>Available</Bed_Type_Name>
+	</Bed_Type>
+	<Bed_Type>
+		<Bed_Type_Code>3</Bed_Type_Code>
+		<Bed_Type_Name>Functional</Bed_Type_Name>
+	</Bed_Type>
+	<Bed_Type>
+		<Bed_Type_Code>4</Bed_Type_Code>
+		<Bed_Type_Name>Non-Functional</Bed_Type_Name>
+	</Bed_Type>
+</ZBed_Type>

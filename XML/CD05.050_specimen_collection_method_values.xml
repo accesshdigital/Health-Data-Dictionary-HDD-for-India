@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zSpecimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>1</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Blood  Culture,  Aerobic  Bottle</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>2</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Blood  Culture,  Anaerobic  Bottle</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>3</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Biopsy</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>4</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Capillary  Specimen</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>5</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Catheterized</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>6</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Scrapings</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>7</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Swab</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>8</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Venipuncture</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>9</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Plates,  Anaerobic</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>10</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Plates,  Blood  Agar</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>11</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Blood  Culture,  Aerobic  Bottle</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>12</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Blood  Culture,  Pediatric  Bottle</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>13</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Line,  CVP</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>14</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Environmental,  Plate</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>15</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Environmental,  Swab</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>16</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Aspiration,  Fine  Needle</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>17</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Plate,  Cough</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>18</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Line,  Arterial</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>19</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Line,  Venous</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>20</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Martin-Lewis  Agar</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>21</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Mod.  Martin-Lewis  Agar</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>22</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Plate,  Martin-Lewis</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>23</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Plate,  New  York  City</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>24</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Pace,  Gen-Probe</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>25</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Pinworm  Prep</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>26</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Aterial  puncture</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>27</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Pump  Prime</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>28</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Pump  Specimen</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>29</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Quality  Control  For  Micro</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>30</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Scalp,  Fetal  Vein</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>31</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Shaving</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>32</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Swab</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>33</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Swab,  Dacron  tipped</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>34</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Transport  Media,  Anaerobic</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>35</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Transport  Media,  Chalamydia</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>36</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Transport  Media,  M4</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>37</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Transport  Media,  Mycoplasma</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>38</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Transport  Media,</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>39</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Plate,  Thayer-Martin</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>40</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Transport  Media,  PVA</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>41</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Transport  Media,  Stool  Culture</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>42</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Transport  Media,  Ureaplasma</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>43</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Transport  Media,  Viral</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>44</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Venipuncture</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+	<Specimen_Collection_Method>
+		<Specimen_Collection_Method_Code>45</Specimen_Collection_Method_Code>
+		<Specimen__Collection__Method_Description>Swab,  Wooden  Shaft</Specimen__Collection__Method_Description>
+	</Specimen_Collection_Method>
+</zSpecimen_Collection_Method>

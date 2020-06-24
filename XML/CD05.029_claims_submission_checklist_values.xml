@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZChecklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>1</Checklist_Item_Code>
+		<Checklist_Item_Name>Claim form duly signed</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>2</Checklist_Item_Code>
+		<Checklist_Item_Name>Original Preauthorization Request</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>3</Checklist_Item_Code>
+		<Checklist_Item_Name>Copy of the Pre-authorization approval letter</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>4</Checklist_Item_Code>
+		<Checklist_Item_Name>Copy of the photo ID Card of patient verified by hospital</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>5</Checklist_Item_Code>
+		<Checklist_Item_Name>Hospital Discharge Summary</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>6</Checklist_Item_Code>
+		<Checklist_Item_Name>Operation Theatre Notes</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>7</Checklist_Item_Code>
+		<Checklist_Item_Name>Hospital Main Bill</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>8</Checklist_Item_Code>
+		<Checklist_Item_Name>Hospital Break up Bill</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>9</Checklist_Item_Code>
+		<Checklist_Item_Name>Investigation Reports</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>10</Checklist_Item_Code>
+		<Checklist_Item_Name>CT/MRI/USG/HPE Investigation Reports</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>11</Checklist_Item_Code>
+		<Checklist_Item_Name>Doctor’s reference slip for investigation</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>12</Checklist_Item_Code>
+		<Checklist_Item_Name>ECG</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>13</Checklist_Item_Code>
+		<Checklist_Item_Name>Pharmacy Bills</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>14</Checklist_Item_Code>
+		<Checklist_Item_Name>MLC Report &amp; Police FIR</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>15</Checklist_Item_Code>
+		<Checklist_Item_Name>Original Death Summary from Hospital where applicable</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>16</Checklist_Item_Code>
+		<Checklist_Item_Name>Others</Checklist_Item_Name>
+	</Checklist_Item>
+</ZChecklist_Item>

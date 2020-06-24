@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zDisability_Condition>
+	<Disability_Condition>
+		<Disability_Condition_Code>1</Disability_Condition_Code>
+		<Disability__Condition__Name>State  of  consciousness</Disability__Condition__Name>
+		<ICF__Code>B1100</ICF__Code>
+	</Disability_Condition>
+	<Disability_Condition>
+		<Disability_Condition_Code>2</Disability_Condition_Code>
+		<Disability__Condition__Name>Continuity  of  consciousness</Disability__Condition__Name>
+		<ICF__Code>B1101</ICF__Code>
+	</Disability_Condition>
+</zDisability_Condition>

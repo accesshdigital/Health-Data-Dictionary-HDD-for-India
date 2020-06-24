@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zResult_Status>
+	<Result_Status>
+		<Result_Status_Code>1</Result_Status_Code>
+		<Description_of_Result_Status>Preliminary, A verified early result is available, final results not yet obtained</Description_of_Result_Status>
+	</Result_Status>
+	<Result_Status>
+		<Result_Status_Code>2</Result_Status_Code>
+		<Description_of_Result_Status>Complete, final results stored and verified</Description_of_Result_Status>
+	</Result_Status>
+	<Result_Status>
+		<Result_Status_Code>3</Result_Status_Code>
+		<Description_of_Result_Status>Order received; specimen not yet received</Description_of_Result_Status>
+	</Result_Status>
+	<Result_Status>
+		<Result_Status_Code>4</Result_Status_Code>
+		<Description_of_Result_Status>No results available; specimen received, procedure incomplete</Description_of_Result_Status>
+	</Result_Status>
+	<Result_Status>
+		<Result_Status_Code>5</Result_Status_Code>
+		<Description_of_Result_Status>No results available; procedure scheduled, but not done</Description_of_Result_Status>
+	</Result_Status>
+	<Result_Status>
+		<Result_Status_Code>6</Result_Status_Code>
+		<Description_of_Result_Status>Results stored; not yet verified</Description_of_Result_Status>
+	</Result_Status>
+	<Result_Status>
+		<Result_Status_Code>7</Result_Status_Code>
+		<Description_of_Result_Status>No results available; Order canceled.</Description_of_Result_Status>
+	</Result_Status>
+	<Result_Status>
+		<Result_Status_Code>8</Result_Status_Code>
+		<Description_of_Result_Status>No results; Insufficient/unusable specimen</Description_of_Result_Status>
+	</Result_Status>
+</zResult_Status>

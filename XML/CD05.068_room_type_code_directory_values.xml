@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zRoom__Type>
+	<Room__Type>
+		<Room__Type_Code>1</Room__Type_Code>
+		<Room__Type__Name>Day  Care</Room__Type__Name>
+	</Room__Type>
+	<Room__Type>
+		<Room__Type_Code>2</Room__Type_Code>
+		<Room__Type__Name>Intensive  Care  Unit</Room__Type__Name>
+	</Room__Type>
+	<Room__Type>
+		<Room__Type_Code>3</Room__Type_Code>
+		<Room__Type__Name>Private  Room</Room__Type__Name>
+	</Room__Type>
+	<Room__Type>
+		<Room__Type_Code>4</Room__Type_Code>
+		<Room__Type__Name>Twin  Sharing  Room</Room__Type__Name>
+	</Room__Type>
+	<Room__Type>
+		<Room__Type_Code>5</Room__Type_Code>
+		<Room__Type__Name>General  Ward</Room__Type__Name>
+	</Room__Type>
+	<Room__Type>
+		<Room__Type_Code>6</Room__Type_Code>
+		<Room__Type__Name>Luxury  Room</Room__Type__Name>
+	</Room__Type>
+	<Room__Type>
+		<Room__Type_Code>7</Room__Type_Code>
+		<Room__Type__Name>Neonatal  Intensive  Care  Unit</Room__Type__Name>
+	</Room__Type>
+	<Room__Type>
+		<Room__Type_Code>8</Room__Type_Code>
+		<Room__Type__Name>Others</Room__Type__Name>
+	</Room__Type>
+</zRoom__Type>

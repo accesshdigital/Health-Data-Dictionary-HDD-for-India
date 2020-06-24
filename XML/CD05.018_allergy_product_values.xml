@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZAllergy_Product>
+	<Allergy_Product>
+		<Allergy_Product_Code>1</Allergy_Product_Code>
+		<Allergy_Product_Description>Food</Allergy_Product_Description>
+	</Allergy_Product>
+	<Allergy_Product>
+		<Allergy_Product_Code>2</Allergy_Product_Code>
+		<Allergy_Product_Description>Environmental Agent</Allergy_Product_Description>
+	</Allergy_Product>
+	<Allergy_Product>
+		<Allergy_Product_Code>3</Allergy_Product_Code>
+		<Allergy_Product_Description>Medicine</Allergy_Product_Description>
+	</Allergy_Product>
+	<Allergy_Product>
+		<Allergy_Product_Code>4</Allergy_Product_Code>
+		<Allergy_Product_Description>Animal</Allergy_Product_Description>
+	</Allergy_Product>
+	<Allergy_Product>
+		<Allergy_Product_Code>5</Allergy_Product_Code>
+		<Allergy_Product_Description>Pollen</Allergy_Product_Description>
+	</Allergy_Product>
+	<Allergy_Product>
+		<Allergy_Product_Code>6</Allergy_Product_Code>
+		<Allergy_Product_Description>Plant</Allergy_Product_Description>
+	</Allergy_Product>
+	<Allergy_Product>
+		<Allergy_Product_Code>7</Allergy_Product_Code>
+		<Allergy_Product_Description>Metal</Allergy_Product_Description>
+	</Allergy_Product>
+	<Allergy_Product>
+		<Allergy_Product_Code>8</Allergy_Product_Code>
+		<Allergy_Product_Description>Fabric</Allergy_Product_Description>
+	</Allergy_Product>
+	<Allergy_Product>
+		<Allergy_Product_Code>9</Allergy_Product_Code>
+		<Allergy_Product_Description>Other Product</Allergy_Product_Description>
+	</Allergy_Product>
+</ZAllergy_Product>

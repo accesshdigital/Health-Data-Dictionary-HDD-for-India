@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zVital_Signs_Type_x000a>
+	<Vital_Signs_Type_x000a>
+		<Vital_Signs_Type_x000a_Code>1</Vital_Signs_Type_x000a_Code>
+		<Vital_Signs_Type_Name>Body Height</Vital_Signs_Type_Name>
+	</Vital_Signs_Type_x000a>
+	<Vital_Signs_Type_x000a>
+		<Vital_Signs_Type_x000a_Code>2</Vital_Signs_Type_x000a_Code>
+		<Vital_Signs_Type_Name>Body Weight</Vital_Signs_Type_Name>
+	</Vital_Signs_Type_x000a>
+	<Vital_Signs_Type_x000a>
+		<Vital_Signs_Type_x000a_Code>3</Vital_Signs_Type_x000a_Code>
+		<Vital_Signs_Type_Name>Systolic Blood Pressure</Vital_Signs_Type_Name>
+	</Vital_Signs_Type_x000a>
+	<Vital_Signs_Type_x000a>
+		<Vital_Signs_Type_x000a_Code>4</Vital_Signs_Type_x000a_Code>
+		<Vital_Signs_Type_Name>Diastolic Blood Pressure</Vital_Signs_Type_Name>
+	</Vital_Signs_Type_x000a>
+	<Vital_Signs_Type_x000a>
+		<Vital_Signs_Type_x000a_Code>5</Vital_Signs_Type_x000a_Code>
+		<Vital_Signs_Type_Name>Pulse Rate</Vital_Signs_Type_Name>
+	</Vital_Signs_Type_x000a>
+	<Vital_Signs_Type_x000a>
+		<Vital_Signs_Type_x000a_Code>6</Vital_Signs_Type_x000a_Code>
+		<Vital_Signs_Type_Name>Respiratory Rate</Vital_Signs_Type_Name>
+	</Vital_Signs_Type_x000a>
+	<Vital_Signs_Type_x000a>
+		<Vital_Signs_Type_x000a_Code>7</Vital_Signs_Type_x000a_Code>
+		<Vital_Signs_Type_Name>Temperature</Vital_Signs_Type_Name>
+	</Vital_Signs_Type_x000a>
+	<Vital_Signs_Type_x000a>
+		<Vital_Signs_Type_x000a_Code>8</Vital_Signs_Type_x000a_Code>
+		<Vital_Signs_Type_Name>Heart Rate</Vital_Signs_Type_Name>
+	</Vital_Signs_Type_x000a>
+	<Vital_Signs_Type_x000a>
+		<Vital_Signs_Type_x000a_Code>9</Vital_Signs_Type_x000a_Code>
+		<Vital_Signs_Type_Name>Head Circumference</Vital_Signs_Type_Name>
+	</Vital_Signs_Type_x000a>
+	<Vital_Signs_Type_x000a>
+		<Vital_Signs_Type_x000a_Code>10</Vital_Signs_Type_x000a_Code>
+		<Vital_Signs_Type_Name>Oxygen Saturation</Vital_Signs_Type_Name>
+	</Vital_Signs_Type_x000a>
+	<Vital_Signs_Type_x000a>
+		<Vital_Signs_Type_x000a_Code>11</Vital_Signs_Type_x000a_Code>
+		<Vital_Signs_Type_Name>Others</Vital_Signs_Type_Name>
+	</Vital_Signs_Type_x000a>
+</zVital_Signs_Type_x000a>

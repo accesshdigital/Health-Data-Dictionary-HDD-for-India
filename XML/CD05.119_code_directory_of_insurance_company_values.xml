@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZInsurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>1</Insurance_Company_Code>
+		<Insurance_Company_Name>Bajaj Allianz General Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>2</Insurance_Company_Code>
+		<Insurance_Company_Name>ICICI Lombard General Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>3</Insurance_Company_Code>
+		<Insurance_Company_Name>IFFCO Tokio General Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>4</Insurance_Company_Code>
+		<Insurance_Company_Name>National Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>5</Insurance_Company_Code>
+		<Insurance_Company_Name>The New India Assurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>6</Insurance_Company_Code>
+		<Insurance_Company_Name>The Oriental Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>7</Insurance_Company_Code>
+		<Insurance_Company_Name>United India Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>8</Insurance_Company_Code>
+		<Insurance_Company_Name>Reliance General Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>9</Insurance_Company_Code>
+		<Insurance_Company_Name>Royal Sundaram Alliance Insurance Co. Ltd</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>10</Insurance_Company_Code>
+		<Insurance_Company_Name>Tata AIG General Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>11</Insurance_Company_Code>
+		<Insurance_Company_Name>Cholamandalam MS General Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>12</Insurance_Company_Code>
+		<Insurance_Company_Name>HDFC ERGO General Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>13</Insurance_Company_Code>
+		<Insurance_Company_Name>Export Credit Guarantee Corporation of India Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>14</Insurance_Company_Code>
+		<Insurance_Company_Name>Agriculture Insurance Co. of India Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>15</Insurance_Company_Code>
+		<Insurance_Company_Name>Star Health and Allied Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>16</Insurance_Company_Code>
+		<Insurance_Company_Name>Apollo Munich Health Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>17</Insurance_Company_Code>
+		<Insurance_Company_Name>Universal Sompo General Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>18</Insurance_Company_Code>
+		<Insurance_Company_Name>Future Generali India Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>19</Insurance_Company_Code>
+		<Insurance_Company_Name>Shriram General Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>20</Insurance_Company_Code>
+		<Insurance_Company_Name>Bharti AXA General Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>21</Insurance_Company_Code>
+		<Insurance_Company_Name>Raheja QBE General Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>22</Insurance_Company_Code>
+		<Insurance_Company_Name>SBI General Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>23</Insurance_Company_Code>
+		<Insurance_Company_Name>Max Bupa Health Insurance Company Ltd.2nd Floor, Salcon Rasvilas,</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>24</Insurance_Company_Code>
+		<Insurance_Company_Name>L&amp;T General Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>25</Insurance_Company_Code>
+		<Insurance_Company_Name>Religare Health Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>26</Insurance_Company_Code>
+		<Insurance_Company_Name>Magma HDI General Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>27</Insurance_Company_Code>
+		<Insurance_Company_Name>Liberty Videocon General Insurance Company Limited,</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>28</Insurance_Company_Code>
+		<Insurance_Company_Name>Bajaj Allianz Life Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>29</Insurance_Company_Code>
+		<Insurance_Company_Name>Birla Sun Life Insurance Co. Ltd</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>30</Insurance_Company_Code>
+		<Insurance_Company_Name>HDFC Standard Life Insurance Co. Ltd</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>31</Insurance_Company_Code>
+		<Insurance_Company_Name>ICICI Prudential Life Insurance Co. Ltd</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>32</Insurance_Company_Code>
+		<Insurance_Company_Name>ING Vysya Life Insurance Company Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>33</Insurance_Company_Code>
+		<Insurance_Company_Name>Life Insurance Corporation of India</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>34</Insurance_Company_Code>
+		<Insurance_Company_Name>Max Life Insurance Co. Ltd</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>35</Insurance_Company_Code>
+		<Insurance_Company_Name>PNB Metlife India Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>36</Insurance_Company_Code>
+		<Insurance_Company_Name>Kotak Mahindra Old Mutual Life Insurance Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>37</Insurance_Company_Code>
+		<Insurance_Company_Name>SBI Life Insurance Co. Ltd</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>38</Insurance_Company_Code>
+		<Insurance_Company_Name>Tata AIA Life Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>39</Insurance_Company_Code>
+		<Insurance_Company_Name>Reliance Life Insurance Company Limited.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>40</Insurance_Company_Code>
+		<Insurance_Company_Name>Aviva Life Insurance Company India Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>41</Insurance_Company_Code>
+		<Insurance_Company_Name>Sahara India Life Insurance Co, Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>42</Insurance_Company_Code>
+		<Insurance_Company_Name>Shriram Life Insurance Co, Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>43</Insurance_Company_Code>
+		<Insurance_Company_Name>Bharti AXA Life Insurance Company Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>44</Insurance_Company_Code>
+		<Insurance_Company_Name>Future Generali India Life Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>45</Insurance_Company_Code>
+		<Insurance_Company_Name>IDBI Federal Life Insurance Company Ltd</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>46</Insurance_Company_Code>
+		<Insurance_Company_Name>Canara HSBC Oriental Bank of Commerce Life Insurance Company Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>47</Insurance_Company_Code>
+		<Insurance_Company_Name>AEGON Religare Life Insurance Company Limited.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>48</Insurance_Company_Code>
+		<Insurance_Company_Name>DLF Pramerica Life Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>49</Insurance_Company_Code>
+		<Insurance_Company_Name>Star Union Dai-ichi Life Insurance Co.</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>50</Insurance_Company_Code>
+		<Insurance_Company_Name>IndiaFirst Life Insurance Company Limited</Insurance_Company_Name>
+	</Insurance_Company>
+	<Insurance_Company>
+		<Insurance_Company_Code>51</Insurance_Company_Code>
+		<Insurance_Company_Name>Edelweiss Tokio Life Insurance Co. Ltd.</Insurance_Company_Name>
+	</Insurance_Company>
+</ZInsurance_Company>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zOwnership_Authority_Type>
+	<Ownership_Authority_Type>
+		<Ownership_Authority_Type_Code>1</Ownership_Authority_Type_Code>
+		<Ownership_Authority_Type_Name>Facility</Ownership_Authority_Type_Name>
+	</Ownership_Authority_Type>
+	<Ownership_Authority_Type>
+		<Ownership_Authority_Type_Code>2</Ownership_Authority_Type_Code>
+		<Ownership_Authority_Type_Name>Person</Ownership_Authority_Type_Name>
+	</Ownership_Authority_Type>
+	<Ownership_Authority_Type>
+		<Ownership_Authority_Type_Code>3</Ownership_Authority_Type_Code>
+		<Ownership_Authority_Type_Name>Central -ESI</Ownership_Authority_Type_Name>
+	</Ownership_Authority_Type>
+	<Ownership_Authority_Type>
+		<Ownership_Authority_Type_Code>4</Ownership_Authority_Type_Code>
+		<Ownership_Authority_Type_Name>Central - CGHS</Ownership_Authority_Type_Name>
+	</Ownership_Authority_Type>
+	<Ownership_Authority_Type>
+		<Ownership_Authority_Type_Code>5</Ownership_Authority_Type_Code>
+		<Ownership_Authority_Type_Name>Central - HRD</Ownership_Authority_Type_Name>
+	</Ownership_Authority_Type>
+	<Ownership_Authority_Type>
+		<Ownership_Authority_Type_Code>6</Ownership_Authority_Type_Code>
+		<Ownership_Authority_Type_Name>Central - other ministries</Ownership_Authority_Type_Name>
+	</Ownership_Authority_Type>
+	<Ownership_Authority_Type>
+		<Ownership_Authority_Type_Code>7</Ownership_Authority_Type_Code>
+		<Ownership_Authority_Type_Name>Central - Railways</Ownership_Authority_Type_Name>
+	</Ownership_Authority_Type>
+	<Ownership_Authority_Type>
+		<Ownership_Authority_Type_Code>8</Ownership_Authority_Type_Code>
+		<Ownership_Authority_Type_Name>Central - Military</Ownership_Authority_Type_Name>
+	</Ownership_Authority_Type>
+	<Ownership_Authority_Type>
+		<Ownership_Authority_Type_Code>9</Ownership_Authority_Type_Code>
+		<Ownership_Authority_Type_Name>State Government</Ownership_Authority_Type_Name>
+	</Ownership_Authority_Type>
+	<Ownership_Authority_Type>
+		<Ownership_Authority_Type_Code>10</Ownership_Authority_Type_Code>
+		<Ownership_Authority_Type_Name>Private - for profit</Ownership_Authority_Type_Name>
+	</Ownership_Authority_Type>
+	<Ownership_Authority_Type>
+		<Ownership_Authority_Type_Code>11</Ownership_Authority_Type_Code>
+		<Ownership_Authority_Type_Name>Private - Not for profit</Ownership_Authority_Type_Name>
+	</Ownership_Authority_Type>
+</zOwnership_Authority_Type>

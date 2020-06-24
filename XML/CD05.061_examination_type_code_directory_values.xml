@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZExamination_Type>
+	<Examination_Type>
+		<Examination_Type__Code>1</Examination_Type__Code>
+		<Examination__Type__Description>Inspection</Examination__Type__Description>
+	</Examination_Type>
+	<Examination_Type>
+		<Examination_Type__Code>2</Examination_Type__Code>
+		<Examination__Type__Description>Palpation</Examination__Type__Description>
+	</Examination_Type>
+	<Examination_Type>
+		<Examination_Type__Code>3</Examination_Type__Code>
+		<Examination__Type__Description>Percussion</Examination__Type__Description>
+	</Examination_Type>
+	<Examination_Type>
+		<Examination_Type__Code>4</Examination_Type__Code>
+		<Examination__Type__Description>Auscultation</Examination__Type__Description>
+	</Examination_Type>
+</ZExamination_Type>

@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZDesignation>
+	<Designation>
+		<Designation_Code>1</Designation_Code>
+		<Designation_Name>Accountant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>2</Designation_Code>
+		<Designation_Name>Accounts Assistant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>3</Designation_Code>
+		<Designation_Name>Accounts Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>4</Designation_Code>
+		<Designation_Name>Peon</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>5</Designation_Code>
+		<Designation_Name>Additional Director</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>6</Designation_Code>
+		<Designation_Name>Anesthetist</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>7</Designation_Code>
+		<Designation_Name>ANM</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>8</Designation_Code>
+		<Designation_Name>Assistant Clinical Pathologist</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>9</Designation_Code>
+		<Designation_Name>Assistant Director</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>10</Designation_Code>
+		<Designation_Name>Assistant Drug Controller</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>11</Designation_Code>
+		<Designation_Name>Assistant Engineer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>12</Designation_Code>
+		<Designation_Name>Ayurvedic Medical Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>13</Designation_Code>
+		<Designation_Name>Bacteriologist</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>14</Designation_Code>
+		<Designation_Name>Basic Health Inspector</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>15</Designation_Code>
+		<Designation_Name>Basic Health Worker</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>16</Designation_Code>
+		<Designation_Name>Bio-Medical Engineer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>17</Designation_Code>
+		<Designation_Name>Bio-Medical Engineering Expert</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>18</Designation_Code>
+		<Designation_Name>Bio-Medical Waste Management Expert</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>19</Designation_Code>
+		<Designation_Name>Block Accounts-cum-M&amp;E Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>20</Designation_Code>
+		<Designation_Name>Block Community Mobilizer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>21</Designation_Code>
+		<Designation_Name>Block Extension Educator</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>22</Designation_Code>
+		<Designation_Name>Block Health Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>23</Designation_Code>
+		<Designation_Name>Chartered Accountant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>24</Designation_Code>
+		<Designation_Name>Chaukidar (Night Guard)</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>25</Designation_Code>
+		<Designation_Name>Chief Medical Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>26</Designation_Code>
+		<Designation_Name>Cholera Invigilator</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>27</Designation_Code>
+		<Designation_Name>Civil Assistant Surgeon</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>28</Designation_Code>
+		<Designation_Name>Civil Surgeon</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>29</Designation_Code>
+		<Designation_Name>Civil Surgeon-cum-Chief Medical Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>30</Designation_Code>
+		<Designation_Name>Clerk</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>31</Designation_Code>
+		<Designation_Name>Compounder</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>32</Designation_Code>
+		<Designation_Name>Computer (Compiler)</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>33</Designation_Code>
+		<Designation_Name>Computer Operator/Computer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>34</Designation_Code>
+		<Designation_Name>Computer Programmer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>35</Designation_Code>
+		<Designation_Name>Consultant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>36</Designation_Code>
+		<Designation_Name>Cook/Cook Servant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>37</Designation_Code>
+		<Designation_Name>Councellor</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>38</Designation_Code>
+		<Designation_Name>Curator</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>39</Designation_Code>
+		<Designation_Name>Data Assistant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>40</Designation_Code>
+		<Designation_Name>Data Entry Operator/Data Operator</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>41</Designation_Code>
+		<Designation_Name>Data Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>42</Designation_Code>
+		<Designation_Name>Dental Doctor</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>43</Designation_Code>
+		<Designation_Name>Dental Surgeon</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>44</Designation_Code>
+		<Designation_Name>Deputy Director</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>45</Designation_Code>
+		<Designation_Name>Deputy Superintendent</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>46</Designation_Code>
+		<Designation_Name>Dispenser</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>47</Designation_Code>
+		<Designation_Name>Dietician</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>48</Designation_Code>
+		<Designation_Name>Director</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>49</Designation_Code>
+		<Designation_Name>District Accounts Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>50</Designation_Code>
+		<Designation_Name>District Community Mobilizer (ASHA)</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>51</Designation_Code>
+		<Designation_Name>District Data Assistant (ASHA)</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>52</Designation_Code>
+		<Designation_Name>District Data Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>53</Designation_Code>
+		<Designation_Name>District IDD/Filaria Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>54</Designation_Code>
+		<Designation_Name>District Immunization Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>55</Designation_Code>
+		<Designation_Name>District AYUSH Medical Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>56</Designation_Code>
+		<Designation_Name>District Leprosy Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>57</Designation_Code>
+		<Designation_Name>District Malaria Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>58</Designation_Code>
+		<Designation_Name>District Planning Coordinator</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>59</Designation_Code>
+		<Designation_Name>District Programme Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>60</Designation_Code>
+		<Designation_Name>District Tuberculosis Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>61</Designation_Code>
+		<Designation_Name>Divisional ASHA Coordinator</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>62</Designation_Code>
+		<Designation_Name>Dresser</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>63</Designation_Code>
+		<Designation_Name>Driver</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>64</Designation_Code>
+		<Designation_Name>Drug Inspector</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>65</Designation_Code>
+		<Designation_Name>ECG Technician</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>66</Designation_Code>
+		<Designation_Name>Electrician</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>67</Designation_Code>
+		<Designation_Name>Epidemiologist-Medico</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>68</Designation_Code>
+		<Designation_Name>Epidemiologist-Non Medico</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>69</Designation_Code>
+		<Designation_Name>Eye Assistant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>70</Designation_Code>
+		<Designation_Name>Eye Surgeon</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>71</Designation_Code>
+		<Designation_Name>Family Welfare Worker</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>72</Designation_Code>
+		<Designation_Name>Female Paramedical Worker</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>73</Designation_Code>
+		<Designation_Name>Female Ward Attendant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>74</Designation_Code>
+		<Designation_Name>Field Coordinator</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>75</Designation_Code>
+		<Designation_Name>Field Worker</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>76</Designation_Code>
+		<Designation_Name>Filaria Inspector</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>77</Designation_Code>
+		<Designation_Name>Filaria officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>78</Designation_Code>
+		<Designation_Name>Finance Analyst</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>79</Designation_Code>
+		<Designation_Name>Finance Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>80</Designation_Code>
+		<Designation_Name>Head Clerk</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>81</Designation_Code>
+		<Designation_Name>HMIS Supervisor</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>82</Designation_Code>
+		<Designation_Name>Homeopathy Medical Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>83</Designation_Code>
+		<Designation_Name>Hospital Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>84</Designation_Code>
+		<Designation_Name>IDSP Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>85</Designation_Code>
+		<Designation_Name>Joint Director</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>86</Designation_Code>
+		<Designation_Name>Lab Assistant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>87</Designation_Code>
+		<Designation_Name>Lab Technician</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>88</Designation_Code>
+		<Designation_Name>Laboratory Attendant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>89</Designation_Code>
+		<Designation_Name>Ladies Health Visitor</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>90</Designation_Code>
+		<Designation_Name>Legal Expert</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>91</Designation_Code>
+		<Designation_Name>Male Ward Attendant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>92</Designation_Code>
+		<Designation_Name>Matron</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>93</Designation_Code>
+		<Designation_Name>Medical Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>94</Designation_Code>
+		<Designation_Name>Medical Officer (Trainee Reserve Posting)</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>95</Designation_Code>
+		<Designation_Name>Medical Officer -in -Charge</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>96</Designation_Code>
+		<Designation_Name>Microbiologist</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>97</Designation_Code>
+		<Designation_Name>MIS Assistant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>98</Designation_Code>
+		<Designation_Name>Monitoring and Evaluation Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>99</Designation_Code>
+		<Designation_Name>Nurse</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>100</Designation_Code>
+		<Designation_Name>Nurse “A Grade”</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>101</Designation_Code>
+		<Designation_Name>Occupational Therapist</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>102</Designation_Code>
+		<Designation_Name>Office Assistant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>103</Designation_Code>
+		<Designation_Name>Office Attendant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>104</Designation_Code>
+		<Designation_Name>Operation Theatre Assistant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>105</Designation_Code>
+		<Designation_Name>Ophthalmic Assistant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>106</Designation_Code>
+		<Designation_Name>Pathologist</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>107</Designation_Code>
+		<Designation_Name>Pharmacist</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>108</Designation_Code>
+		<Designation_Name>PHN (Public Health Nurse)</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>109</Designation_Code>
+		<Designation_Name>Physiotherapist</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>110</Designation_Code>
+		<Designation_Name>Procurement Expert</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>111</Designation_Code>
+		<Designation_Name>Programme Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>112</Designation_Code>
+		<Designation_Name>Public Health Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>113</Designation_Code>
+		<Designation_Name>Quality Assurance Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>114</Designation_Code>
+		<Designation_Name>Refractionists</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>115</Designation_Code>
+		<Designation_Name>Resident  Clinical Pathologist</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>116</Designation_Code>
+		<Designation_Name>Resident Medical Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>117</Designation_Code>
+		<Designation_Name>Resident Medical Officer - AYUSH</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>118</Designation_Code>
+		<Designation_Name>Senior Consultant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>119</Designation_Code>
+		<Designation_Name>Senior Medical Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>120</Designation_Code>
+		<Designation_Name>Senior Resident</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>121</Designation_Code>
+		<Designation_Name>Senior Sister Tutor</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>122</Designation_Code>
+		<Designation_Name>Senior Treatment Supervisor</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>123</Designation_Code>
+		<Designation_Name>Senior Tuberculosis Laboratory Supervisor</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>124</Designation_Code>
+		<Designation_Name>Sonologist</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>125</Designation_Code>
+		<Designation_Name>State Consultant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>126</Designation_Code>
+		<Designation_Name>State Immunization Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>127</Designation_Code>
+		<Designation_Name>State Programme Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>128</Designation_Code>
+		<Designation_Name>State Programme Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>129</Designation_Code>
+		<Designation_Name>Statistical Assistant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>130</Designation_Code>
+		<Designation_Name>Statistician</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>131</Designation_Code>
+		<Designation_Name>Store Keeper</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>132</Designation_Code>
+		<Designation_Name>Surgeon</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>133</Designation_Code>
+		<Designation_Name>Sweeper</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>134</Designation_Code>
+		<Designation_Name>Trend Dai</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>135</Designation_Code>
+		<Designation_Name>Typist</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>136</Designation_Code>
+		<Designation_Name>Unani  Medical Officer</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>137</Designation_Code>
+		<Designation_Name>Vaccinator</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>138</Designation_Code>
+		<Designation_Name>Vaccine Logistic Manager</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>139</Designation_Code>
+		<Designation_Name>Vector Bond Disease (VBD) Consultant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>140</Designation_Code>
+		<Designation_Name>Ward Attendant</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>141</Designation_Code>
+		<Designation_Name>Ward Sister</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>142</Designation_Code>
+		<Designation_Name>X Ray Technician</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>143</Designation_Code>
+		<Designation_Name>Accredited Social Health Activist (ASHA)</Designation_Name>
+	</Designation>
+	<Designation>
+		<Designation_Code>144</Designation_Code>
+		<Designation_Name>Other Community Health Workers</Designation_Name>
+	</Designation>
+</ZDesignation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZChecklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>1</Checklist_Item_Code>
+		<Checklist_Item_Name>Test for Syphilis - VDRL</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>2</Checklist_Item_Code>
+		<Checklist_Item_Name>Test for Hepatitis A ; B - HBsAg</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>3</Checklist_Item_Code>
+		<Checklist_Item_Name>Test for Hepatitis C - ELISA</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>4</Checklist_Item_Code>
+		<Checklist_Item_Name>Test for HIV antibodies 1; 2 - ELISA</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>5</Checklist_Item_Code>
+		<Checklist_Item_Name>Test for Malaria - MP</Checklist_Item_Name>
+	</Checklist_Item>
+	<Checklist_Item>
+		<Checklist_Item_Code>6</Checklist_Item_Code>
+		<Checklist_Item_Name>Platelet Count</Checklist_Item_Name>
+	</Checklist_Item>
+</ZChecklist_Item>

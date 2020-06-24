@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zSeverity>
+	<Severity>
+		<Severity_Code>1</Severity_Code>
+		<Severity_Description>Mild</Severity_Description>
+	</Severity>
+	<Severity>
+		<Severity_Code>2</Severity_Code>
+		<Severity_Description>Moderate</Severity_Description>
+	</Severity>
+	<Severity>
+		<Severity_Code>3</Severity_Code>
+		<Severity_Description>Severe</Severity_Description>
+	</Severity>
+	<Severity>
+		<Severity_Code>4</Severity_Code>
+		<Severity_Description>Potentially Life Threatening</Severity_Description>
+	</Severity>
+	<Severity>
+		<Severity_Code>5</Severity_Code>
+		<Severity_Description>Anaphylaxis</Severity_Description>
+	</Severity>
+	<Severity>
+		<Severity_Code>6</Severity_Code>
+		<Severity_Description>Fatal</Severity_Description>
+	</Severity>
+	<Severity>
+		<Severity_Code>7</Severity_Code>
+		<Severity_Description>Toxicosis</Severity_Description>
+	</Severity>
+</zSeverity>

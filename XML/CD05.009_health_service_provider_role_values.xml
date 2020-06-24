@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZHealth_Service_Provider_Role> 
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>1</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Primary Care Provider Referring Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>2</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Referring Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>3</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Treating Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>4</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Attending Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>5</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Admitting Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>6</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Consulting Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>7</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Ordering Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>8</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Dispensing Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>9</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Discharge Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>10</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Secondary Care Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>11</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Tertiary Care Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>12</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Transfusion Provider</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+	<Health_Service_Provider_Role>
+		<Health_Service_Provider_Role_Code>13</Health_Service_Provider_Role_Code>
+		<Health_Service_Provider_Role_Name>Others</Health_Service_Provider_Role_Name>
+	</Health_Service_Provider_Role>
+</ZHealth_Service_Provider_Role>

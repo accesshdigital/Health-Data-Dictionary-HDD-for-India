@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZICD-10>
+	<ICD-10>
+		<ICD-10_Code>A00</ICD-10_Code>
+		<ICD-10_Code_Description>Cholera</ICD-10_Code_Description>
+	</ICD-10>
+	<ICD-10>
+		<ICD-10_Code>A01</ICD-10_Code>
+		<ICD-10_Code_Description>Typhoid and Paratyphoid fevers</ICD-10_Code_Description>
+	</ICD-10>
+</ZICD-10>

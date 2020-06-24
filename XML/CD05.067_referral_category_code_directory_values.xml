@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zReferral_Category>
+	<Referral_Category>
+		<Referral_Category_Code>A</Referral_Category_Code>
+		<Referral__Category__Name>Ambulatory</Referral__Category__Name>
+	</Referral_Category>
+	<Referral_Category>
+		<Referral_Category_Code>E</Referral_Category_Code>
+		<Referral__Category__Name>Emergency</Referral__Category__Name>
+	</Referral_Category>
+	<Referral_Category>
+		<Referral_Category_Code>I</Referral_Category_Code>
+		<Referral__Category__Name>Inpatient</Referral__Category__Name>
+	</Referral_Category>
+	<Referral_Category>
+		<Referral_Category_Code>O</Referral_Category_Code>
+		<Referral__Category__Name>Outpatient</Referral__Category__Name>
+	</Referral_Category>
+</zReferral_Category>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZDrug_Marketing_Status>
+	<Drug_Marketing_Status>
+		<Drug_Marketing_Status_Code>1</Drug_Marketing_Status_Code>
+		<Drug_Marketing_Status_Name>Over-the-Counter</Drug_Marketing_Status_Name>
+	</Drug_Marketing_Status>
+	<Drug_Marketing_Status>
+		<Drug_Marketing_Status_Code>2</Drug_Marketing_Status_Code>
+		<Drug_Marketing_Status_Name>Prescription</Drug_Marketing_Status_Name>
+	</Drug_Marketing_Status>
+	<Drug_Marketing_Status>
+		<Drug_Marketing_Status_Code>3</Drug_Marketing_Status_Code>
+		<Drug_Marketing_Status_Name>Discontinued</Drug_Marketing_Status_Name>
+	</Drug_Marketing_Status>
+	<Drug_Marketing_Status>
+		<Drug_Marketing_Status_Code>4</Drug_Marketing_Status_Code>
+		<Drug_Marketing_Status_Name>Tentatively approved</Drug_Marketing_Status_Name>
+	</Drug_Marketing_Status>
+</ZDrug_Marketing_Status>

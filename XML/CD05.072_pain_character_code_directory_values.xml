@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zPain_Character>
+	<Pain_Character>
+		<Pain_Character_Code>1</Pain_Character_Code>
+		<Pain__Character__Name>Ache</Pain__Character__Name>
+	</Pain_Character>
+	<Pain_Character>
+		<Pain_Character_Code>2</Pain_Character_Code>
+		<Pain__Character__Name>Dull</Pain__Character__Name>
+	</Pain_Character>
+	<Pain_Character>
+		<Pain_Character_Code>3</Pain_Character_Code>
+		<Pain__Character__Name>Sharp</Pain__Character__Name>
+	</Pain_Character>
+	<Pain_Character>
+		<Pain_Character_Code>4</Pain_Character_Code>
+		<Pain__Character__Name>Stabbing</Pain__Character__Name>
+	</Pain_Character>
+	<Pain_Character>
+		<Pain_Character_Code>5</Pain_Character_Code>
+		<Pain__Character__Name>Throbbing</Pain__Character__Name>
+	</Pain_Character>
+	<Pain_Character>
+		<Pain_Character_Code>6</Pain_Character_Code>
+		<Pain__Character__Name>Cramping</Pain__Character__Name>
+	</Pain_Character>
+	<Pain_Character>
+		<Pain_Character_Code>7</Pain_Character_Code>
+		<Pain__Character__Name>Burning</Pain__Character__Name>
+	</Pain_Character>
+	<Pain_Character>
+		<Pain_Character_Code>8</Pain_Character_Code>
+		<Pain__Character__Name>Shooting</Pain__Character__Name>
+	</Pain_Character>
+	<Pain_Character>
+		<Pain_Character_Code>9</Pain_Character_Code>
+		<Pain__Character__Name>Pressure</Pain__Character__Name>
+	</Pain_Character>
+	<Pain_Character>
+		<Pain_Character_Code>10</Pain_Character_Code>
+		<Pain__Character__Name>Radiating</Pain__Character__Name>
+	</Pain_Character>
+	<Pain_Character>
+		<Pain_Character_Code>11</Pain_Character_Code>
+		<Pain__Character__Name>Other</Pain__Character__Name>
+	</Pain_Character>
+</zPain_Character>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZHealth_Insurance_Plan_Type>
+	<Health_Insurance_Plan_Type>
+		<Health_Insurance_Plan_Type_Code>01</Health_Insurance_Plan_Type_Code>
+		<Health_Insurance_Plan_Type_Description>Public Sector</Health_Insurance_Plan_Type_Description>
+	</Health_Insurance_Plan_Type>
+	<Health_Insurance_Plan_Type>
+		<Health_Insurance_Plan_Type_Code>02</Health_Insurance_Plan_Type_Code>
+		<Health_Insurance_Plan_Type_Description>Private Sector</Health_Insurance_Plan_Type_Description>
+	</Health_Insurance_Plan_Type>
+</ZHealth_Insurance_Plan_Type>

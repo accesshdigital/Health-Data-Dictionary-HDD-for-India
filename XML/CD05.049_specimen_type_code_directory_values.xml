@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zSpecimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>1</Specimen_Type_Code>
+		<Specimen__Type__Description>Abscess</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>2</Specimen_Type_Code>
+		<Specimen__Type__Description>Tissue</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>3</Specimen_Type_Code>
+		<Specimen__Type__Description>Amputation</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>4</Specimen_Type_Code>
+		<Specimen__Type__Description>Aspirate</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>5</Specimen_Type_Code>
+		<Specimen__Type__Description>Autopsy</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>6</Specimen_Type_Code>
+		<Specimen__Type__Description>Blister</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>7</Specimen_Type_Code>
+		<Specimen__Type__Description>Boil</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>8</Specimen_Type_Code>
+		<Specimen__Type__Description>Cyst</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>9</Specimen_Type_Code>
+		<Specimen__Type__Description>Discharge</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>10</Specimen_Type_Code>
+		<Specimen__Type__Description>Fistula</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>11</Specimen_Type_Code>
+		<Specimen__Type__Description>Tissue,  Acne</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>12</Specimen_Type_Code>
+		<Specimen__Type__Description>Fluid,  Acne</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>13</Specimen_Type_Code>
+		<Specimen__Type__Description>Air  Sample</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>14</Specimen_Type_Code>
+		<Specimen__Type__Description>Allograft</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>15</Specimen_Type_Code>
+		<Specimen__Type__Description>Amputation</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>16</Specimen_Type_Code>
+		<Specimen__Type__Description>Catheter  Tip,  Angio</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>17</Specimen_Type_Code>
+		<Specimen__Type__Description>Catheter  Tip,  Arterial</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>18</Specimen_Type_Code>
+		<Specimen__Type__Description>Serum,  Acute</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>19</Specimen_Type_Code>
+		<Specimen__Type__Description>Environmental,  Autoclave  Ampule</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>20</Specimen_Type_Code>
+		<Specimen__Type__Description>Environment,  Attest</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>21</Specimen_Type_Code>
+		<Specimen__Type__Description>Blood  bag</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>22</Specimen_Type_Code>
+		<Specimen__Type__Description>Cyst,  Baker’s</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>23</Specimen_Type_Code>
+		<Specimen__Type__Description>Bite</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>24</Specimen_Type_Code>
+		<Specimen__Type__Description>Bleb</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>25</Specimen_Type_Code>
+		<Specimen__Type__Description>Bone</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>26</Specimen_Type_Code>
+		<Specimen__Type__Description>Bowel  contents</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>27</Specimen_Type_Code>
+		<Specimen__Type__Description>Blood  product  unit</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>28</Specimen_Type_Code>
+		<Specimen__Type__Description>Burn</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>29</Specimen_Type_Code>
+		<Specimen__Type__Description>Brush</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>30</Specimen_Type_Code>
+		<Specimen__Type__Description>Bubo</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>31</Specimen_Type_Code>
+		<Specimen__Type__Description>Bulla/Bullae</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>32</Specimen_Type_Code>
+		<Specimen__Type__Description>Biopsy</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>33</Specimen_Type_Code>
+		<Specimen__Type__Description>Calculus  (=Stone)</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>34</Specimen_Type_Code>
+		<Specimen__Type__Description>Carbuncle</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>35</Specimen_Type_Code>
+		<Specimen__Type__Description>Catheter</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>36</Specimen_Type_Code>
+		<Specimen__Type__Description>Bite,  Cat</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>37</Specimen_Type_Code>
+		<Specimen__Type__Description>Clippings</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>38</Specimen_Type_Code>
+		<Specimen__Type__Description>Conjunctiva</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>39</Specimen_Type_Code>
+		<Specimen__Type__Description>Colostrum</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>40</Specimen_Type_Code>
+		<Specimen__Type__Description>Biopsy,  Cone</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>41</Specimen_Type_Code>
+		<Specimen__Type__Description>Scratch,  Cat</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>42</Specimen_Type_Code>
+		<Specimen__Type__Description>Serum,  Convalescent</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>43</Specimen_Type_Code>
+		<Specimen__Type__Description>Catheter  Insertion  Site</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>44</Specimen_Type_Code>
+		<Specimen__Type__Description>Fluid,   Cystostomy  Tube</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>45</Specimen_Type_Code>
+		<Specimen__Type__Description>Fluid,  Cyst</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>46</Specimen_Type_Code>
+		<Specimen__Type__Description>Blood,  Cell  Saver</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>47</Specimen_Type_Code>
+		<Specimen__Type__Description>Catheter  tip</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>48</Specimen_Type_Code>
+		<Specimen__Type__Description>Site,  CVP</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>49</Specimen_Type_Code>
+		<Specimen__Type__Description>Catheter  Tip,  CVP</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>50</Specimen_Type_Code>
+		<Specimen__Type__Description>Nodule,  Cystic</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>51</Specimen_Type_Code>
+		<Specimen__Type__Description>Bite,  Dog</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>52</Specimen_Type_Code>
+		<Specimen__Type__Description>Sputum,  Deep  Cough</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>53</Specimen_Type_Code>
+		<Specimen__Type__Description>Ulcer,  Decubitus</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>54</Specimen_Type_Code>
+		<Specimen__Type__Description>Brush,  Esophageal</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>55</Specimen_Type_Code>
+		<Specimen__Type__Description>Environmental,  Water   (Deionized)</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>56</Specimen_Type_Code>
+		<Specimen__Type__Description>Dialysate</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>57</Specimen_Type_Code>
+		<Specimen__Type__Description>Diverticulum</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>58</Specimen_Type_Code>
+		<Specimen__Type__Description>Drain</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>59</Specimen_Type_Code>
+		<Specimen__Type__Description>Drainage,  Tube</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>60</Specimen_Type_Code>
+		<Specimen__Type__Description>Drainage,  Penrose</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>61</Specimen_Type_Code>
+		<Specimen__Type__Description>Ear  wax  (cerumen)</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>62</Specimen_Type_Code>
+		<Specimen__Type__Description>Environmental,  Isolette</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>63</Specimen_Type_Code>
+		<Specimen__Type__Description>Electrode</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>64</Specimen_Type_Code>
+		<Specimen__Type__Description>Environmental,  Unidentified Substance</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>65</Specimen_Type_Code>
+		<Specimen__Type__Description>Environmental,  Other  Substance</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>66</Specimen_Type_Code>
+		<Specimen__Type__Description>Environmental,  Soil</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>67</Specimen_Type_Code>
+		<Specimen__Type__Description>Environmental,  Solution  (Sterile)</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>68</Specimen_Type_Code>
+		<Specimen__Type__Description>Aspirate,   Endotrach</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>69</Specimen_Type_Code>
+		<Specimen__Type__Description>Catheter  Tip,  Endotracheal</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>70</Specimen_Type_Code>
+		<Specimen__Type__Description>Tube,  Endotracheal</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>71</Specimen_Type_Code>
+		<Specimen__Type__Description>Environmental,  Whirlpool</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>72</Specimen_Type_Code>
+		<Specimen__Type__Description>Gas,  exhaled  (=breath)</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>73</Specimen_Type_Code>
+		<Specimen__Type__Description>Shunt,  External</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>74</Specimen_Type_Code>
+		<Specimen__Type__Description>Exudate</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>75</Specimen_Type_Code>
+		<Specimen__Type__Description>Environmental,  Water   (Well)</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>76</Specimen_Type_Code>
+		<Specimen__Type__Description>Blood,  Fetal</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>77</Specimen_Type_Code>
+		<Specimen__Type__Description>Fluid,   Abdomen</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>78</Specimen_Type_Code>
+		<Specimen__Type__Description>Fluid,  Other</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>79</Specimen_Type_Code>
+		<Specimen__Type__Description>Filter</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>80</Specimen_Type_Code>
+		<Specimen__Type__Description>Fluid,  Body  unsp</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>81</Specimen_Type_Code>
+		<Specimen__Type__Description>Fluid</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>82</Specimen_Type_Code>
+		<Specimen__Type__Description>Catheter  Tip,  Foley</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>83</Specimen_Type_Code>
+		<Specimen__Type__Description>Fluid,  Respiratory</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>84</Specimen_Type_Code>
+		<Specimen__Type__Description>Scalp,  Fetal</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>85</Specimen_Type_Code>
+		<Specimen__Type__Description>Furuncle</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>86</Specimen_Type_Code>
+		<Specimen__Type__Description>Gas</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>87</Specimen_Type_Code>
+		<Specimen__Type__Description>Aspirate,  Gastric</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>88</Specimen_Type_Code>
+		<Specimen__Type__Description>Antrum,  Gastric</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>89</Specimen_Type_Code>
+		<Specimen__Type__Description>Brushing,  Gastric</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>90</Specimen_Type_Code>
+		<Specimen__Type__Description>Drainage,  Gastric</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>91</Specimen_Type_Code>
+		<Specimen__Type__Description>Fluid/contents,  Gastric</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>92</Specimen_Type_Code>
+		<Specimen__Type__Description>Genital  vaginal</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>93</Specimen_Type_Code>
+		<Specimen__Type__Description>Graft</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>94</Specimen_Type_Code>
+		<Specimen__Type__Description>Granuloma</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>95</Specimen_Type_Code>
+		<Specimen__Type__Description>Catheter,  Groshong</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>96</Specimen_Type_Code>
+		<Specimen__Type__Description>Solution,  Gastrostomy</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>97</Specimen_Type_Code>
+		<Specimen__Type__Description>Biopsy,  Gastric</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>98</Specimen_Type_Code>
+		<Specimen__Type__Description>Tube,  Gastric</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>99</Specimen_Type_Code>
+		<Specimen__Type__Description>Drainage  Tube,  Drainage (Gastrostomy)</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>100</Specimen_Type_Code>
+		<Specimen__Type__Description>Bite,  Human</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>101</Specimen_Type_Code>
+		<Specimen__Type__Description>Blood,  Autopsy</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>102</Specimen_Type_Code>
+		<Specimen__Type__Description>Catheter  Tip,  Hemaquit</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>103</Specimen_Type_Code>
+		<Specimen__Type__Description>Catheter  Tip,  Hemovac</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>104</Specimen_Type_Code>
+		<Specimen__Type__Description>Tissue,  Herniated</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>105</Specimen_Type_Code>
+		<Specimen__Type__Description>Drain,  Hemovac</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>106</Specimen_Type_Code>
+		<Specimen__Type__Description>Insufficient  Tissue</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>107</Specimen_Type_Code>
+		<Specimen__Type__Description>Not  abnormal</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>108</Specimen_Type_Code>
+		<Specimen__Type__Description>Abnormal-not  categorized</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>109</Specimen_Type_Code>
+		<Specimen__Type__Description>Mechanical  abnormal</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>110</Specimen_Type_Code>
+		<Specimen__Type__Description>GSpecimen_Typeth  alteration</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>111</Specimen_Type_Code>
+		<Specimen__Type__Description>Degeneration  &amp;  necrosis</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>112</Specimen_Type_Code>
+		<Specimen__Type__Description>Non-acute  inflammation</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>113</Specimen_Type_Code>
+		<Specimen__Type__Description>Non-malignant  neoplasm</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>114</Specimen_Type_Code>
+		<Specimen__Type__Description>Malignant  neoplasm</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>115</Specimen_Type_Code>
+		<Specimen__Type__Description>No  tissue  expected</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>116</Specimen_Type_Code>
+		<Specimen__Type__Description>Basal  cell  carcinoma</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>117</Specimen_Type_Code>
+		<Specimen__Type__Description>Carcinoma-unspecified  type</Specimen__Type__Description>
+	</Specimen_Type>
+	<Specimen_Type>
+		<Specimen_Type_Code>118</Specimen_Type_Code>
+		<Specimen__Type__Description>Additional  tissue  required</Specimen__Type__Description>
+	</Specimen_Type>
+</zSpecimen_Type>

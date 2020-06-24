@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZInventory_Store_Type>
+	<Inventory_Store_Type>
+		<Inventory_Store_Type_Code>01</Inventory_Store_Type_Code>
+		<Inventory_Store_Type>OP</Inventory_Store_Type>
+	</Inventory_Store_Type>
+	<Inventory_Store_Type>
+		<Inventory_Store_Type_Code>02</Inventory_Store_Type_Code>
+		<Inventory_Store_Type>IP</Inventory_Store_Type>
+	</Inventory_Store_Type>
+	<Inventory_Store_Type>
+		<Inventory_Store_Type_Code>03</Inventory_Store_Type_Code>
+		<Inventory_Store_Type>OT</Inventory_Store_Type>
+	</Inventory_Store_Type>
+	<Inventory_Store_Type>
+		<Inventory_Store_Type_Code>04</Inventory_Store_Type_Code>
+		<Inventory_Store_Type>Main</Inventory_Store_Type>
+	</Inventory_Store_Type>
+	<Inventory_Store_Type>
+		<Inventory_Store_Type_Code>05</Inventory_Store_Type_Code>
+		<Inventory_Store_Type>Emergency</Inventory_Store_Type>
+	</Inventory_Store_Type>
+	<Inventory_Store_Type>
+		<Inventory_Store_Type_Code>06</Inventory_Store_Type_Code>
+		<Inventory_Store_Type>Others</Inventory_Store_Type>
+	</Inventory_Store_Type>
+</ZInventory_Store_Type>

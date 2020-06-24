@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zPain_Relieving_Factor>
+	<Pain_Relieving_Factor>
+		<Pain_Relieving_Factor__Code>1</Pain_Relieving_Factor__Code>
+		<Pain__Relieving__Factor__Name>Eating</Pain__Relieving__Factor__Name>
+	</Pain_Relieving_Factor>
+	<Pain_Relieving_Factor>
+		<Pain_Relieving_Factor__Code>2</Pain_Relieving_Factor__Code>
+		<Pain__Relieving__Factor__Name>Heat</Pain__Relieving__Factor__Name>
+	</Pain_Relieving_Factor>
+	<Pain_Relieving_Factor>
+		<Pain_Relieving_Factor__Code>3</Pain_Relieving_Factor__Code>
+		<Pain__Relieving__Factor__Name>Cold</Pain__Relieving__Factor__Name>
+	</Pain_Relieving_Factor>
+	<Pain_Relieving_Factor>
+		<Pain_Relieving_Factor__Code>4</Pain_Relieving_Factor__Code>
+		<Pain__Relieving__Factor__Name>Quiet</Pain__Relieving__Factor__Name>
+	</Pain_Relieving_Factor>
+	<Pain_Relieving_Factor>
+		<Pain_Relieving_Factor__Code>5</Pain_Relieving_Factor__Code>
+		<Pain__Relieving__Factor__Name>Others</Pain__Relieving__Factor__Name>
+	</Pain_Relieving_Factor>
+</zPain_Relieving_Factor>

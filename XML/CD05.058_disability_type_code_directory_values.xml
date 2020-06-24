@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZDisability_Type>
+<Disability_Type>
+		<Disability_Type__Code>1</Disability_Type__Code>
+		<Name__of__the__Disability__Type>Body  Functions</Name__of__the__Disability__Type>
+		<ICF__Type__Code>b</ICF__Type__Code>
+	</Disability_Type>
+	<Disability_Type>
+		<Disability_Type__Code>2</Disability_Type__Code>
+		<Name__of__the__Disability__Type>Body  Structures</Name__of__the__Disability__Type>
+		<ICF__Type__Code>s</ICF__Type__Code>
+	</Disability_Type>
+	<Disability_Type>
+		<Disability_Type__Code>3</Disability_Type__Code>
+		<Name__of__the__Disability__Type>Activities  and  Participation</Name__of__the__Disability__Type>
+		<ICF__Type__Code>d</ICF__Type__Code>
+	</Disability_Type>
+	<Disability_Type>
+		<Disability_Type__Code>4</Disability_Type__Code>
+		<Name__of__the__Disability__Type>Environmental  Factors</Name__of__the__Disability__Type>
+		<ICF__Type__Code>e</ICF__Type__Code>
+	</Disability_Type>
+</ZDisability_Type>

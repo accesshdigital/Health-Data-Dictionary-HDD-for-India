@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zTest_Result_Interpretation>
+	<Test_Result_Interpretation>
+		<Test_Result_Interpretation_code>1</Test_Result_Interpretation_code>
+		<Test_Result_Interpretation__Description>Normal</Test_Result_Interpretation__Description>
+	</Test_Result_Interpretation>
+	<Test_Result_Interpretation>
+		<Test_Result_Interpretation_code>2</Test_Result_Interpretation_code>
+		<Test_Result_Interpretation__Description>Low</Test_Result_Interpretation__Description>
+	</Test_Result_Interpretation>
+	<Test_Result_Interpretation>
+		<Test_Result_Interpretation_code>3</Test_Result_Interpretation_code>
+		<Test_Result_Interpretation__Description>High</Test_Result_Interpretation__Description>
+	</Test_Result_Interpretation>
+	<Test_Result_Interpretation>
+		<Test_Result_Interpretation_code>4</Test_Result_Interpretation_code>
+		<Test_Result_Interpretation__Description>Positive</Test_Result_Interpretation__Description>
+	</Test_Result_Interpretation>
+	<Test_Result_Interpretation>
+		<Test_Result_Interpretation_code>5</Test_Result_Interpretation_code>
+		<Test_Result_Interpretation__Description>Negative</Test_Result_Interpretation__Description>
+	</Test_Result_Interpretation>
+	<Test_Result_Interpretation>
+		<Test_Result_Interpretation_code>6</Test_Result_Interpretation_code>
+		<Test_Result_Interpretation__Description>Inconclusive</Test_Result_Interpretation__Description>
+	</Test_Result_Interpretation>
+	<Test_Result_Interpretation>
+		<Test_Result_Interpretation_code>7</Test_Result_Interpretation_code>
+		<Test_Result_Interpretation__Description>Abnormal</Test_Result_Interpretation__Description>
+	</Test_Result_Interpretation>
+	<Test_Result_Interpretation>
+		<Test_Result_Interpretation_code>8</Test_Result_Interpretation_code>
+		<Test_Result_Interpretation__Description>Insufficient quantity of specimen/unusable specimen</Test_Result_Interpretation__Description>
+	</Test_Result_Interpretation>
+</zTest_Result_Interpretation>

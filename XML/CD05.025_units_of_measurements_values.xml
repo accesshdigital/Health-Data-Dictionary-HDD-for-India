@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zUnit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>1</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Kilograms</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Kg</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>2</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Grams</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Gram(s)</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>3</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Milligrams</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Mg</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>4</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Meters</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>M</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>5</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Kilometers</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Km</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>6</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Centimeter</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Cm</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>7</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Millimeters</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>mm</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>8</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Year(s)</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Yrs</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>9</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Month(s)</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>mth(s)</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>10</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Week(s)</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Weeks</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>11</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Per 24 hours</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>/24 hrs</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>12</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Per day</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>/day</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>13</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Per hour</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>/ hr</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>14</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Per minute</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>/ min</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>15</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Days</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Days</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>16</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Hours</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Hrs</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>17</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Minutes</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Min</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>18</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Second(s)</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>S</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>19</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Degree Celsius</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>0C</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>20</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Degree Fahrenheit</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>0F</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>21</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Millimeter of mercury</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Mmhg</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>22</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Liter</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>L</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>23</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Milliliter</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Ml</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>24</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Milligram every 6 hours</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>mg/6hrs</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>25</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Milligram every 2 hours</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>mg/ 2hr</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>26</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Milligram per 100 mL</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>mg/100 mL</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>27</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Microgram(s)</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Mc</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>28</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Micromole</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Mm</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>29</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Ratio</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>:</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>30</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Mole</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>M</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>31</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>pH</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Ph</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>32</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Milligram per liter</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>mg/L</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>33</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>Parts Per Million</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>Ppm</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+	<Unit_of_Measurement>
+		<Unit_of_Measurement_Code>34</Unit_of_Measurement_Code>
+		<Unit_of_Measurement_Name>International Units</Unit_of_Measurement_Name>
+		<Unit_of_Measurement_Short_Name>IU</Unit_of_Measurement_Short_Name>
+	</Unit_of_Measurement>
+</zUnit_of_Measurement>

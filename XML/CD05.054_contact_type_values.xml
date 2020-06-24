@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZContact_Type>
+	<Contact_Type>
+		<Contact_Type_Code>1</Contact__Type_Code>
+		<Contact_Type__Description>Immediate  Emergency  Contact</Contact_Type_Description>
+	</Contact_Type>
+	<Contact_Type>
+		<Contact_Type_Code>2</Contact_Type_Code>
+		<Contact_Type_Description>Next  of  kin</Contact_Type_Description>
+	</Contact_Type>
+	<Contact_Type>
+		<Contact_Type_Code>3</Contact__Type_Code>
+		<Contact_Type_Description>Family  relation</Contact_Type_Description>
+	</Contact_Type>
+	<Contact_Type>
+		<Contact_Type_Code>4</Contact__Type_Code>
+		<Contact_Type_Description>Guardian</Contact_Type_Description>
+	</Contact_Type>
+	<Contact_Type>
+		<Contact_Type_Code>5</Contact_Type_Code>
+		<Contact_Type_Description>Agent</Contact_Type_Description>
+	</Contact_Type>
+	<Contact_Type>
+		<Contact_Type_Code>6</Contact_Type_Code>
+		<Contact_Type_Description>Others</Contact_Type_Description>
+	</Contact_Type>
+</ZContact_Type>

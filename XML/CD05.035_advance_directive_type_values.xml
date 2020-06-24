@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Import>
+	<Row>
+		<Advance_Directive_Type_Code>1</Advance_Directive_Type_Code>
+		<Advance_Directive_Type_Description>Patient  Living Will</Advance_Directive_Type_Description>
+	</Row>
+	<Row>
+		<Advance_Directive_Type_Code>2</Advance_Directive_Type_Code>
+		<Advance_Directive_Type_Description>Organ Donation Directive</Advance_Directive_Type_Description>
+	</Row>
+	<Row>
+		<Advance_Directive_Type_Code>3</Advance_Directive_Type_Code>
+		<Advance_Directive_Type_Description>Healthcare Proxy Directive</Advance_Directive_Type_Description>
+	</Row>
+	<Row>
+		<Advance_Directive_Type_Code>4</Advance_Directive_Type_Code>
+		<Advance_Directive_Type_Description>Next of Kin</Advance_Directive_Type_Description>
+	</Row>
+	<Row>
+		<Advance_Directive_Type_Code>5</Advance_Directive_Type_Code>
+		<Advance_Directive_Type_Description>Directive for Body Donation for Research</Advance_Directive_Type_Description>
+	</Row>
+	<Row>
+		<Advance_Directive_Type_Code>6</Advance_Directive_Type_Code>
+		<Advance_Directive_Type_Description>Directive for Body Disposal - cremation/Burial</Advance_Directive_Type_Description>
+	</Row>
+	<Row>
+		<Advance_Directive_Type_Code>7</Advance_Directive_Type_Code>
+		<Advance_Directive_Type_Description>Do not reveal Donor</Advance_Directive_Type_Description>
+	</Row>
+</Import>

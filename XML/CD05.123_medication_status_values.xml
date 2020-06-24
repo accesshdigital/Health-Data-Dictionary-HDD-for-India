@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZMedication_Status>
+	<Medication_Status>
+		<Medication_Status_Code>1</Medication_Status_Code>
+		<Medication_Status_Name>Active</Medication_Status_Name>
+	</Medication_Status>
+	<Medication_Status>
+		<Medication_Status_Code>2</Medication_Status_Code>
+		<Medication_Status_Name>Inactive</Medication_Status_Name>
+	</Medication_Status>
+	<Medication_Status>
+		<Medication_Status_Code>3</Medication_Status_Code>
+		<Medication_Status_Name>Discontinued</Medication_Status_Name>
+	</Medication_Status>
+	<Medication_Status>
+		<Medication_Status_Code>4</Medication_Status_Code>
+		<Medication_Status_Name>Renewed</Medication_Status_Name>
+	</Medication_Status>
+</ZMedication_Status>

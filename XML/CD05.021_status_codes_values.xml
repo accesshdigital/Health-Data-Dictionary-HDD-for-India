@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zStatus>
+	<Status>
+		<Status_Code>1</Status_Code>
+		<Status_Description>Active</Status_Description>
+	</Status>
+	<Status>
+		<Status_Code>2</Status_Code>
+		<Status_Description>Inactive</Status_Description>
+	</Status>
+	<Status>
+		<Status_Code>3</Status_Code>
+		<Status_Description>Resolved</Status_Description>
+	</Status>
+	<Status>
+		<Status_Code>4</Status_Code>
+		<Status_Description>Relapsed</Status_Description>
+	</Status>
+	<Status>
+		<Status_Code>5</Status_Code>
+		<Status_Description>Remitted</Status_Description>
+	</Status>
+</zStatus>

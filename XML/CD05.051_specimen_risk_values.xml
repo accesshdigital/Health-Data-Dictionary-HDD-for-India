@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zSpecimen_Risk>
+	<Specimen_Risk>
+		<Specimen_Risk__Code>1</Specimen_Risk__Code>
+		<Specimen__Risk__Description>Infectious  substances  affecting  humans</Specimen__Risk__Description>
+	</Specimen_Risk>
+	<Specimen_Risk>
+		<Specimen_Risk__Code>2</Specimen_Risk__Code>
+		<Specimen__Risk__Description>Infectious  substances  affecting  animals</Specimen__Risk__Description>
+	</Specimen_Risk>
+	<Specimen_Risk>
+		<Specimen_Risk__Code>3</Specimen_Risk__Code>
+		<Specimen__Risk__Description>Biohazard</Specimen__Risk__Description>
+	</Specimen_Risk>
+	<Specimen_Risk>
+		<Specimen_Risk__Code>4</Specimen_Risk__Code>
+		<Specimen__Risk__Description>Corrosive</Specimen__Risk__Description>
+	</Specimen_Risk>
+	<Specimen_Risk>
+		<Specimen_Risk__Code>5</Specimen_Risk__Code>
+		<Specimen__Risk__Description>Injury  Hazard</Specimen__Risk__Description>
+	</Specimen_Risk>
+	<Specimen_Risk>
+		<Specimen_Risk__Code>6</Specimen_Risk__Code>
+		<Specimen__Risk__Description>Poison</Specimen__Risk__Description>
+	</Specimen_Risk>
+	<Specimen_Risk>
+		<Specimen_Risk__Code>7</Specimen_Risk__Code>
+		<Specimen__Risk__Description>Radioactive</Specimen__Risk__Description>
+	</Specimen_Risk>
+	<Specimen_Risk>
+		<Specimen_Risk__Code>8</Specimen_Risk__Code>
+		<Specimen__Risk__Description>Insufficient  quantity  of  specimen/unusable  specimen</Specimen__Risk__Description>
+	</Specimen_Risk>
+</zSpecimen_Risk>

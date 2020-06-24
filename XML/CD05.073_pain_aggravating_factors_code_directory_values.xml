@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zPain_Aggravating_Factor>
+	<Pain_Aggravating_Factor>
+		<Pain_Aggravating_Factor__Code>1</Pain_Aggravating_Factor__Code>
+		<Pain__Aggravating__Factor__Name>Light</Pain__Aggravating__Factor__Name>
+	</Pain_Aggravating_Factor>
+	<Pain_Aggravating_Factor>
+		<Pain_Aggravating_Factor__Code>2</Pain_Aggravating_Factor__Code>
+		<Pain__Aggravating__Factor__Name>Dark</Pain__Aggravating__Factor__Name>
+	</Pain_Aggravating_Factor>
+	<Pain_Aggravating_Factor>
+		<Pain_Aggravating_Factor__Code>3</Pain_Aggravating_Factor__Code>
+		<Pain__Aggravating__Factor__Name>Movement</Pain__Aggravating__Factor__Name>
+	</Pain_Aggravating_Factor>
+	<Pain_Aggravating_Factor>
+		<Pain_Aggravating_Factor__Code>4</Pain_Aggravating_Factor__Code>
+		<Pain__Aggravating__Factor__Name>Lying  Down</Pain__Aggravating__Factor__Name>
+	</Pain_Aggravating_Factor>
+	<Pain_Aggravating_Factor>
+		<Pain_Aggravating_Factor__Code>5</Pain_Aggravating_Factor__Code>
+		<Pain__Aggravating__Factor__Name>Others</Pain__Aggravating__Factor__Name>
+	</Pain_Aggravating_Factor>
+</zPain_Aggravating_Factor>

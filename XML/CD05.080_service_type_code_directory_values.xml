@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zService__Type>
+	<Service__Type>
+		<Service__Type_Code>1</Service__Type_Code>
+		<Service__Type__Name>Room  Rent</Service__Type__Name>
+		<Reference__Value>CD05.068  Room  Type</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>2</Service__Type_Code>
+		<Service__Type__Name>Nursing</Service__Type__Name>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>3</Service__Type_Code>
+		<Service__Type__Name>Consultation</Service__Type__Name>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>4</Service__Type_Code>
+		<Service__Type__Name>Surgery</Service__Type__Name>
+		<Reference__Value>CD05.043  Procedure  Code</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>5</Service__Type_Code>
+		<Service__Type__Name>Pharmacy</Service__Type__Name>
+		<Reference__Value>CD05.104  Generic  Drug</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>6</Service__Type_Code>
+		<Service__Type__Name>Consumables  and Disposables</Service__Type__Name>
+		<Reference__Value>CD05.104  Generic  Drug</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>7</Service__Type_Code>
+		<Service__Type__Name>OT</Service__Type__Name>
+		<Reference__Value>CD05.043  Procedure  Code</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>8</Service__Type_Code>
+		<Service__Type__Name>Diet</Service__Type__Name>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>9</Service__Type_Code>
+		<Service__Type__Name>Food  &amp;  Beverages</Service__Type__Name>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>10</Service__Type_Code>
+		<Service__Type__Name>House  Keeping  (Laundry)</Service__Type__Name>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>11</Service__Type_Code>
+		<Service__Type__Name>Ambulance</Service__Type__Name>
+		<Reference__Value>CD05.131  Ambulance  Type</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>12</Service__Type_Code>
+		<Service__Type__Name>Telephone  Expenses</Service__Type__Name>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>13</Service__Type_Code>
+		<Service__Type__Name>Administration</Service__Type__Name>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>14</Service__Type_Code>
+		<Service__Type__Name>First-Aids</Service__Type__Name>
+		<Reference__Value>CD05.043  Procedure  Codes</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>15</Service__Type_Code>
+		<Service__Type__Name>Lab  Orders</Service__Type__Name>
+		<Reference__Value>CD05.024  LOINC  Codes</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>16</Service__Type_Code>
+		<Service__Type__Name>Radiology  Orders</Service__Type__Name>
+		<Reference__Value>CD05.043  Procedure  Code</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>17</Service__Type_Code>
+		<Service__Type__Name>Blood  Bank</Service__Type__Name>
+		<Reference__Value>CD05.024  LOINC  Codes</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>18</Service__Type_Code>
+		<Service__Type__Name>Immunization  Orders</Service__Type__Name>
+		<Reference__Value>CD05.036  Immunization Product</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>19</Service__Type_Code>
+		<Service__Type__Name>Package</Service__Type__Name>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>20</Service__Type_Code>
+		<Service__Type__Name>CSSD</Service__Type__Name>
+		<Reference__Value>CD05.092  Sterilization Cycle</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>21</Service__Type_Code>
+		<Service__Type__Name>Procedures</Service__Type__Name>
+		<Reference__Value>CD05.043  Procedure  Code</Reference__Value>
+	</Service__Type>
+	<Service__Type>
+		<Service__Type_Code>22</Service__Type_Code>
+		<Service__Type__Name>Others</Service__Type__Name>
+	</Service__Type>
+</zService__Type>

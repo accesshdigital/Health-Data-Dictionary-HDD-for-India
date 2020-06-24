@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zOT__Type>
+	<OT__Type>
+		<OT__Type_Code>1</OT__Type_Code>
+		<OT__Type__Name>General  Surgery  OT</OT__Type__Name>
+	</OT__Type>
+	<OT__Type>
+		<OT__Type_Code>2</OT__Type_Code>
+		<OT__Type__Name>Neurosurgery  OT</OT__Type__Name>
+	</OT__Type>
+	<OT__Type>
+		<OT__Type_Code>3</OT__Type_Code>
+		<OT__Type__Name>ENT  OT</OT__Type__Name>
+	</OT__Type>
+	<OT__Type>
+		<OT__Type_Code>4</OT__Type_Code>
+		<OT__Type__Name>Orthopedic  OT</OT__Type__Name>
+	</OT__Type>
+	<OT__Type>
+		<OT__Type_Code>5</OT__Type_Code>
+		<OT__Type__Name>Others</OT__Type__Name>
+	</OT__Type>
+</zOT__Type>

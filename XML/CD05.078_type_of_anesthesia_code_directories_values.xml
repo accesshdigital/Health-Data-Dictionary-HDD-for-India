@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zType__of_Anesthesia>
+	<Type__of_Anesthesia>
+		<Type__of_Anesthesia_Code>1</Type__of_Anesthesia_Code>
+		<Type__of__Anesthesia__Name>General</Type__of__Anesthesia__Name>
+	</Type__of_Anesthesia>
+	<Type__of_Anesthesia>
+		<Type__of_Anesthesia_Code>2</Type__of_Anesthesia_Code>
+		<Type__of__Anesthesia__Name>Spinal</Type__of__Anesthesia__Name>
+	</Type__of_Anesthesia>
+	<Type__of_Anesthesia>
+		<Type__of_Anesthesia_Code>3</Type__of_Anesthesia_Code>
+		<Type__of__Anesthesia__Name>Local</Type__of__Anesthesia__Name>
+	</Type__of_Anesthesia>
+</zType__of_Anesthesia>

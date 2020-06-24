@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZAmbulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>A0</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>No  functional  limitations</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>A1</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Ambulates  with  assistive  device</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>A2</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Wheelchair/stretcher  bound</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>A3</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Comatose;  non-responsive</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>A4</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Disoriented</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>A5</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Vision  impaired</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>A6</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Hearing  impaired</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>A7</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Speech  impaired</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>A8</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Non-English  speaking</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>A9</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Functional  level  unknown</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>B1</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Oxygen  therapy</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>B2</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Special  equipment  (tubes,  IVs,  catheters)</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>B3</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Amputee</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>B4</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Mastectomy</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>B5</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Paraplegic</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+	<Ambulatory_Status>
+		<Ambulatory_Status__Code>B6</Ambulatory_Status__Code>
+		<Ambulatory__Status__Name>Pregnant</Ambulatory__Status__Name>
+	</Ambulatory_Status>
+</ZAmbulatory_Status>

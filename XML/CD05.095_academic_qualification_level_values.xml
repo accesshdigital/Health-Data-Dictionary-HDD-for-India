@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZQualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>1</Qualification_Level_Code>
+		<Qualification_Level_Name>Primary</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>2</Qualification_Level_Code>
+		<Qualification_Level_Name>High School</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>3</Qualification_Level_Code>
+		<Qualification_Level_Name>Higher Secondary</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>4</Qualification_Level_Code>
+		<Qualification_Level_Name>Graduation</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>5</Qualification_Level_Code>
+		<Qualification_Level_Name>Post-Graduation</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>6</Qualification_Level_Code>
+		<Qualification_Level_Name>Doctorate</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>7</Qualification_Level_Code>
+		<Qualification_Level_Name>Specialization</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>8</Qualification_Level_Code>
+		<Qualification_Level_Name>Certification</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>9</Qualification_Level_Code>
+		<Qualification_Level_Name>Diploma</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>10</Qualification_Level_Code>
+		<Qualification_Level_Name>PG Diploma</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>11</Qualification_Level_Code>
+		<Qualification_Level_Name>Advance Diploma</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>12</Qualification_Level_Code>
+		<Qualification_Level_Name>Post-Doctoral Fellowship</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>13</Qualification_Level_Code>
+		<Qualification_Level_Name>Fellowship</Qualification_Level_Name>
+	</Qualification_Level>
+	<Qualification_Level>
+		<Qualification_Level_Code>14</Qualification_Level_Code>
+		<Qualification_Level_Name>Dual Degree Program</Qualification_Level_Name>
+	</Qualification_Level>
+</zQualification_Level>

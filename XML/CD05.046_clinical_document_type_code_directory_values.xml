@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZClinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>1</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Initial Assessment</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>2</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Admission Note</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>3</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Progress Notes – subjective, objective, assessment, protocol</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>4</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Process Notes - Psychotherapy</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>5</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Past Medical History</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>6</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Personal History</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>7</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Past Surgical History</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>8</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Family History</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>9</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Medication History</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>10</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Immunization History</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>11</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Social History</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>12</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Menstrual and Obstetric History</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>13</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Past Clinical Inferences</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>14</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Past Lab Results</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>15</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Past Radiology Results</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>16</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Past Orders</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>17</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Discharge Summary</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>18</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Clinical note</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>19</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Birth certificate</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>20</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Death certificate</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>21</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Prescription Note</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>22</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Referral Summary</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>23</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Nursing Notes</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>24</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Surgery Notes</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>25</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Preoperative Notes</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>26</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Postoperative Notes</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>27</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>PAC Notes</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>28</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Anesthesia Notes</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>29</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Care Plan</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>30</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Procedure Summary</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>31</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Transfer Summary</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+	<Clinical_Document_Type>
+		<Clinical_Document_Type_Code>32</Clinical_Document_Type_Code>
+		<Clinical_Document_Type_Description>Others</Clinical_Document_Type_Description>
+	</Clinical_Document_Type>
+</ZClinical_Document_Type>

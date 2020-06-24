@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zPriority__Type>
+	<Priority__Type>
+		<Priority__Type_Code>1</Priority__Type_Code>
+		<Priority__Type__Description>Routine</Priority__Type__Description>
+	</Priority__Type>
+	<Priority__Type>
+		<Priority__Type_Code>2</Priority__Type_Code>
+		<Priority__Type__Description>Expedited</Priority__Type__Description>
+	</Priority__Type>
+	<Priority__Type>
+		<Priority__Type_Code>3</Priority__Type_Code>
+		<Priority__Type__Description>Urgent</Priority__Type__Description>
+	</Priority__Type>
+	<Priority__Type>
+		<Priority__Type_Code>4</Priority__Type_Code>
+		<Priority__Type__Description>Stat</Priority__Type__Description>
+	</Priority__Type>
+</zPriority__Type>

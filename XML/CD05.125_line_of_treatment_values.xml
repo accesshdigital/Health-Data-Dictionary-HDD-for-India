@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZLine_of_Treatment>
+	<Line_of_Treatment>
+		<Line_of_Treatment_Code>1</Line_of_Treatment_Code>
+		<Line_of_Treatment_Name>Medical Management</Line_of_Treatment_Name>
+	</Line_of_Treatment>
+	<Line_of_Treatment>
+		<Line_of_Treatment_Code>2</Line_of_Treatment_Code>
+		<Line_of_Treatment_Name>Surgical Management</Line_of_Treatment_Name>
+	</Line_of_Treatment>
+	<Line_of_Treatment>
+		<Line_of_Treatment_Code>3</Line_of_Treatment_Code>
+		<Line_of_Treatment_Name>Intensive Care</Line_of_Treatment_Name>
+	</Line_of_Treatment>
+	<Line_of_Treatment>
+		<Line_of_Treatment_Code>4</Line_of_Treatment_Code>
+		<Line_of_Treatment_Name>Non-allopathic Treatment</Line_of_Treatment_Name>
+	</Line_of_Treatment>
+	<Line_of_Treatment>
+		<Line_of_Treatment_Code>5</Line_of_Treatment_Code>
+		<Line_of_Treatment_Name>First Aid</Line_of_Treatment_Name>
+	</Line_of_Treatment>
+	<Line_of_Treatment>
+		<Line_of_Treatment_Code>6</Line_of_Treatment_Code>
+		<Line_of_Treatment_Name>Resuscitation</Line_of_Treatment_Name>
+	</Line_of_Treatment>
+	<Line_of_Treatment>
+		<Line_of_Treatment_Code>7</Line_of_Treatment_Code>
+		<Line_of_Treatment_Name>Others</Line_of_Treatment_Name>
+	</Line_of_Treatment>
+</ZLine_of_Treatment>

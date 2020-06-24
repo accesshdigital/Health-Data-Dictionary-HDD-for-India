@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zTest_Result_Category>
+	<Test_Result_Category>
+		<Test_Result_Category_Code>1</Test_Result_Category_Code>
+		<Description_of_Result_Category>Vital Signs</Description_of_Result_Category>
+	</Test_Result_Category>
+	<Test_Result_Category>
+		<Test_Result_Category_Code>2</Test_Result_Category_Code>
+		<Description_of_Result_Category>Laboratory Results</Description_of_Result_Category>
+	</Test_Result_Category>
+	<Test_Result_Category>
+		<Test_Result_Category_Code>3</Test_Result_Category_Code>
+		<Description_of_Result_Category>Radiology Results</Description_of_Result_Category>
+	</Test_Result_Category>
+	<Test_Result_Category>
+		<Test_Result_Category_Code>4</Test_Result_Category_Code>
+		<Description_of_Result_Category>Blood Bank Screening</Description_of_Result_Category>
+	</Test_Result_Category>
+</zTest_Result_Category>

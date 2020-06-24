@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZBlood_Component>
+	<Blood_Component>
+		<Blood_Component_Code>1</Blood_Component_Code>
+		<Blood_Component_Name>Packed RBCs</Blood_Component_Name>
+	</Blood_Component>
+	<Blood_Component>
+		<Blood_Component_Code>2</Blood_Component_Code>
+		<Blood_Component_Name>Plasma</Blood_Component_Name>
+	</Blood_Component>
+	<Blood_Component>
+		<Blood_Component_Code>3</Blood_Component_Code>
+		<Blood_Component_Name>Platelets</Blood_Component_Name>
+	</Blood_Component>
+	<Blood_Component>
+		<Blood_Component_Code>4</Blood_Component_Code>
+		<Blood_Component_Name>Fresh frozen Plasma (FPP)</Blood_Component_Name>
+	</Blood_Component>
+</ZBlood_Component>

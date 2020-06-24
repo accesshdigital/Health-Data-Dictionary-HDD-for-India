@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZBed__Status>
+	<Bed__Status>
+		<Bed__Status_Code>1</Bed__Status_Code>
+		<Bed__Status__Name>Blocked</Bed__Status__Name>
+	</Bed__Status>
+	<Bed__Status>
+		<Bed__Status_Code>2</Bed__Status_Code>
+		<Bed__Status__Name>House  Keeping</Bed__Status__Name>
+	</Bed__Status>
+	<Bed__Status>
+		<Bed__Status_Code>3</Bed__Status_Code>
+		<Bed__Status__Name>Under  Repair</Bed__Status__Name>
+	</Bed__Status>
+	<Bed__Status>
+		<Bed__Status_Code>4</Bed__Status_Code>
+		<Bed__Status__Name>Occupied</Bed__Status__Name>
+	</Bed__Status>
+	<Bed__Status>
+		<Bed__Status_Code>5</Bed__Status_Code>
+		<Bed__Status__Name>Vacant</Bed__Status__Name>
+	</Bed__Status>
+	<Bed__Status>
+		<Bed__Status_Code>6</Bed__Status_Code>
+		<Bed__Status__Name>Others</Bed__Status__Name>
+	</Bed__Status>
+</ZBed__Status>

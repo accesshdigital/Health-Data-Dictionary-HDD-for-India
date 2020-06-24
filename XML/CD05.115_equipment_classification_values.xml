@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZEquipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>AOT</Equipment_Classification_Code>
+		<Equipment_Classification_Name>Anesthetic and Operation Theatre Equipment &amp; Instrument</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>CVS</Equipment_Classification_Code>
+		<Equipment_Classification_Name>Cardio Vascular Surgery Equipment &amp; Instrument</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>DEI</Equipment_Classification_Code>
+		<Equipment_Classification_Name>Dental Equipment &amp; Instrument</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>ENT</Equipment_Classification_Code>
+		<Equipment_Classification_Name>ENT Equipment &amp; Instrument</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>FWP</Equipment_Classification_Code>
+		<Equipment_Classification_Name>Family welfare and planning instruments</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>GIS</Equipment_Classification_Code>
+		<Equipment_Classification_Name>General Items &amp; Hospital Supplies</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>GSI</Equipment_Classification_Code>
+		<Equipment_Classification_Name>List of Essential General Surgery Instruments</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>GYN</Equipment_Classification_Code>
+		<Equipment_Classification_Name>Gynecological Equipment &amp; Instrument</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>HFS</Equipment_Classification_Code>
+		<Equipment_Classification_Name>Hospital Furniture and other Hospital Supplies</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>LEA</Equipment_Classification_Code>
+		<Equipment_Classification_Name>Laboratory Equipment &amp; Instrument</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>OEI</Equipment_Classification_Code>
+		<Equipment_Classification_Name>Ophthalmology Equipment &amp; Instrument</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>OPE</Equipment_Classification_Code>
+		<Equipment_Classification_Name>Orthopedic &amp; Physiotherapy Equipment &amp; Instrument</Equipment_Classification_Name>
+	</Equipment_Classification>
+	<Equipment_Classification>
+		<Equipment_Classification_Code>RXY</Equipment_Classification_Code>
+		<Equipment_Classification_Name>Radiology X-Rays and Accessories and film Developer etc</Equipment_Classification_Name>
+	</Equipment_Classification>
+</ZEquipment_Classification>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zProcedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>1</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Administrative procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>2</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Blood bank procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>3</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Community health procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>4</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Determination of information related to transfusion (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>5</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Environmental care procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>6</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>General treatment (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>7</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Laboratory procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>8</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Nuclear medicine procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>9</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Obstetric procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>10</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Outpatient procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>11</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Patient encounter procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>12</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Postoperative procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>13</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Preoperative procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>14</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure by intent (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>15</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure by method (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>16</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure by priority (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>17</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure by site (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>18</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure categorized by device involved (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>19</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure in coronary care unit (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>20</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure on ganglion cyst (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>21</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure on wound (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>22</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure related to anesthesia and sedation (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>23</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure related to breastfeeding (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>24</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure with a clinical finding focus (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>25</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedure with a procedure focus (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>26</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedures relating to eating and drinking (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>27</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Procedures relating to mobility (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>28</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Promotion (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>29</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Provider-specific procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>30</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Regimes and therapies (regime/therapy)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>31</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Social service procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+	<Procedure_x000a_Type>
+		<Procedure_x000a_Type_Code>32</Procedure_x000a_Type_Code>
+		<Procedure_Type_Description>Staff related procedure (procedure)</Procedure_Type_Description>
+	</Procedure_x000a_Type>
+</zProcedure_x000a_Type>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZImmunization_Refusal_Reason>
+	<Immunization_Refusal_Reason>
+		<Immunization_Refusal_Reason_Code>1</Immunization_Refusal_Reason_Code>
+		<Description_of_Refusal_Reason>Religious Belief</Description_of_Refusal_Reason>
+	</Immunization_Refusal_Reason>
+	<Immunization_Refusal_Reason>
+		<Immunization_Refusal_Reason_Code>2</Immunization_Refusal_Reason_Code>
+		<Description_of_Refusal_Reason>Adverse Reaction</Description_of_Refusal_Reason>
+	</Immunization_Refusal_Reason>
+	<Immunization_Refusal_Reason>
+		<Immunization_Refusal_Reason_Code>3</Immunization_Refusal_Reason_Code>
+		<Description_of_Refusal_Reason>Care Giver Refused</Description_of_Refusal_Reason>
+	</Immunization_Refusal_Reason>
+	<Immunization_Refusal_Reason>
+		<Immunization_Refusal_Reason_Code>4</Immunization_Refusal_Reason_Code>
+		<Description_of_Refusal_Reason>No Reason</Description_of_Refusal_Reason>
+	</Immunization_Refusal_Reason>
+</ZImmunization_Refusal_Reason>

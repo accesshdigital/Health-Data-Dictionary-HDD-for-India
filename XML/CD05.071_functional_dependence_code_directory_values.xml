@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZFunctional_Dependence>
+	<Functional_Dependence>
+		<Functional_Dependence_Code>1</Functional_Dependence_Code>
+		<Functional__Dependence__Name>Not  Applicable</Functional__Dependence__Name>
+	</Functional_Dependence>
+	<Functional_Dependence>
+		<Functional_Dependence_Code>2</Functional_Dependence_Code>
+		<Functional__Dependence__Name>25%  of  Care</Functional__Dependence__Name>
+	</Functional_Dependence>
+	<Functional_Dependence>
+		<Functional_Dependence_Code>3</Functional_Dependence_Code>
+		<Functional__Dependence__Name>50%  of  Care</Functional__Dependence__Name>
+	</Functional_Dependence>
+	<Functional_Dependence>
+		<Functional_Dependence_Code>4</Functional_Dependence_Code>
+		<Functional__Dependence__Name>75%  of  Care</Functional__Dependence__Name>
+	</Functional_Dependence>
+	<Functional_Dependence>
+		<Functional_Dependence_Code>5</Functional_Dependence_Code>
+		<Functional__Dependence__Name>100%  of  Care</Functional__Dependence__Name>
+	</Functional_Dependence>
+</ZFunctional_Dependence>

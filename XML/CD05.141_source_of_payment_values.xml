@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zsource_of_payment>
+	<source_of_payment>
+		<source_of_payment_code>01</source_of_payment_code>
+		<source_of_payment_description>Out of Pocket Expenditure</source_of_payment_description>
+	</source_of_payment>
+	<source_of_payment>
+		<source_of_payment_code>02</source_of_payment_code>
+		<source_of_payment_description>Employer Payments</source_of_payment_description>
+	</source_of_payment>
+	<source_of_payment>
+		<source_of_payment_code>03</source_of_payment_code>
+		<source_of_payment_description>Private Insurance</source_of_payment_description>
+	</source_of_payment>
+	<source_of_payment>
+		<source_of_payment_code>04</source_of_payment_code>
+		<source_of_payment_description>Government Reimbursement to Provider</source_of_payment_description>
+	</source_of_payment>
+	<source_of_payment>
+		<source_of_payment_code>05</source_of_payment_code>
+		<source_of_payment_description>Government Reimbursement to Patient</source_of_payment_description>
+	</source_of_payment>
+	<source_of_payment>
+		<source_of_payment_code>06</source_of_payment_code>
+		<source_of_payment_description>Government Budget</source_of_payment_description>
+	</source_of_payment>
+	<source_of_payment>
+		<source_of_payment_code>07</source_of_payment_code>
+		<source_of_payment_description>Public Sector Insurance</source_of_payment_description>
+	</source_of_payment>
+	<source_of_payment>
+		<source_of_payment_code>08</source_of_payment_code>
+		<source_of_payment_description>Others</source_of_payment_description>
+	</source_of_payment>
+</zsource_of_payment>

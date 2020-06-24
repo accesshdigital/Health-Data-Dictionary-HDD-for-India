@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZAmbulance_Type>
+	<Ambulance_Type>
+		<Ambulance_Type_Code>1</Ambulance_Type_Code>
+		<Ambulance_Type_Name>Two-wheeler Patient Transport System</Ambulance_Type_Name>
+	</Ambulance_Type>
+	<Ambulance_Type>
+		<Ambulance_Type_Code>2</Ambulance_Type_Code>
+		<Ambulance_Type_Name>Four Wheeler Patient Transport System</Ambulance_Type_Name>
+	</Ambulance_Type>
+	<Ambulance_Type>
+		<Ambulance_Type_Code>3</Ambulance_Type_Code>
+		<Ambulance_Type_Name>Four wheeler Basic Life Support System</Ambulance_Type_Name>
+	</Ambulance_Type>
+	<Ambulance_Type>
+		<Ambulance_Type_Code>4</Ambulance_Type_Code>
+		<Ambulance_Type_Name>Four Wheeler Advance Life Support System</Ambulance_Type_Name>
+	</Ambulance_Type>
+	<Ambulance_Type>
+		<Ambulance_Type_Code>5</Ambulance_Type_Code>
+		<Ambulance_Type_Name>Boat Ambulance- BLS</Ambulance_Type_Name>
+	</Ambulance_Type>
+	<Ambulance_Type>
+		<Ambulance_Type_Code>6</Ambulance_Type_Code>
+		<Ambulance_Type_Name>Boat Ambulance- ALS</Ambulance_Type_Name>
+	</Ambulance_Type>
+	<Ambulance_Type>
+		<Ambulance_Type_Code>7</Ambulance_Type_Code>
+		<Ambulance_Type_Name>Air Ambulance- BLS</Ambulance_Type_Name>
+	</Ambulance_Type>
+	<Ambulance_Type>
+		<Ambulance_Type_Code>8</Ambulance_Type_Code>
+		<Ambulance_Type_Name>Air Ambulance-ALS</Ambulance_Type_Name>
+	</Ambulance_Type>
+	<Ambulance_Type>
+		<Ambulance_Type_Code>9</Ambulance_Type_Code>
+		<Ambulance_Type_Name>Train Ambulance</Ambulance_Type_Name>
+	</Ambulance_Type>
+	<Ambulance_Type>
+		<Ambulance_Type_Code>10</Ambulance_Type_Code>
+		<Ambulance_Type_Name>Others</Ambulance_Type_Name>
+	</Ambulance_Type>
+</ZAmbulance_Type>

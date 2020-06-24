@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZNon-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>01</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Disposable Hypodermic Syringes</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>02</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Disposable Hypodermic Needles</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>03</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Disposable Perfusion Sets</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>04</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>In vitro Diagnostic Devices for HIV, HBsAg and HCV</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>05</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Cardiac Stents</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>06</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Drug Eluting Stents</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>07</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Catheters</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>08</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Intraocular Lenses</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>09</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>I.V. Cannulae</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>10</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Bone Cements</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>11</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Heart Valves</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>12</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Scalp Vein Set</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>13</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Orthopedic Implants</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>14</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Internal Prosthetic Replacements</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>15</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Blood Grouping Serum used for cross matching</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>16</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Ligatures</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>17</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Intrauterine Devices</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>18</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Tubal Rings</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>19</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Surgical Dressings</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>20</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Umbilical Tapes</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>21</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Cotton</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>22</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Bandages</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+	<Non-Drug_Item>
+		<Non-Drug_Item_Code>23</Non-Drug_Item_Code>
+		<Non-Drug_Item_Name>Others</Non-Drug_Item_Name>
+	</Non-Drug_Item>
+</ZNon-Drug_Item>

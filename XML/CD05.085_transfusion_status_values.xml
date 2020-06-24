@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zTransfusion_Status>
+	<Transfusion_Status>
+		<Transfusion_Status_Code>1</Transfusion_Status_Code>
+		<Transfusion_Status_Name>Returned</Transfusion_Status_Name>
+	</Transfusion_Status>
+	<Transfusion_Status>
+		<Transfusion_Status_Code>2</Transfusion_Status_Code>
+		<Transfusion_Status_Name>Unused</Transfusion_Status_Name>
+	</Transfusion_Status>
+	<Transfusion_Status>
+		<Transfusion_Status_Code>3</Transfusion_Status_Code>
+		<Transfusion_Status_Name>Wasted</Transfusion_Status_Name>
+	</Transfusion_Status>
+	<Transfusion_Status>
+		<Transfusion_Status_Code>4</Transfusion_Status_Code>
+		<Transfusion_Status_Name>Transfused</Transfusion_Status_Name>
+	</Transfusion_Status>
+	<Transfusion_Status>
+		<Transfusion_Status_Code>5</Transfusion_Status_Code>
+		<Transfusion_Status_Name>Transfused with Adverse Reaction</Transfusion_Status_Name>
+	</Transfusion_Status>
+</zTransfusion_Status>

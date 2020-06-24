@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZMaintenance_Cycle>
+	<Maintenance_Cycle>
+		<Maintenance_Cycle_Code>1</Maintenance_Cycle_Code>
+		<Maintenance_Cycle_Name>Sharpening</Maintenance_Cycle_Name>
+	</Maintenance_Cycle>
+	<Maintenance_Cycle>
+		<Maintenance_Cycle_Code>2</Maintenance_Cycle_Code>
+		<Maintenance_Cycle_Name>Polishing</Maintenance_Cycle_Name>
+	</Maintenance_Cycle>
+</ZMaintenance_Cycle>

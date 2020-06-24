@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zScheduling_Status>
+	<Scheduling_Status>
+		<Scheduling_Status__Code>1</Scheduling_Status__Code>
+		<Scheduling__Status__Description>Scheduled</Scheduling__Status__Description>
+	</Scheduling_Status>
+	<Scheduling_Status>
+		<Scheduling_Status__Code>2</Scheduling_Status__Code>
+		<Scheduling__Status__Description>Postponed</Scheduling__Status__Description>
+	</Scheduling_Status>
+	<Scheduling_Status>
+		<Scheduling_Status__Code>3</Scheduling_Status__Code>
+		<Scheduling__Status__Description>Not  available</Scheduling__Status__Description>
+	</Scheduling_Status>
+</zScheduling_Status>

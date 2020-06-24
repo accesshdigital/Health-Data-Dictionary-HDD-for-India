@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZDonation_Type>
+	<Donation_Type>
+		<Donation_Type_Code>1</Donation_Type_Code>
+		<Donation_Type_Name>Voluntary through Camp</Donation_Type_Name>
+	</Donation_Type>
+	<Donation_Type>
+		<Donation_Type_Code>2</Donation_Type_Code>
+		<Donation_Type_Name>Voluntary</Donation_Type_Name>
+	</Donation_Type>
+	<Donation_Type>
+		<Donation_Type_Code>3</Donation_Type_Code>
+		<Donation_Type_Name>Replacement</Donation_Type_Name>
+	</Donation_Type>
+</ZDonation_Type>

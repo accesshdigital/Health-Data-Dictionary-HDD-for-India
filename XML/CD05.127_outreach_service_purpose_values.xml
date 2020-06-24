@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zOutreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>1</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Follow-up care</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>2</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Health Education</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>3</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Immunization</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>4</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Medication Administration</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>5</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Lab Sample Collection</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>6</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Counseling</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>7</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Delivery</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>8</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>New Born Care</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>9</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Routine Visit</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>10</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Nutritional Support</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>11</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Maternity Care</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>12</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Screening</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>13</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>GOutreach_Service_Purposeth Measurement</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>14</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Pain Management</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>15</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Surgery</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>16</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>First Aid</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>17</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Rehabilitation</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+	<Outreach_Service_Purpose>
+		<Outreach_Service_Purpose_Code>18</Outreach_Service_Purpose_Code>
+		<Outreach_Service_Purpose_Name>Others</Outreach_Service_Purpose_Name>
+	</Outreach_Service_Purpose>
+</zOutreach_Service_Purpose>

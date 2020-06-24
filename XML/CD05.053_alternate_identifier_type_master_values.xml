@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZAlternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>1</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>Bar  Code</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>2</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>RFID</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>3</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>Smart  Card</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>4</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>Magnetic  Stripe  Card</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>5</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>NFC  Card  (Near  Field  Communication)</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>6</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>Digital  Signature</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>7</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>Blackberry  Code</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>8</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>Biometric</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>9</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>MAC  Address</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>10</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>IP  Address</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>11</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>IMEI  Number</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+	<Alternate_Identifier_Type>
+		<Alternate_Identifier_Type__Code>12</Alternate_Identifier_Type__Code>
+		<Alternate__Identifier__Type__Description>Others</Alternate__Identifier__Type__Description>
+	</Alternate_Identifier_Type>
+</ZAlternate_Identifier_Type>

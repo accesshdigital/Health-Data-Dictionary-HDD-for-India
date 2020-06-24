@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ZEmployee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>1</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade I</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>2</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade II</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>3</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade III</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>4</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade IV</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>5</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade V</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>6</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade VI</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>7</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade VII</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>8</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade VIII</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>9</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade IX</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>10</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade X</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>11</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade XI</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>12</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade XII</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>13</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade XIII</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>14</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade XIV</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>15</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade XV</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>16</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade XVI</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>17</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade XVII</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>18</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade XVIII</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>19</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade XIX</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>20</Employee_Grade_Code>
+		<Employee_Grade_Name>Grade XX</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>21</Employee_Grade_Code>
+		<Employee_Grade_Name>Apex Scale</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>22</Employee_Grade_Code>
+		<Employee_Grade_Name>Cab. Sec or Equivalent</Employee_Grade_Name>
+	</Employee_Grade>
+	<Employee_Grade>
+		<Employee_Grade_Code>23</Employee_Grade_Code>
+		<Employee_Grade_Name>Others</Employee_Grade_Name>
+	</Employee_Grade>
+</ZEmployee_Grade>

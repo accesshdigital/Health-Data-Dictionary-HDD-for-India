@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zRegistration_Authority>
+	<Registration_Authority>
+		<Registration_Authority_Code>01</Registration_Authority_Code>
+		<Registration_Authority_Type_Name>Dental Council India</Registration_Authority_Type_Name>
+	</Registration_Authority>
+	<Registration_Authority>
+		<Registration_Authority_Code>02</Registration_Authority_Code>
+		<Registration_Authority_Type_Name>Medical Council of India</Registration_Authority_Type_Name>
+	</Registration_Authority>
+	<Registration_Authority>
+		<Registration_Authority_Code>03</Registration_Authority_Code>
+		<Registration_Authority_Type_Name>Nursing Council of India</Registration_Authority_Type_Name>
+	</Registration_Authority>
+	<Registration_Authority>
+		<Registration_Authority_Code>04</Registration_Authority_Code>
+		<Registration_Authority_Type_Name>Pharmacy Council of India</Registration_Authority_Type_Name>
+	</Registration_Authority>
+	<Registration_Authority>
+		<Registration_Authority_Code>05</Registration_Authority_Code>
+		<Registration_Authority_Type_Name>Central Council of Indian Medicine</Registration_Authority_Type_Name>
+	</Registration_Authority>
+	<Registration_Authority>
+		<Registration_Authority_Code>06</Registration_Authority_Code>
+		<Registration_Authority_Type_Name>Central Council of Homeopathy</Registration_Authority_Type_Name>
+	</Registration_Authority>
+	<Registration_Authority>
+		<Registration_Authority_Code>07</Registration_Authority_Code>
+		<Registration_Authority_Type_Name>State Council/Board</Registration_Authority_Type_Name>
+	</Registration_Authority>
+	<Registration_Authority>
+		<Registration_Authority_Code>08</Registration_Authority_Code>
+		<Registration_Authority_Type_Name>Others</Registration_Authority_Type_Name>
+	</Registration_Authority>
+</zRegistration_Authority>
