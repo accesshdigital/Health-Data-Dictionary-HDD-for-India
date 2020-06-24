@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Order_ID">
+<!-- MDDS code id (05.025.0004)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="12"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

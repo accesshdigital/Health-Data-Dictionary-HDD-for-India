@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name= "Specimen_collection_Date">
+<!-- MDDS Code id (05.021.0015)-->
+<xs:complexType>
+<xs:sequence>
+<xs:element name="Day" type="xs:integer" maxOccurs="2"/>
+<xs:element name="Month" type="xs:integer" maxOccurs="2"/>
+<xs:element name="Year" type="xs:integer" maxOccurs="4"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:schema>

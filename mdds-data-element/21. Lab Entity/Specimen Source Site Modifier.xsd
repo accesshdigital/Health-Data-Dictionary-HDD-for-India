@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Specimen_Source_Site_Modifier">
+<!-- MDDS code id (05.021.0013)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="99"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
