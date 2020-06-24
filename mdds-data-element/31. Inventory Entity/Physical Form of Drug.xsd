@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Physical_Form_of_Drug">
+<!-- MDDS code id (05.031.0010)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="6"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

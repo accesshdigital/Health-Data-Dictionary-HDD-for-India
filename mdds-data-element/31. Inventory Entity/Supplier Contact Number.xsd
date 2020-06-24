@@ -1,0 +1,16 @@
+<?xml version = "1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Supplier_Contact_Number">
+<!-- MDDS Code id (05.031.0030)-->
+<xs:simpleType name="Landline_Number">
+     <xs:restriction base= "xs:string">
+     <xs:totalDigits value= "8"/>
+     </xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="Mobile_Number">
+     <xs:restriction base= "xs:string">
+     <xs:totalDigits value= "10"/>
+     </xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

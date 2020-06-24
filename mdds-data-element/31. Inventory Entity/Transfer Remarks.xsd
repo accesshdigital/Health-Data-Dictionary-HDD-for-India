@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Transfer_Remarks">
+<!-- MDDS code id (05.031.0130)-->
+<xs:simpleType>
+<xs:restriction base= "xs:string">
+<xs:maxLength value="254"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>

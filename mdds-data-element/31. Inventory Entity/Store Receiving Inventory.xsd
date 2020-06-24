@@ -1,0 +1,11 @@
+<?xml version = "1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Store_Receiving_Inventory">
+<!-- MDDS Code id (05.031.0095)-->
+<xs:simpleType>
+<xs:restriction base= "xs:integer">
+<xs:totalDigits value= "10"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:schema>
