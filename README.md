@@ -1,0 +1,53 @@
+
+
+# Meta Data & Data Standards for Health Domain
+
+Presently most of the e-Governance applications are operating in silos. For a successful e-Governance system, there is a need for seamless sharing and exchange of data among departmental applications. Semantic interoperability among e-Governance applications requires that precise meaning of exchanged information is understood across applications. There is a need for commonly accepted data definitions for the various elements used in Governance systems. Hence, standardization of data elements is the prerequisite for the systematic development of e-Governance applications.
+
+The Health Domain MDDS Committee is an initiative, constituted on Sept 2012, under the chairmanship of Joint Secretary (Policy) with the senior technical officer of NIC as its member secretary. The secretariat is located in the National Health System Resource Centre (NHSRC), entrusted with the task of extensive stakeholder consultations and recruiting appropriate technical agencies to support this work. 
+
+The adoption of Metadata and Data Standards across healthcare IT systems will enable easier, efficient exchange and processing of data. It will also remove ambiguities and inconsistencies in the use of data. Once the MDDS standards are adopted by all e-Governance applications in healthcare, the interoperability would be easier.  
+
+**The importance of Inter-operability realized:**
+
+
+
+### In Public Systems:
+*   **To reduce workload in data recording and entry**
+*   **To support decentralized, horizontally integrated decision making**
+*   **To improve the quality and use of information**
+*   **To allow the rapid growth of new systems and uses of IT**
+### For Providers AND  Patients
+*   **To improve the quality of care**
+*   **To enable continuity of care**
+### For Insurance Payers
+*   **Access to patient records for claims settlements**
+
+## Building Blocks of MDDS Health Domain
+
+*   The health domain landscape are broadly divided into **_39 Entities_**. 
+*   These entities are described and qualified with the help of **_1077 Data Elements_**.
+*   Values of Data Elements are categorized under **_Data Elements (735), Values List (201) & Code Directories (141)_**
+*   Meta Data are constructed to define **_each Data Element and Code Directory_** to establish Interoperability Standards
+*   Interoperability Standards
+*   Reference Architecture for Interoperability 
+
+## DATA ELEMENTS
+
+Defining Minimum Data Elements as standards is difficult in Health Domain. Minimum Data needs of the Primary Care Setting would be different from the Secondary and Tertiary Care Settings. The Health Domain MDDS Committee provides a list of data elements that will serve as the common data elements [CDE] for any new application being developed in Health domain.
+
+Approximately 1000 data elements are identified for health domain and are grouped under logical entities such as Patient, Examination, Diagnosis, Mortality, Pharmacy etc. Grouping of data elements under these entities would make MDDS better manageable and easier to use. 
+
+In case of certain data elements, the values and format are defined in advance and needs to be mandatorily used uniformly within/across domain applications. For such data elements, Code Directories are defined.
+
+The basic principle of data modelling is the combination of an Object class and an Attribute to form a more specific ‘data element concept’. For example- the abstract concept ‘Frequency of Medication’ is combined with the object class ‘Medication Order’ and is associated with Attribute ‘Frequency’ to form the data element concept ‘Medication Frequency’.
+ 
+
+The standard must select the most appropriate keyword as the representation of the concept. In the above case the Object: is ‘Medication Order’ and the Attribute: is ‘Frequency’
+
+![diagram](docs/diagram.png)
+
+
+## CODE DIRECTORIES
+
+Code directories are the master data for the Country. When there are more than 10 value sets for an entity, code directories have been created.  The code directories contain the clean version of data reference code or value set relevant for use in Indian healthcare (provider and payer domain). All information systems will maintain master tables populated with data sets published as code directories. Again, for such data elements, the values and format are defined in advance and need to be mandatorily used uniformly within/across domain applications.
